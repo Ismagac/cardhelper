@@ -1,0 +1,3086 @@
+               Diseños de investigación
+Tema 1
+Introducción a la ciencia empírica
+La ciencia intenta establecer reglas generales sobre cómo funciona la naturaleza,
+basándose en un conocimiento riguroso y sistemático. Para considerar que una
+disciplina es científica, como ocurre con la psicología, es necesario preguntarse qué es
+ciencia, qué no lo es y cómo se obtiene el conocimiento. En este contexto, la ciencia
+avanza creando teorías que sean falsables, es decir, teorías que formulen afirmaciones
+comprobables empíricamente y que puedan demostrarse falsas si los datos así lo
+indican.
+
+La psicología es una ciencia empírica porque su conocimiento procede de la
+observación del mundo real, a diferencia de las ciencias formales como las
+matemáticas, que no dependen de la experiencia. El objetivo fundamental de la ciencia
+es encontrar relaciones o leyes que expliquen el comportamiento de fenómenos
+observables y, a partir de ellas, proponer explicaciones en forma de teorías e hipótesis.
+Estas explicaciones deben aspirar siempre a la mayor generalidad posible.
+
+En el ámbito científico, solo se aceptan teorías que permitan generar hipótesis
+falsables, es decir, hipótesis cuya validez pueda comprobarse analizando datos
+empíricos obtenidos de la realidad observable. Además, existe una condición
+imprescindible: la replicabilidad, lo que significa que cualquier investigador debe poder
+reproducir el procedimiento y obtener resultados similares.
+
+En resumen, la psicología es una ciencia empírica porque estudia fenómenos mediante
+la observación del mundo real, busca relaciones entre esos fenómenos y ofrece
+explicaciones generales, formuladas de manera falsable, y utiliza métodos que
+garantizan la replicabilidad de los resultados.
+
+
+
+
+                                                                                        1
+¿Qué es investigar?
+Investigar es un proceso que utiliza el método científico para obtener información
+relevante y fiable, con el objetivo de comprender, comprobar, corregir o aplicar
+conocimientos. El investigador busca acercarse a la verdad, descubriendo hechos y
+comprobando argumentos de la manera más objetiva posible.
+
+La investigación también implica crear nuevo conocimiento, lo que requiere intuición,
+imaginación y una mente abierta para explorar distintos caminos que puedan llevar a
+una respuesta. Sin embargo, esa creatividad solo es útil cuando se encauza mediante un
+proceso riguroso de análisis, organización de la información y evaluación crítica de
+las ideas, lo que permite obtener conocimiento científico y no simples opiniones.
+
+En esencia, investigar es una búsqueda intencionada de conocimientos o soluciones a
+problemas científicos. En este proceso, el método científico marca el camino que debe
+seguirse, mientras que las técnicas indican cómo recorrerlo, siendo precisamente este
+uso del método científico lo que distingue a la investigación científica de otras formas
+de indagación.
+
+El conocimiento científico
+Es una forma específica de entender y estudiar la realidad. Se caracteriza por seguir un
+modo ordenado y racional de plantear preguntas, investigar y formular respuestas, lo
+que permite al investigador trabajar de manera sistemática. Puede entenderse como el
+conjunto de información que la humanidad ha ido acumulando sobre la naturaleza y
+sobre sí misma a lo largo del tiempo.
+
+A diferencia de otros tipos de conocimiento como el sentido común, la religión o la
+magia, el conocimiento científico se define por sus objetivos y por la forma en que
+intenta alcanzarlos. Su objetivo principal es establecer leyes o principios generales
+que expliquen cómo funcionan los fenómenos.
+
+Para lograrlo utiliza un método estandarizado llamado método científico, cuya
+característica más importante es la replicabilidad, es decir, que los estudios puedan
+repetirse y obtener resultados similares. Esto permite que exista consenso dentro de
+la comunidad científica y que el conocimiento sea considerado fiable.
+
+
+
+
+                                                                                      2
+El método científico
+Es el procedimiento que se utiliza para investigar los fenómenos, descubrir sus causas
+y formular las leyes que los explican. Consiste en una secuencia lógica, formal y
+estructurada de pasos que guía la investigación científica según los objetivos que se
+quieran alcanzar. Cuando se aplica de forma sistemática, permite obtener conocimiento
+objetivo y universalmente válido, y supone además un proceso continuo de
+aprendizaje en el que se relacionan constantemente la teoría y la evidencia empírica.
+
+El proceso comienza con el planteamiento de un problema, a partir del cual se propone
+una hipótesis, es decir, una explicación provisional. Después se realiza el diseño del
+estudio o experimento para comprobarla, se lleva a cabo la recogida de datos, se
+procede a la interpretación de los resultados y finalmente se elaboran conclusiones.
+
+Dentro del método científico se utilizan dos formas de razonamiento. El razonamiento
+deductivo parte de la teoría o de una hipótesis general y, a partir de ella, se deducen
+consecuencias que después se ponen a prueba con los datos. En cambio, el
+razonamiento inductivo sigue el camino contrario: parte de la observación de la
+realidad para formular generalizaciones o teorías. Sin embargo, tiene una limitación
+importante, ya que no es posible observar todos los casos existentes.
+
+Por ello, la investigación científica suele utilizar el método hipotético-deductivo, que
+combina inducción y deducción. A partir de la teoría se formula una hipótesis y se
+deducen consecuencias que pueden contrastarse con la realidad mediante
+observaciones o experimentos. Si los datos contradicen la hipótesis, esta se considera
+falsada; si los resultados la apoyan, se refuerza o se mantiene, pudiendo contribuir a la
+formulación de leyes o teorías científicas.
+
+En psicología, como disciplina científica, el método científico se utiliza para explicar los
+fenómenos psicológicos mediante diferentes diseños de investigación, que pueden ser
+experimentales, cuasi-experimentales u observacionales, según el grado de control
+que el investigador tenga sobre las variables estudiadas.
+
+
+
+
+                                                                                          3
+Paradigmas de investigación en psicología
+En psicología existen diferentes paradigmas de investigación, es decir, marcos o
+enfoques metodológicos que establecen las reglas y procedimientos para construir
+explicaciones científicas sobre el comportamiento. Dentro de la investigación
+psicológica destacan principalmente dos tradiciones metodológicas: el paradigma
+experimental (cuantitativo) y el paradigma asociativo (cualitativo).
+
+El paradigma experimental se basa en hipótesis causales, es decir, busca demostrar
+que una variable independiente (VI) provoca cambios en una variable dependiente
+(VD). Para ello el investigador manipula activamente la variable independiente,
+interviniendo en la situación experimental. Además, se intenta mantener un alto control
+de las variables extrañas. Gracias a este control se consigue una mayor validez interna,
+lo que permite afirmar con más seguridad que el efecto observado se debe realmente a
+la variable manipulada. Este paradigma suele emplear diseños experimentales o
+cuasi-experimentales.
+
+El paradigma asociativo, en cambio, no busca demostrar causalidad sino analizar la
+relación o covariación entre variables. En este enfoque no se manipulan las variables,
+sino que el investigador observa y mide cómo cambian conjuntamente en situaciones
+naturales. Debido a que no existe un control riguroso de variables extrañas, no se puede
+establecer una relación causal, sino únicamente relaciones de asociación o
+correlación. En este paradigma se utilizan principalmente diseños observacionales y
+encuestas, donde las variables se registran tal como ocurren.
+
+Otra forma de clasificar los métodos de investigación en psicología distingue entre
+métodos cuantitativos y cualitativos. Los métodos cuantitativos buscan describir
+situaciones o problemas mediante datos numéricos, utilizando por ejemplo preguntas
+cerradas, cuestionarios, encuestas u observaciones categorizadas, y normalmente
+trabajan con muestras amplias. Por el contrario, los métodos cualitativos pretenden
+comprender en profundidad una situación o experiencia, utilizando técnicas como
+entrevistas en profundidad, lo que implica muestras más pequeñas pero con mucha
+más información detallada de cada participante.
+
+
+
+
+                                                                                      4
+El diseño de investigación
+Es el plan estructurado de acción que organiza todas las operaciones necesarias para
+resolver un problema de investigación. Consiste en un conjunto de procedimientos
+sistemáticos que guían cómo se va a realizar el estudio, desde el planteamiento inicial
+hasta el análisis de los resultados.
+
+En este diseño hay dos aspectos fundamentales: los objetivos y los datos. Los objetivos
+determinan el tipo de diseño que se utilizará, pudiendo ser experimental,
+cuasi-experimental o no experimental, según si el investigador manipula o no las
+variables. Por otro lado, los datos implican decidir cómo se van a obtener, qué variables
+se van a medir y qué procedimientos se utilizarán para analizarlos.
+
+Dentro del diseño de investigación se incluyen varias fases importantes: la formulación
+de hipótesis, la definición de variables (especialmente la variable independiente, la
+variable dependiente y las variables extrañas), la selección de la muestra, la
+asignación de las unidades de observación a los distintos grupos o tratamientos, y
+finalmente la selección de las técnicas de análisis de datos que permitirán comprobar
+las hipótesis planteadas.
+
+En cuanto a los objetivos de los distintos tipos de diseño, el diseño experimental busca
+comprobar el impacto de la variable independiente sobre la variable dependiente
+mediante la manipulación de la primera. El diseño cuasi-experimental también
+pretende analizar el efecto de una variable o tratamiento, aunque sin un control
+experimental completo. En cambio, los diseños no experimentales, como los diseños
+de encuesta o los diseños observacionales, se centran principalmente en describir
+características de una población, identificar variables o estudiar relaciones e
+interacciones entre ellas.
+
+Respecto a los datos, los estudios pueden ser transversales, cuando recogen la
+información en un único momento del tiempo, o longitudinales, cuando analizan la
+evolución o el cambio de las variables a lo largo del tiempo.
+
+
+
+
+                                                                                       5
+La inferencia causal
+Es una actividad fundamental en cualquier investigación y consiste en extraer
+conclusiones significativas a partir de los resultados obtenidos. La inferencia implica
+un razonamiento deductivo, es decir, sacar consecuencias a partir de un principio o
+supuesto inicial; si ese principio es válido, las conclusiones derivadas también deben
+considerarse válidas.
+
+En este proceso tiene un papel central la hipótesis, que es un enunciado predictivo
+sobre el resultado esperado de la investigación. Las hipótesis deben comprobarse
+empíricamente y orientan el estudio hacia una conclusión basada en los datos
+obtenidos.
+
+La inferencia funciona de la siguiente manera: primero se formula una hipótesis y, a
+partir de ella, se deducen consecuencias o predicciones que después se someten a
+verificación mediante la investigación. Si los resultados apoyan esas predicciones, la
+hipótesis gana respaldo; si no, debe revisarse o rechazarse.
+
+Desde el punto de vista conceptual, la inferencia consiste en extraer significado de los
+resultados según las variables estudiadas. En la investigación experimental y
+cuasi-experimental, la inferencia se realiza desde la variable independiente (VI), que se
+considera la causa, hacia la variable dependiente (VD), que representa el efecto o
+fenómeno que se intenta explicar. Es decir, se analiza cómo un cambio en la VI produce
+cambios en la VD.
+
+En cambio, en la investigación no experimental, el proceso suele ir en sentido
+contrario: se parte de la variable dependiente (el efecto observado) para intentar
+identificar qué variable independiente podría estar provocándolo. En estos casos
+existe mayor dificultad para diferenciar claramente causa y efecto.
+
+En los diseños experimentales, las conclusiones se obtienen comparando grupos
+equivalentes gracias a la aleatorización, que hace que todos los grupos sean similares
+en todo excepto en la variable de tratamiento. Esto permite atribuir con mayor
+seguridad los efectos observados a la variable independiente.
+
+En los diseños cuasi-experimentales también se comparan grupos, pero no hay
+aleatorización, por lo que no se puede asegurar completamente que otros factores
+extraños no estén influyendo. Estos diseños permiten controlar algunas hipótesis
+alternativas conocidas, aunque no descartan completamente factores desconocidos.
+
+Por último, en los diseños no experimentales, los grupos suelen formarse según los
+valores de la variable dependiente, y el investigador intenta descubrir qué factores
+pueden explicar las diferencias observadas. Sin embargo, no es posible descartar la
+presencia de hipótesis rivales, por lo que la capacidad para establecer relaciones
+causales es mucho más limitada.
+
+
+                                                                                       6
+Tema 2
+¿Cómo surgen las ideas para investigar?
+El inicio de toda investigación comienza con el tema y la idea. Primero se concibe el
+tema a estudiar y se genera la idea que guiará la investigación. Las ideas deben resolver
+problemas, aportar conocimientos y generar interrogantes, y además ser novedosas,
+alentadoras, emocionantes e inspiradoras. Estas pueden acercarse a realidades
+objetivas (enfoque cuantitativo), subjetivas (enfoque cualitativo) o intersubjetivas
+(enfoque mixto).
+
+En cuanto a los planteamientos cuantitativos y cualitativos, los cuantitativos son
+precisos, delimitados, enfocados en variables concretas y fundamentados en la
+revisión de la literatura, aplicándose a un gran número de casos. Su objetivo es probar
+teorías, hipótesis y evaluar relaciones entre variables. Por el contrario, los cualitativos
+son abiertos, expansivos, basados en la experiencia y aplicados a pocos casos,
+orientándose a aprender de las experiencias y perspectivas de los individuos, valorar
+procesos y generar teorías fundamentadas en los participantes.
+
+Las ideas de investigación pueden surgir de experiencias personales, materiales
+escritos o audiovisuales, medios de comunicación, Internet, teorías, creencias
+personales y la observación de hechos. Para estructurarlas correctamente, es
+fundamental conocer los antecedentes, revisando estudios, investigaciones y trabajos
+previos. Esto permite evitar duplicar investigaciones, definir formalmente la idea y
+seleccionar el enfoque o paradigma del estudio.
+
+Según el grado de investigación previa, los temas pueden ser muy investigados y
+estructurados, poco investigados y poco estructurados o prácticamente no
+investigados, requiriendo diferentes niveles de esfuerzo para afinar la idea. Las buenas
+ideas, aunque no siempre totalmente nuevas, intrigan, generan interrogantes,
+permiten elaborar teorías, resolver problemas y aportar nuevas perspectivas.
+
+El proceso de investigación
+Comienza con la fase conceptual o teórica, donde se define y estructura la idea central.
+Primero, el investigador debe formular la pregunta de investigación, dando forma al
+problema que pretende estudiar. A continuación, se establece el marco de referencia, es
+decir, la perspectiva teórica desde la que se abordará el estudio. También se relacionan
+los objetivos e hipótesis, expresando la finalidad del estudio y el comportamiento
+esperado del objeto de investigación. Finalmente, se realiza una revisión bibliográfica,
+analizando investigaciones previas que permitan justificar y concretar el problema de
+investigación.
+
+
+
+
+                                                                                         7
+Plantear un problema de investigación
+Debe existir un aspecto desconocido o mal comprendido que genere la necesidad de
+obtener nuevo conocimiento. El problema representa un desafío en el plano del
+conocimiento. Por ejemplo, es un problema de investigación determinar cuál
+tratamiento cognitivo-conductual es más eficaz para prevenir recaídas en la ansiedad
+por separación. Formular correctamente el problema equivale a alcanzar ya la mitad de
+la respuesta. Es esencial sistematizar ideas y posiciones existentes, recurriendo a
+modelos teóricos, de manera que el lector comprenda la problemática.
+
+El planteamiento debe ser explícito y concreto, señalando controversias, delimitando
+causas y mostrando la necesidad de mayor investigación. La pregunta principal de
+investigación dará origen al objetivo general, y su respuesta no debe ser un simple “sí”
+o “no”, sino que debe permitir un desarrollo amplio, que será abordado en el Marco
+Teórico.
+
+El problema se define en distintos niveles: desde grandes temas, como “¿Qué es la
+ansiedad infantil?”, pasando por temas concretos, como “¿Qué síntomas presentan los
+niños de 3 a 6 años con ansiedad por separación?”, hasta problemas científicos
+específicos, como “¿Cómo afecta un estilo de crianza sobreprotector al nivel de
+ansiedad en niños con ansiedad por separación durante la adaptación a la educación
+infantil?” o “¿Qué relación existe entre el estilo de apego y el estilo de crianza en la
+aparición de ansiedad por separación en niños de 3 a 6 años?”.
+
+La formulación de la pregunta también varía según el nivel: en el básico se utilizan
+preguntas generales y lenguaje coloquial que reflejan curiosidad personal, en el
+avanzado preguntas más concretas con lenguaje específico, y en el experto problemas
+científicos no resueltos expresados en lenguaje científico, orientados a la investigación.
+Por ejemplo, a nivel básico: “¿Qué es el apego inseguro?”; avanzado: “¿Es más habitual el
+apego inseguro en familias con hijos con discapacidad de clase social baja?”; experto:
+“¿Cómo afecta el estrés parental al desarrollo del apego en menores con Síndrome de
+Down pertenecientes a familias de clase social baja?”.
+
+Para que una pregunta de nivel avanzado o experto sea correcta, debe estar bien
+definida, centrada, ser contestable mediante evidencia empírica, cumplir con criterios
+éticos y generar conocimiento sustancial.
+
+
+
+
+                                                                                        8
+Los objetivos
+Son las tareas concretas que permiten comprobar las preguntas formuladas en un
+estudio. Representan la operativización de las ideas teóricas del investigador y deben
+estar claramente delimitados, ser coherentes con las hipótesis y realizables según los
+recursos disponibles. Es fundamental contar con un tema de estudio preciso, de
+proporciones adecuadas para ser investigado. Los objetivos deben cumplir con claridad,
+alcanzabilidad, concreción y pertinencia, asegurando que cada uno tenga relación
+lógica con la hipótesis.
+
+El objetivo general define la globalidad del proyecto y responde a preguntas esenciales:
+qué se va a hacer, en quiénes, dónde y cómo. Por ejemplo, en un estudio sobre ansiedad
+animal ante un estímulo temido, un objetivo general podría ser analizar las reacciones
+de pánico de una rata sometida a estrés continuado ante otro roedor, al inicio y a los
+seis meses.
+
+Los objetivos específicos detallan los pasos necesarios para alcanzar el objetivo general,
+corresponden a logros parciales y se redactan en función de las dimensiones de la
+variable dependiente o de los procesos a estudiar. Por ejemplo, clasificar las reacciones
+de pánico según su duración en breves, moderadas y severas tras la presentación del
+estímulo, permite organizar y medir de forma concreta el fenómeno estudiado. El
+cumplimiento del objetivo general depende del logro de cada objetivo específico.
+
+En un estudio sobre tratamientos cognitivo-conductuales para la ansiedad por
+separación, los objetivos específicos podrían centrarse en determinar cuál tratamiento
+ha demostrado mayor eficacia en la prevención de recaídas, detallando criterios,
+población y procedimientos a evaluar.
+
+
+
+
+                                                                                        9
+Formulación de hipótesis
+Una hipótesis es una respuesta probable que establece la relación entre dos o más
+variables, por lo que solo se formula cuando se trabaja con varias variables. Es típica de
+las investigaciones cuantitativas, aunque las investigaciones cualitativas también
+pueden plantearlas como hipótesis de trabajo, que van evolucionando a medida que
+avanza el estudio y no se comprueban estadísticamente. Una hipótesis representa una
+solución tentativa que se somete a prueba para determinar su verdad o falsedad, es un
+enunciado predictivo sobre el resultado esperado, debe ser empíricamente
+contrastable, exige comprobación y conduce a una conclusión. Suele plantearse en
+términos de “si… entonces…”. Al conjunto de soluciones tentativas sobre un problema
+se le llama teoría.
+
+Por ejemplo, para estudiar los tratamientos cognitivo-conductuales en la ansiedad por
+separación, se podría formular: “Si se aplica el tratamiento X, entonces se reducirá el
+riesgo de recaídas más que con el tratamiento Y”. Las hipótesis pueden ser
+explicativas, cuando establecen relaciones causales entre una variable independiente y
+una dependiente; correlacionales, si vinculan variables dependientes dentro de la
+misma población; relacionales, si conectan variables dependientes de poblaciones
+diferentes; o comparativas, al señalar semejanzas o diferencias entre poblaciones
+respecto a una variable dependiente.
+
+
+
+
+                                                                                       10
+Estado del arte / antecedentes
+El estado del arte representa el nivel más avanzado de conocimiento en un campo
+científico y constituye el punto de partida de cualquier investigación, ya sea una tesis
+doctoral, un TFG, TFM o proyecto de investigación. Consiste en investigar y recopilar la
+información actual sobre un tema específico, asegurándose de que los recursos estén
+lo más actualizados posible, principalmente mediante bases de datos bibliográficas. Su
+objetivo es reunir el conocimiento esencial para comprender el problema, incluyendo
+los antecedentes científicos previos, los cuales deben ser valorados críticamente.
+
+El marco teórico o conceptual se forma con el conjunto de conceptos y teorías que
+sustentan y desarrollan el argumento principal. La revisión de literatura, por su parte,
+incluye artículos, estudios y libros específicos que apoyan dicho marco. Ambos son
+fundamentales para construir una tesis cohesiva y convincente.
+
+Por ejemplo, al estudiar si la intervención grupal en niños con discapacidad intelectual
+mejora las habilidades sociales, se siguen varios pasos: primero, revisar los procesos
+cognitivos y teorías existentes en esta población y en la población general (marco
+teórico). Después, analizar estudios previos, instrumentos de medida y programas
+terapéuticos, tanto individuales como grupales, en niños con discapacidad intelectual o
+con otras patologías del desarrollo (literatura que respalda el argumento). Finalmente, se
+concreta la búsqueda en información específica sobre la eficacia de programas grupales
+en el desarrollo de habilidades sociales en esta población.
+
+La información recopilada se organiza en un documento que refleja el estado del arte,
+facilitando la elección del tema y el planteamiento de una propuesta que mejore lo
+existente o genere nuevas aportaciones. Por ejemplo, comparar la eficacia de la terapia
+grupal frente a la individual o contrastar dos terapias grupales diferentes.
+
+Es importante no suponer que se conoce el tema previamente, ya que la investigación
+parte de la elección precisa del área de estudio. Según la amplitud del tema, puede
+encontrarse gran cantidad de material, pocos estudios previos o incluso resultados
+contradictorios. La definición clara de la población, intervención y necesidades es
+esencial, y la búsqueda bibliográfica debe seguir un proceso sistemático para recoger
+antecedentes relevantes.
+
+
+
+
+                                                                                        11
+¿Qué buscamos?
+Se trata de formular preguntas según el nivel de conocimiento. A nivel básico, las
+preguntas son muy generales, con lenguaje coloquial y motivadas por la curiosidad
+personal. En un nivel avanzado, las preguntas son más concretas, usando terminología
+específica y reflejando la curiosidad académica o profesional. En el nivel experto,
+surgen problemas científicos específicos, a veces aún no resueltos, con lenguaje
+científico y motivados por la curiosidad del investigador.
+
+La documentación también varía según el nivel: los principiantes consultan libros de
+introducción, los avanzados recurren a libros especializados y artículos científicos, y
+los expertos se apoyan en artículos, tesis doctorales y actas de congresos. Entre los
+tipos de documentación científica se incluyen libros generales y especializados,
+artículos de revistas, tesis doctorales, actas de congresos e informes técnicos.
+
+En cuanto a la literatura gris, los documentos científicos se clasifican en fuentes
+generales, que registran referencias a otros documentos (como bases de datos); fuentes
+secundarias, que revisan trabajos previos de otros autores (por ejemplo, Annual
+Review); y fuentes primarias, donde los autores publican avances directamente (como
+Psicothema). Este material se puede consultar en bibliotecas, Internet, bases de datos
+bibliográficas, la base Teseo y webs de organizaciones, incluyendo artículos de revistas,
+actas de congresos e informes técnicos.
+
+
+
+
+                                                                                       12
+Fuentes de información
+Los libros o monografías suelen tratar un tema concreto de forma homogénea y tienen
+un final definido con su publicación. Están identificados por el ISBN. Dentro de ellos
+encontramos los manuales, que ofrecen una síntesis clara y ordenada del
+conocimiento existente sobre un tema, y las monografías, que profundizan en
+aspectos específicos de una disciplina e incorporan investigaciones recientes. Este
+tipo de fuente es especialmente útil cuando se necesita adquirir una visión global de un
+tema, conocer su evolución histórica o identificar los estudios más relevantes.
+
+Las publicaciones periódicas son documentos que se publican de forma continua en
+intervalos de tiempo regulares o irregulares y se identifican mediante el ISSN. Dentro
+de ellas están las revistas de divulgación, que presentan temas científicos, culturales o
+artísticos de forma accesible al público general, evitando un lenguaje demasiado
+especializado. Son útiles cuando se quiere conocer tendencias sociales, cultura popular
+o acontecimientos actuales.
+
+También forman parte de las publicaciones periódicas la prensa, que reúne artículos
+informativos sobre política, economía, sociedad y cultura, normalmente publicados a
+diario y acompañados de suplementos especializados. La prensa es una buena fuente
+cuando se necesita información actualizada sobre acontecimientos locales, nacionales
+o internacionales, así como opiniones sobre temas concretos.
+
+Otro tipo importante son las revistas científicas, que contienen artículos
+especializados escritos por investigadores con el objetivo de difundir sus resultados a
+la comunidad científica. Los artículos pasan un proceso de revisión por pares (peer
+review) para garantizar su calidad. Estas revistas son una fuente fundamental para los
+trabajos académicos, ya que permiten seguir las investigaciones más recientes y
+localizar bibliografía especializada.
+
+Las ponencias y comunicaciones a congresos son trabajos de investigación presentados
+en eventos científicos como congresos, jornadas o seminarios. En muchos casos
+muestran los primeros resultados de investigaciones recientes, por lo que permiten
+conocer las innovaciones más actuales de un campo. Normalmente se publican
+posteriormente en las actas del congreso.
+
+Los trabajos académicos, como la tesis doctoral, el Trabajo de Fin de Grado (TFG) y el
+Trabajo de Fin de Máster (TFM), son investigaciones realizadas por estudiantes para
+obtener un título universitario. La tesis doctoral presenta una investigación original
+junto con una revisión actualizada del estado del tema, mientras que el TFG y el TFM
+suelen aplicar conocimientos o tecnologías existentes sin necesidad de aportar una
+investigación completamente nueva. Muchos de estos trabajos se encuentran en acceso
+abierto en los repositorios de las universidades.
+
+
+
+
+                                                                                       13
+Las publicaciones oficiales son documentos elaborados por organismos o autoridades
+públicas, como informes, estadísticas, leyes, diarios oficiales o documentos
+parlamentarios. Son especialmente útiles cuando se necesita información
+gubernamental, administrativa o datos estadísticos oficiales.
+
+Las patentes son documentos que reconocen la autoría de una invención y otorgan a
+su creador el derecho exclusivo de explotación durante un tiempo determinado, que
+en España suele ser de 20 años desde la solicitud. A cambio, el inventor debe describir
+detalladamente su invención, lo que convierte a las patentes en una valiosa fuente de
+información científica y tecnológica, muchas veces la primera donde aparece una
+nueva tecnología.
+
+Las normas son documentos aprobados por organismos de estandarización que
+establecen requisitos, reglas o métodos que deben cumplir productos, procesos o
+servicios. Un organismo internacional muy importante es la ISO (International
+Organization for Standardization), cuyas normas se adaptan posteriormente a cada
+país, como ocurre con las normas UNE en España. Son esenciales cuando se necesita
+información sobre estándares técnicos, procedimientos o requisitos oficiales.
+
+Las obras de referencia son fuentes pensadas para una consulta rápida y precisa.
+Incluyen enciclopedias, diccionarios y directorios. Las enciclopedias ofrecen una
+visión general y resumida de numerosos temas, los diccionarios explican el
+significado de palabras o términos especializados, y los directorios proporcionan
+información sobre personas u organizaciones. Se utilizan cuando se necesita
+comprender conceptos, obtener definiciones o localizar información básica sobre un
+tema.
+
+Las bases de datos bibliográficas recopilan referencias de artículos, libros y
+documentos científicos, incluyendo datos como autor, título, publicación y un breve
+resumen. Muchas permiten además acceder directamente al texto completo del
+documento. Son una herramienta fundamental para encontrar literatura científica de
+calidad en una disciplina concreta.
+
+Por último, los recursos web incluyen páginas web, blogs, wikis, foros y redes sociales,
+que ofrecen una enorme cantidad de información accesible en línea. Sin embargo, no
+siempre pasan por procesos de revisión o control editorial, por lo que su fiabilidad
+puede variar. Aun así, resultan útiles para conocer opiniones, recopilar ideas diversas,
+obtener información sobre organizaciones o acceder a noticias y contenidos
+actualizados.
+
+
+
+
+                                                                                      14
+¿Cómo buscamos?
+La búsqueda de información comienza con una estrategia de búsqueda bien definida.
+Primero hay que transformar la pregunta de investigación al lenguaje documental,
+utilizando palabras clave y, cuando sea posible, el tesauro de la base de datos. Después
+se deben combinar los términos mediante operadores booleanos (AND, OR, NOT) y
+aplicar límites o filtros para obtener resultados más precisos. Todo parte de definir el
+tema en una o varias frases cortas, pasando de una idea general a una pregunta
+específica que guiará la búsqueda.
+
+Antes de empezar a buscar es importante establecer criterios y recursos de búsqueda,
+analizando el nivel y la cobertura de la información necesaria. Para ello se deben
+delimitar aspectos cronológicos, geográficos e idiomáticos, lo que permite centrar
+mejor los resultados. También es necesario decidir qué tipo de documentos se
+necesitan, como diccionarios, enciclopedias, libros, artículos científicos o tesis,
+dependiendo del tipo de trabajo, del conocimiento previo sobre el tema y del tiempo
+disponible. Del mismo modo, hay que elegir las fuentes de información adecuadas,
+como bases de datos generales o especializadas, catálogos de bibliotecas o buscadores
+académicos, teniendo en cuenta si se necesita información reciente, de una región
+concreta o en un idioma específico.
+
+Es recomendable conocer la interfaz de búsqueda de cada base de datos, ya que no
+todas funcionan igual. Muchas ofrecen búsqueda simple y avanzada, además de
+secciones de ayuda que explican cómo mejorar las consultas.
+
+Un paso fundamental es identificar los conceptos más importantes del tema, es decir,
+las palabras clave. Estas se obtienen reduciendo el tema a una frase clara y detectando
+las ideas principales. Por ejemplo, en un trabajo sobre el uso del teléfono móvil por
+parte de los jóvenes catalanes y su impacto en la educación, conceptos como jóvenes,
+Cataluña, telefonía móvil y educación pueden ser palabras clave relevantes, mientras
+que términos como “actualmente” o “repercusión” no suelen ser útiles para la
+búsqueda.
+
+Después conviene pensar en sinónimos y términos alternativos, incluso en otros
+idiomas, especialmente en inglés, ya que muchas bases de datos científicas trabajan en
+ese idioma.
+
+Para mejorar la búsqueda se puede utilizar un tesauro, que es un listado organizado de
+términos de una materia que muestra sinónimos, términos más generales, específicos
+o relacionados. En las bases de datos se pueden realizar búsquedas mediante lenguaje
+libre, que localiza las palabras en cualquier parte del documento, o mediante lenguaje
+controlado, que utiliza los términos del tesauro y garantiza que el documento trate
+realmente del tema buscado.
+
+
+
+
+                                                                                      15
+Otra forma de mejorar los resultados es filtrar por campos, es decir, buscar solo en
+partes concretas del documento, como título, autor o palabras clave, lo que permite
+acotar la búsqueda y obtener resultados más relevantes.
+
+Las estrategias de búsqueda se perfeccionan combinando términos con operadores
+booleanos. El operador AND recupera solo los documentos que contienen todos los
+términos y reduce los resultados, el operador OR recupera documentos que contienen
+cualquiera de los términos y amplía la búsqueda, y el operador NOT sirve para excluir
+información no deseada.
+
+Finalmente, es necesario ejecutar la búsqueda, recuperar los resultados y evaluarlos.
+Esto implica ordenar y clasificar los documentos según criterios como relevancia,
+fecha o número de citas, y valorar la calidad y fiabilidad de la información. Si los
+resultados no son adecuados, se deben revisar los términos utilizados, aplicar filtros o
+modificar la estrategia de búsqueda para conseguir documentos relevantes y útiles
+para el trabajo.
+
+
+
+
+                                                                                     16
+Motores de búsqueda
+Permiten localizar información en Internet utilizando palabras clave y diferentes
+herramientas que ayudan a refinar y hacer más precisa la búsqueda.
+
+En la búsqueda avanzada de Google se pueden aplicar distintos operadores y filtros
+para encontrar información de forma más exacta. El operador AND se aplica por
+defecto en Google, lo que significa que el buscador muestra resultados que contienen
+todas las palabras introducidas. El operador OR se utiliza para buscar páginas que
+contengan una palabra u otra, ampliando así los resultados. Por otro lado, el operador
+NOT, que se escribe como –palabra, sirve para excluir términos que no queremos que
+aparezcan en los resultados.
+
+También es posible buscar una frase exacta colocando el texto entre comillas, lo que
+obliga a Google a mostrar únicamente páginas donde aparezca esa frase exactamente
+igual. Para limitar resultados por tiempo se puede usar un intervalo de fechas,
+escribiendo dos puntos seguidos entre los años. Además, Google permite aplicar filtros
+por campo, que sirven para buscar términos en toda la página, en el título, en la
+dirección web o en enlaces relacionados. Igualmente, se pueden limitar los resultados
+por idioma, región, fecha de actualización, sitio o dominio, aparición de los términos,
+tipo de archivo o derechos de uso.
+
+Por otro lado, Google Académico es un buscador especializado en contenido científico
+y académico. Permite realizar búsquedas avanzadas utilizando todas las palabras, una
+frase exacta, al menos una de varias palabras o excluyendo términos. También ofrece
+opciones para buscar artículos escritos por un autor concreto, publicados en una
+revista específica o dentro de un intervalo de años determinado, y permite elegir si las
+palabras deben aparecer en todo el artículo o solo en el título.
+
+Este buscador incluye artículos de revistas científicas, citas bibliográficas, estudios
+revisados por especialistas, tesis doctorales, libros y resúmenes académicos. Además,
+puede mostrar artículos a texto completo procedentes de editoriales científicas,
+sociedades profesionales, repositorios, congresos y documentos académicos
+disponibles en la web.
+
+Entre sus principales funciones destaca la posibilidad de acceder al texto completo o al
+resumen de los artículos, conocer cuántas veces ha sido citado un trabajo científico y
+utilizar vínculos de biblioteca, que permiten consultar la versión electrónica
+disponible en bibliotecas o localizar copias en formato físico.
+
+
+
+
+                                                                                      17
+Base de datos
+eLibro es una plataforma de libros electrónicos académicos que forma parte de las
+bases de datos universitarias. Su colección incluye más de 103.000 títulos en español
+de múltiples disciplinas como Psicología, Salud, Medicina, Empresa, Educación o
+Derecho.
+
+Para acceder al servicio hay que entrar en el nuevo acceso de eLibro. Antes de
+registrarse es necesario tener instalada y activada la VPN de la universidad, ya que el
+registro debe hacerse desde IP autorizadas. Una vez creada la cuenta personal, el
+usuario podrá acceder a la plataforma también desde fuera del campus utilizando su
+login.
+
+Los e-books pueden consultarse online o descargarse, lo que permite utilizarlos para
+leer o estudiar directamente desde la plataforma. Además, eLibro ofrece herramientas
+de trabajo académico, como subrayar textos, añadir anotaciones, guardar búsquedas o
+compartir carpetas, facilitando tanto el trabajo individual como el colaborativo.
+
+Las bases de datos multidisciplinares
+Son herramientas que permiten buscar literatura científica de diferentes áreas del
+conocimiento, reuniendo referencias de artículos, revistas, libros y otros trabajos
+académicos.
+
+Web of Science (WOS) es una colección de bases de datos de referencias bibliográficas
+y citas de publicaciones científicas propiedad de Clarivate Analytics, que recoge
+información desde 1900 hasta la actualidad. Está formada por la Core Collection, que
+incluye índices de Ciencias, Ciencias Sociales y Artes y Humanidades, además de
+Proceedings (actas de congresos) de estas áreas. También incorpora herramientas de
+análisis y evaluación científica, como Journal Citation Reports y Essential Science
+Indicators.
+
+Scopus es una base de datos bibliográfica que recopila resúmenes y citas de artículos
+de revistas científicas. Incluye alrededor de 18.000 revistas de más de 5.000 editores
+internacionales, entre ellas más de 1.000 revistas de acceso abierto. Sus contenidos
+abarcan numerosas disciplinas, como agricultura, biología, química, geología,
+economía, negocios, ingeniería, salud, ciencias de la vida, matemáticas, física,
+psicología y ciencias sociales.
+
+Dialnet es un portal de difusión de la producción científica del ámbito hispano, creado
+en la Universidad de La Rioja como un proyecto de cooperación interuniversitaria.
+Con el tiempo se ha convertido en un referente de acceso libre a la literatura científica
+en español y portugués. Reúne principalmente revistas científicas, pero también
+artículos de libros colectivos, tesis doctorales y otros trabajos académicos.
+
+
+
+                                                                                       18
+Las bases de datos especializadas
+Permiten buscar literatura científica de forma organizada y fiable. Una de las más
+importantes es APA PsycNet, una base de datos bibliográfica de la American
+Psychological Association que incluye citas y resúmenes de artículos de revistas,
+libros y tesis doctorales, con cobertura de más de 2.500 revistas científicas. Dentro de
+esta plataforma se pueden consultar distintos recursos como PsycINFO,
+PsycARTICLES, PsycBOOKS, PsycEXTRA, PsycTHERAPY y PsycTESTS, que recopilan
+información especializada en investigación psicológica. Otra base relevante es Psyke,
+elaborada por la Biblioteca de la Facultad de Psicología de la Universidad Complutense
+de Madrid, que reúne una selección de revistas científicas sobre psicología para
+facilitar la búsqueda de información académica.
+
+En el ámbito de las ciencias de la salud, destaca PubMed, un portal de información
+científica gestionado por la National Library of Medicine (NLM) y el National Center
+for Biotechnology Information (NCBI) de Estados Unidos. Esta plataforma permite
+acceder a bases de datos bibliográficas de biomedicina, especialmente a registros de
+MedLine, que representan aproximadamente el 90 % del contenido. También es
+importante IBECS, una base de datos elaborada por el Instituto de Salud Carlos III en
+colaboración con BIREME, que recoge referencias y resúmenes de artículos de
+revistas españolas de calidad en ciencias de la salud desde el año 2000. Otra fuente
+relevante es LILACS, un índice que reúne literatura científica y técnica en salud de
+América Latina y el Caribe, contribuyendo desde hace más de 30 años a mejorar la
+visibilidad y el acceso a la información científica en esa región. Asimismo, Public
+Library of Science (PLOS) es una organización sin ánimo de lucro cuyo objetivo es
+difundir investigación científica mediante revistas de acceso abierto, entre las que
+destacan PLOS Biology, PLOS Genetics, PLOS One, PLOS Medicine, PLOS
+Computational Biology, PLOS Pathogens y PLOS Neglected Tropical Diseases.
+
+También existen revistas científicas de acceso abierto, que permiten consultar
+investigaciones sin coste. Entre ellas se encuentra Edupsykhé. Revista de Psicología y
+Educación, publicada por la Universidad Camilo José Cela, que difunde trabajos de
+investigación sobre psicología, educación y psicopedagogía con periodicidad
+semestral. Otra revista es Psicooncología, también semestral y de acceso abierto, que
+publica investigaciones teóricas, experimentales y clínicas sobre los aspectos
+psicológicos, sociales y éticos relacionados con el cáncer y los cuidados paliativos. Por
+su parte, la Revista de Historia de la Psicología publica artículos científicos en español
+e inglés sobre la historia de la psicología y de los procesos psicológicos básicos,
+siempre con rigor metodológico. Finalmente, la Revista de Neurología es una de las
+publicaciones neurológicas en español con mayor difusión, editada quincenalmente y
+distribuida tanto en Europa como en América.
+
+
+
+
+                                                                                       19
+Los recursos de Internet sobre psicología
+Permiten acceder a información actualizada, materiales académicos y herramientas
+para la búsqueda de literatura científica. Un ejemplo es INFOCOPONLINE, una revista
+digital de psicología que publica noticias y contenidos sobre el ámbito profesional y
+científico de la psicología.
+
+Otro recurso es Internet Resources in Psychology (utm.edu), una página que reúne
+recursos electrónicos relacionados con la psicología, como asociaciones
+profesionales, revistas científicas y listas de distribución donde se comparte
+información especializada.
+
+También destaca Psych Web, creado por Russ Dewey, que funciona como un buscador
+de recursos electrónicos sobre psicología, especialmente orientado a estudiantes y
+profesores que necesitan localizar información académica en Internet.
+
+Por último, el Tesauro ISOC de Psicología es un tesauro especializado que recoge 4.400
+términos relacionados con la psicología, de los cuales 3.788 son términos principales y
+1.612 son sinónimos o equivalentes. Estos términos están organizados en 17 campos
+semánticos y se relacionan entre sí mediante relaciones de jerarquía, equivalencia y
+asociación, lo que facilita la búsqueda y organización de información científica.
+
+Resumen
+La revisión bibliográfica o de la literatura es una parte fundamental del proceso de
+investigación porque permite identificar los conceptos clave de un tema, conocer
+cómo otros investigadores han recogido y analizado los datos, y aprender tanto de sus
+aciertos como de sus errores. Además, ayuda a descubrir distintas formas de abordar
+un mismo problema de investigación, lo que mejora la comprensión del fenómeno
+estudiado y permite interpretar los datos con mayor profundidad.
+
+También es importante para comprender los conceptos, estrategias y procedimientos
+que se utilizan en la fase conceptual o teórica de la investigación científica, ya que
+proporciona el marco necesario para formular adecuadamente el estudio.
+
+Para realizar una buena revisión es necesario conocer los recursos y herramientas para
+buscar información en bases de datos científicas. Esto implica desarrollar una
+estrategia de búsqueda adecuada, localizar artículos clave que siempre deben aparecer
+en la búsqueda, y después organizarlos y filtrarlos según criterios como los objetivos
+del estudio o los instrumentos utilizados.
+
+Finalmente, es necesario obtener los artículos completos para analizarlos. En general,
+los artículos más recientes suelen descargarse en línea, algunos de forma gratuita y
+otros mediante pago o acceso institucional, mientras que los artículos más antiguos
+suelen solicitarse en bibliotecas universitarias.
+
+
+                                                                                    20
+Tema 3
+La muestra
+Es el subconjunto de una población formado por los participantes que intervienen en
+una investigación, junto con sus características y la forma en que han sido
+seleccionados. Su objetivo principal es describir la población de origen, por lo que es
+fundamental que sea representativa, ya que esto permite generalizar los resultados (lo
+que se conoce como validez externa).
+
+El muestreo es el procedimiento mediante el cual se selecciona esa muestra. Al elegir
+a los individuos en los que se realizarán las observaciones, es necesario definir quiénes
+serán, cuántos participarán, cómo se localizarán y cómo se interactuará con ellos (por
+ejemplo, niños, padres o profesores y sus características comunes).
+
+En cualquier caso, los participantes deben cumplir tres requisitos esenciales:
+representatividad, idoneidad y accesibilidad, ya que de ello depende la calidad y validez
+de la investigación.
+
+La representatividad
+Se da cuando los participantes de una investigación se parecen a la población que se
+quiere estudiar, ya que son un subconjunto de esta. Esto es fundamental porque
+permite generalizar los resultados obtenidos al resto de la población. Además, cuanto
+mayor es el número de participantes, mayor suele ser la representatividad, ya que
+aumenta la probabilidad de incluir las variables relevantes del estudio.
+
+Idoneidad
+Los participantes deben ser adecuados al fenómeno que se quiere estudiar, teniendo
+claras las variables y cómo se van a observar o medir. Es fundamental tener cuidado al
+seleccionar la muestra, porque una característica elegida puede estar asociada a otra
+que sea la verdadera causa del fenómeno.
+
+Por ejemplo, si se investiga si las chicas rinden mejor en Magisterio y se observa que
+obtienen mejores notas, no se puede concluir directamente que sea por el género, ya
+que podría deberse a otra variable, como las horas de estudio. Si las chicas estudian más
+que los chicos, entonces la explicación real no sería el género, sino la dedicación al
+estudio, lo que muestra la importancia de evitar variables confundidas.
+
+
+
+
+                                                                                       21
+Accesibilidad
+La elección de los participantes debe considerar las limitaciones espacio-temporales
+de la investigación. Es importante que los sujetos mantengan características similares a
+la población de referencia, buscando siempre un equilibrio entre representatividad y
+accesibilidad.
+
+Los tipos de muestreo
+El muestreo probabilístico consiste en que cada elemento de la población tiene una
+probabilidad conocida de ser seleccionado, lo que implica definir el número de sujetos
+y su forma de elección mediante fórmulas o programas estadísticos. Incluye
+modalidades como el aleatorio simple, estratificado o por conglomerados, y exige
+describir claramente el universo y la muestra. Su principal ventaja es que permite una
+gran generalización de los resultados, por lo que es habitual en investigaciones
+descriptivas.
+
+Por otro lado, el muestreo no probabilístico se caracteriza porque no se conoce la
+probabilidad de selección de los sujetos, ya que no depende del azar sino de la
+accesibilidad y los criterios del investigador. Es el más frecuente, pero no garantiza la
+representatividad ni permite una amplia generalización, por lo que debe explicarse
+bien el procedimiento seguido para reducir sesgos.
+
+Además, existen los grupos intactos, donde se trabaja con grupos ya formados, sin
+necesidad de muestreo, describiendo detalladamente sus características. Es típico de
+estudios cuasi-experimentales y la generalización queda limitada a poblaciones
+similares.
+
+También están los sujetos tipo, utilizados cuando no se puede acceder a una muestra
+representativa, seleccionando personas con características similares a la población
+objetivo, aunque esto reduce mucho la capacidad de generalización y aumenta el
+error.
+
+En cualquier caso, es fundamental definir las características de los participantes en
+función del problema de investigación, es decir, quiénes son (edad, género, origen,
+características), cuántos participan, dónde se localizan y cómo se seleccionan, ya que
+estos aspectos condicionan la validez del estudio.
+
+
+
+
+                                                                                      22
+La ética en la investigación en psicología
+Aborda los dilemas que pueden surgir durante el estudio y cómo proteger los derechos
+e integridad de los participantes. Por ejemplo, si un fármaco en estudio provoca
+efectos secundarios graves, los investigadores deben decidir siguiendo el Código
+Deontológico de su disciplina, que establece normas, valores y principios para investigar
+de manera responsable.
+
+En Europa, los documentos clave son el Código de Nuremberg y la Declaración de
+Helsinki. El primero surgió tras la Segunda Guerra Mundial, destacando la necesidad de
+consentimiento informado voluntario, daño mínimo, mayor beneficio que riesgo y
+derecho a retirarse del estudio. La Declaración de Helsinki amplía estos principios,
+priorizando el bienestar del participante sobre el interés científico y asegurando
+igualdad en los beneficios del estudio.
+
+Los principios fundamentales derivados de estos códigos incluyen que los participantes
+deben firmar un consentimiento informado, obtenido sin presión y con posibilidad de
+retirarse en cualquier momento. En menores, se requiere el consentimiento de padres
+o tutores, considerando también la opinión de menores de 12 años y permitiendo que
+los mayores de 16 consientan por sí mismos en España. Se debe proteger la integridad
+física y psíquica, evitando exponer a los sujetos a daños y asegurando que los
+instrumentos de estudio estén en perfecto estado.
+
+La evaluación ética de un proyecto debe realizarla un agente externo, normalmente los
+Comités de Ética e Investigación Animal y Humana, y no los propios investigadores o
+personas con conflictos de interés. Solo tras su aprobación puede iniciarse el
+reclutamiento de participantes.
+
+La ética de la investigación cualitativa
+Se basa en códigos de buenas prácticas que incorporan valores específicos, y se
+diferencia de la investigación cuantitativa porque los dilemas éticos son distintos,
+debido sobre todo al contacto directo y personal con los participantes y a que es más
+probable la aparición de sesgos del investigador al observar e interpretar los datos.
+
+Para que una investigación cualitativa sea ética, debe tener un valor científico o social,
+y contar con validez científica, utilizando una metodología rigurosa. Además, es
+fundamental una selección equitativa de los participantes, basada en criterios de
+inclusión y exclusión coherentes con los objetivos del estudio.
+
+También se exige una proporción favorable entre riesgos y beneficios, intentando
+maximizar los beneficios y minimizar los riesgos, así como la intervención de
+revisores independientes, que eviten conflictos de intereses en la evaluación del
+estudio. Por último, es imprescindible el consentimiento informado de los
+participantes y el respeto a su integridad durante todo el proceso de investigación.
+
+                                                                                       23
+La identificación de variables
+Consiste en reconocer cualquier característica de la realidad que puede tomar distintos
+valores y que, por tanto, varía en el tiempo y el espacio y puede medirse. En
+investigación cualitativa no se habla tanto de medición, sino de categorías de análisis.
+
+Los fenómenos pueden presentarse en distintos grados o formas, como ocurre con las
+conductas estereotipadas en el TEA, el apego seguro, el género, el desarrollo del
+lenguaje, el fracaso escolar o la autoestima. Todos estos aspectos se consideran
+variables porque admiten diferentes valores o cualidades.
+
+La investigación se centra en el estudio de las variables implicadas en un fenómeno.
+Algunas de ellas son las variables independientes, es decir, aquellas que el investigador
+considera que producen un efecto (por ejemplo, el control contextual o el género).
+Otras son las variables dependientes, que son aquellas sobre las que se observan los
+cambios como consecuencia de la acción de las variables independientes, como la
+reducción de conductas estereotipadas o la mejora del lenguaje.
+
+En las investigaciones cuantitativas
+Es necesario trabajar al menos con dos tipos de variables. Por un lado está la variable
+independiente (VI), que es aquello que el investigador manipula directamente, como un
+programa, una estrategia o un tratamiento. Por otro lado está la variable dependiente
+(VD), que es el resultado o efecto observado en los participantes tras aplicar esa
+intervención.
+
+Puede haber más de una variable independiente y dependiente, y su definición clara y
+medible se conoce como operacionalización.
+
+La definición operacional
+Consiste en concretar el significado de una variable en términos de cómo se observa y
+se registra, es decir, traducirla a algo medible o manipulable en la práctica.
+
+Primero, la identificación de la variable implica presentarla de forma coherente en todo
+el trabajo, apareciendo claramente en el título, el problema, los objetivos y las
+hipótesis. Después, la conceptualización de la variable supone definirla en función de
+las operaciones que permiten medirla o manipularla, es decir, cómo se va a llevar a la
+práctica.
+
+Por último, la categorización de la variable organiza esa definición en distintos niveles.
+En el caso de la variable dependiente (VD), se concreta en categorías, subcategorías,
+indicadores, índices e ítems, que permiten medir el efecto. En cambio, la variable
+independiente (VI) se estructura en categorías, subcategorías, actividades, objetivos y
+recursos, que reflejan cómo se manipula la variable.
+
+
+                                                                                       24
+Grados de manipulación de la variable independiente
+La más simple es la presencia o ausencia, donde un grupo recibe el estímulo (grupo
+experimental) y otro no (grupo control). También puede manipularse en más de dos
+grados, variando la intensidad del estímulo, de modo que el efecto depende de esa
+intensidad. Otra opción es usar distintas modalidades de la VI, es decir, diferentes
+formas del estímulo sin que cambie la cantidad. Además, estas formas pueden
+combinarse, mezclando grados de intensidad con modalidades diferentes de
+presentación del estímulo.
+
+Tipos de variables según el tipo de medición
+Una variable manifiesta es aquella que se puede medir directamente, como el tiempo
+de reacción, la profesión o el género. En cambio, una variable latente se mide de forma
+indirecta, ya que hace referencia a características no observables, como la inteligencia
+o el bienestar psicológico.
+
+Las variables extrañas
+Son todas aquellas variables distintas de la variable independiente que también
+pueden influir en la variable dependiente, pudiendo distorsionar los resultados. Por
+ello, es fundamental controlarlas o tenerlas en cuenta para que no interfieran en las
+conclusiones, e incluso pueden convertirse en variables independientes en futuras
+investigaciones.
+
+Las variables enmascaradas
+Son un tipo de variable extraña que se sitúa detrás de la variable independiente,
+variando al mismo tiempo que ella y pudiendo influir sobre la variable dependiente.
+Esto dificulta el objetivo de la investigación, ya que impide identificar con claridad la
+causa real de los cambios observados. Por ello, es fundamental detectarlas,
+desenmascararlas y controlarlas para poder establecer conclusiones válidas.
+
+El registro de las variables
+Se realiza mediante materiales e instrumentos de recogida de datos, como entrevistas,
+cuestionarios, técnicas de observación, autoobservación, test, escalas o registros
+diseñados específicamente (ad hoc). Estos instrumentos permiten recoger y registrar
+la evidencia empírica, asegurando que los datos obtenidos tengan validez y fiabilidad.
+
+
+
+
+                                                                                      25
+Los datos
+Son valores numéricos obtenidos mediante registros o sistemas de medida aplicados a
+variables conductuales o psicológicas, y deben ser coherentes con los objetivos de la
+investigación. Además, la categorización de las variables tiene que estar directamente
+relacionada con los instrumentos y técnicas de medición, de modo que la recogida de
+datos capture realmente lo que se quiere medir, ya sea conducta, procesos psicológicos,
+opiniones o rasgos.
+
+Es importante tener en cuenta que el número de registros en cada unidad de
+observación a lo largo del tiempo determina el tipo de datos: hablamos de datos
+transversales cuando hay un solo registro por unidad en un momento concreto, y de
+datos longitudinales cuando se registran varias medidas de la misma unidad en
+distintos momentos.
+
+Por último, los datos pueden obtenerse de distintas metodologías: en los experimentos
+controlados se miden procesos psicológicos (como el tiempo de reacción) o resultados
+(como el rendimiento en una tarea); en la metodología de encuestas se pretende
+describir características de una población a partir de las respuestas de una muestra; y
+en la metodología observacional se busca describir fenómenos en contextos naturales
+mediante un registro sistemático de la conducta, pudiendo el investigador intervenir o
+no en la situación observada.
+
+Los aparatos
+Incluyen desde herramientas básicas como libreta, lapicero, grabadora, videocámara o
+cronómetro, hasta tecnología avanzada como monitor de frecuencia cardíaca,
+ordenador, TAC, electroencefalograma o resonancia magnética. Lo fundamental es que
+el investigador se pregunte si cada aparato es un buen indicador de la variable que se
+está midiendo.
+
+La entrevista
+Es uno de los instrumentos más utilizados para obtener información sobre aspectos
+humanos. Permite acceder a los datos de manera directa y flexible, ya que el
+investigador puede invitar a responder y repetir preguntas si el interlocutor no
+comprende. Sin embargo, es costosa en tiempo y requiere formación, además de que
+puede introducir sesgo del entrevistador.
+
+Existen tres tipos principales: la estructurada, con un formulario estandarizado y
+preguntas idénticas para todos; la semiestructurada, que sigue una guía flexible donde
+el investigador controla contenido, orden y formulación; y la no estructurada, más
+abierta y adaptable a las características del sujeto y la situación.
+
+
+
+
+                                                                                    26
+Un cuestionario
+Es un conjunto de preguntas fijadas previamente con respuestas también
+predeterminadas, donde quien responde solo debe indicar su forma de pensar o sentir.
+El investigador define con claridad los indicadores de las variables que desea medir. A
+veces, cuando no existe un instrumento psicológico adecuado, la información se obtiene
+mediante cuestionarios. Generalmente, las preguntas son cerradas, es decir, las
+respuestas se limitan a las opciones proporcionadas.
+
+La observación
+Es una técnica que consiste en mirar la conducta de los individuos y registrar lo que
+hacen. Como herramienta de investigación, debe ser sistemática, de manera que los
+datos obtenidos puedan ser replicados por otros investigadores. Para lograr esta
+sistematicidad, es clave definir qué se observa, cómo, a quién, cuándo y dónde.
+
+Se puede observar a diferentes niveles: grupos (como familias), diadas (parejas,
+madre-hijo, profesor-alumno), individuos (adultos, niños, personas con discapacidad,
+estudiantes), procesos psicológicos (personalidad, atención, memoria, motivación,
+emoción, razonamiento, aprendizaje) o componentes psicológicos (conducta manifiesta,
+estrategias, bases fisiológicas, redes neurales).
+
+El grado de intervención del observador determina el tipo de observación: puede ser
+natural (solo observa), estructurada (interviene sugiriendo tareas) o un experimento de
+campo (crea situaciones controladas para registrar y comparar fenómenos).
+
+La autoobservación se utiliza cuando el investigador no puede acceder directamente a
+la información de manera precisa, por ejemplo, para llevar un registro sistemático de la
+alimentación semanal.
+
+Un test
+Es un instrumento psicológico diseñado para medir una variable específica, como
+inteligencia, aptitudes, rendimiento, personalidad o intereses. Consta de un conjunto
+de estímulos a los que la persona debe responder, y dispone de una regla para asignar
+números a esas respuestas, reflejando así la magnitud de la variable que se está
+evaluando.
+
+
+
+
+                                                                                     27
+Los registros ad hoc
+Son métodos para recoger información que no requieren un instrumento específico. Por
+ejemplo, si se quiere medir el grado de recuerdo de una lista de palabras, el investigador
+puede presentar una lista más larga y pedir al participante que marque las palabras que
+reconoce de la lista original. Es fundamental que la información recogida sea fiable y
+que los instrumentos utilizados se ajusten a la naturaleza de las variables definidas
+operacionalmente en el estudio.
+
+La fiabilidad y la validez
+Son las dos propiedades fundamentales que debe cumplir el registro de las variables en la
+investigación cuantitativa.
+
+La fiabilidad
+Hace referencia a que un registro sea constante y estable, es decir, que mida de forma
+consistente sin depender del momento o de quién lo realice. Incluye la estabilidad temporal, que
+indica el grado en que una medición se mantiene constante cuando se repite en distintos
+momentos; la consistencia interna, que refleja la concordancia entre las respuestas dentro de
+una misma muestra, ya sea comparando dos mitades equivalentes de un instrumento o
+instrumentos equivalentes; y el acuerdo interjueces, que se da cuando distintos observadores
+coinciden en el registro realizado en un mismo momento, siendo especialmente relevante
+cuando las variables se miden mediante observación.
+
+La validez
+Hace referencia a si una medición realmente evalúa lo que pretende medir. La validez aparente
+implica que la prueba parece adecuada para su objetivo, es decir, cumple con el fin para el que
+fue creada. La validez de contenido se da cuando los elementos de la medición representan de
+forma adecuada todos los aspectos de la variable que se quiere evaluar. La validez orientada a un
+criterio indica el grado en que los resultados se relacionan con un criterio externo con el que se
+comparan los participantes.
+
+Por su parte, la validez de constructo o teórica se cumple cuando la medición se relaciona con
+otras variables tal y como predice la teoría, correlacionando con las que debe y no haciéndolo
+con las que no corresponde. La validez discriminativa aparece cuando la prueba distingue
+correctamente entre individuos que previamente se sabe que difieren en la variable medida.
+Finalmente, la validez ecológica hace referencia a que los resultados obtenidos, especialmente
+en laboratorio, puedan extrapolarse al mundo real.
+
+La valoración del proceso de investigación
+Consiste en analizar qué conclusiones podemos extraer de los resultados y qué grado de
+confianza tienen. Por un lado, la fiabilidad de los resultados se refiere a que estos se mantengan
+estables y se repitan si el estudio se realiza de nuevo, diferenciándose de la replicabilidad. Por
+
+
+
+                                                                                               28
+otro lado, la validez de las conclusiones implica el grado de seguridad de que las inferencias
+hechas a partir de los datos son realmente ciertas.
+
+En función del tipo de análisis, podemos realizar distintos tipos de inferencias. Las inferencias
+descriptivas se centran en describir la realidad, identificando y definiendo fenómenos y
+variables. Las inferencias asociativas explican la relación entre variables, es decir, cómo los
+cambios en una variable se asocian a cambios en otra, siendo propias de estudios no
+experimentales. Por último, las inferencias causales establecen relaciones de causa-efecto,
+donde la variable independiente provoca cambios en la variable dependiente, propias de
+investigaciones experimentales.
+
+El grado de seguridad de estas conclusiones depende de la validez de la investigación. En las
+inferencias descriptivas y asociativas hablamos de validez de los resultados, mientras que en las
+inferencias causales es fundamental la validez interna, que asegura que las conclusiones son
+correctas. Cuando se pretende generalizar los resultados a otros contextos o poblaciones, entra
+en juego la validez externa, que indica hasta qué punto esas generalizaciones son válidas.
+
+Para que una inferencia causal sea sólida, deben cumplirse tres condiciones: la antecesión,
+donde la variable independiente ocurre antes que la dependiente; la covariación, que implica que
+los cambios en una variable se acompañan de cambios en la otra; y el rechazo de explicaciones
+alternativas, que supone controlar variables extrañas que puedan influir en los resultados.
+
+
+
+
+                                                                                              29
+Las amenazas a la validez interna
+Se refieren a la calidad del experimento y a si los cambios observados en la variable dependiente
+se deben realmente al tratamiento o a otros factores. Entre estas amenazas se encuentra la
+historia, que hace referencia a acontecimientos externos que ocurren durante el experimento
+y que pueden influir en los resultados, y la maduración, que alude a cambios internos de los
+participantes debidos al paso del tiempo, como el cansancio o el hambre.
+
+También es importante la administración de pruebas, que consiste en el efecto que tiene una
+medición previa sobre las posteriores, y la instrumentación, que implica cambios en los
+instrumentos o en la forma de medir a lo largo del estudio. Otra amenaza es la regresión
+estadística a la media, que ocurre cuando participantes seleccionados por puntuaciones
+extremas tienden a acercarse a valores medios en mediciones posteriores.
+
+La selección supone un problema cuando los grupos no son equivalentes desde el inicio,
+mientras que la mortalidad experimental se refiere a la pérdida desigual de participantes entre
+los grupos, lo que puede distorsionar los resultados. Además, pueden darse interacciones entre
+amenazas, como la interacción entre selección y maduración, donde los grupos evolucionan de
+forma distinta debido a sus características iniciales.
+
+Por último, el experimentador también puede ser una fuente de invalidación, ya que la
+interacción con los participantes puede influir en su comportamiento y en los resultados del
+experimento.
+
+Las amenazas a la validez externa
+Hacen referencia a los factores que dificultan que los resultados de un estudio puedan
+generalizarse a otras poblaciones o contextos. Entre ellas destacan la selección de los
+participantes, que puede limitar la validez de población si la muestra no es representativa, y las
+expectativas del investigador, que pueden influir en la interpretación de los resultados y reducir
+su aplicabilidad a otras situaciones.
+
+
+
+
+                                                                                               30
+Tema 4
+¿Qué es APA?
+La American Psychological Association (APA), fundada en 1929, es una organización que
+establece normas para estandarizar la escritura científica. Su objetivo principal es facilitar la
+comprensión de los textos académicos, promoviendo la claridad, coherencia y uniformidad.
+Actualmente, el estilo APA es uno de los más utilizados en el mundo para la presentación de
+trabajos académicos y científicos.
+
+Las normas APA son un conjunto de directrices que permiten una comunicación clara y
+precisa, especialmente en la citación y referencia de fuentes. En la actualidad, se utiliza
+la 7.ª edición. Este estilo resulta necesario porque permite encontrar la información de
+forma rápida y clara y garantiza la uniformidad y consistencia en la presentación de las
+ideas.
+
+La citación
+Tiene una importancia fundamental en la producción de conocimiento, no solo porque
+da crédito a las ideas de otras personas, sino porque establece un diálogo entre
+distintos saberes. Las citas son textos que, por lo general, no son de autoría propia y se
+insertan en un documento para respaldar la investigación.
+
+Existen dos formas principales de citar: la cita parentética y la cita narrativa. Cuando
+hay uno o dos autores, siempre se citan igual, por ejemplo: García (2007) encontró
+que…, o bien (García y Sebastián, 2015). Si hay tres o más autores, se cita solo el
+primero seguido de “et al.”, que significa “y otros”, como en (Seco et al., 2010). Cuando
+se incluyen varios trabajos en una misma cita, se separan por punto y coma, por
+ejemplo: (Davison, 1995; Gardner, 1999; Day, 2007).
+
+Parafrasear
+Consiste en expresar con palabras propias las ideas de otros autores, incorporando
+siempre las citas correspondientes, ya sea dentro del texto o entre paréntesis. Aunque
+los autores utilicen términos distintos, es frecuente que compartan teorías, enfoques o
+conclusiones similares, incluso cuando los estudios no son exactamente iguales. Al
+parafrasear, se pone en evidencia la capacidad de comprender, interpretar y sintetizar
+la información, integrándola de forma personal.
+
+
+
+
+                                                                                              31
+Citas textuales
+Las citas textuales deben incluir siempre el autor, la fecha y la página o rango de
+páginas. Si el documento no tiene paginación, se debe indicar el párrafo específico de
+donde se ha extraído la información. Por ejemplo: (Zofio, 2010, p. 14).
+
+Cuando la cita tiene menos de 40 palabras, se integra dentro del párrafo y se escribe
+entre comillas. En cambio, si supera las 40 palabras, debe colocarse en un nuevo
+párrafo, con un sangrado de 5 espacios y sin comillas.
+
+Las referencias bibliográficas
+Constituyen una relación de fuentes ordenadas alfabéticamente al final del documento
+o bien siguiendo una numeración correlativa según el orden de aparición en el texto.
+Cada tipo de documento requiere un formato de referencia específico. Es importante
+incluir únicamente los trabajos realmente consultados y citados en el texto, ya que las
+obras leídas pero no utilizadas no deben aparecer en este apartado. Asimismo, toda cita
+incluida en el texto debe corresponderse con su referencia completa en la lista final
+de referencias bibliográficas.
+
+
+
+
+                                                                                    32
+Tipos de referencia
+Las referencias bibliográficas en formato APA se utilizan para citar correctamente las
+fuentes en trabajos académicos, siguiendo una estructura específica según el tipo de
+documento.
+
+En el caso de artículos de revista, se incluyen el apellido e iniciales del autor, el año, el
+título del artículo, el nombre de la revista, el volumen, el número si lo hay, y las páginas.
+Por ejemplo: Becchio, C. & Castiello, U. (2012). Visuomotor resonance in autism
+spectrum disorders. Frontiers in Integrative Neurosciences, 22(6), 110-115.
+
+Cuando hay varias publicaciones del mismo autor en el mismo año, se distinguen
+añadiendo letras como a, b, etc., por ejemplo: Ruiz-Vargas, J.M. (2000a) y (2000b), según
+el artículo correspondiente.
+
+Si se trata de revistas electrónicas con DOI, se añade el identificador digital en formato
+https://doi.org/…, que es el estándar actual en APA 7ª edición.
+
+Los libros se citan con autor, año, título en cursiva y editorial, como en: Cassany, D.
+(1995). La cocina de la escritura. Anagrama.
+
+En los capítulos de libro, se indica el autor del capítulo, el título, la palabra “En” seguida
+de los editores del libro, el título del libro y las páginas concretas del capítulo.
+
+Las fuentes web incluyen autor o institución, fecha, título y URL, y en APA 7ª ya no es
+necesario añadir “recuperado de”, salvo que se requiera fecha de consulta.
+
+También existen otras fuentes como comunicaciones en congresos, legislación o tesis
+doctorales, que siguen formatos específicos con datos como el evento, el boletín oficial
+o la universidad.
+
+En general, las normas APA 7ª edición buscan uniformidad, claridad y facilidad para
+identificar y localizar las fuentes utilizadas en cualquier trabajo académico.
+
+
+
+
+                                                                                           33
+La redacción académica
+Requiere un vocabulario formal y el uso de un estilo impersonal, aceptándose en
+algunos casos la primera persona del plural, pero evitando siempre la primera persona
+del singular. Las aportaciones de autores deben redactarse principalmente en pasado,
+aunque en ocasiones puede emplearse el presente, y es importante evitar afirmaciones
+categóricas basadas en la experiencia personal. No es recomendable iniciar frases o
+párrafos con el nombre de un autor, ya que redactar no consiste únicamente en
+enumerar aportaciones, sino en integrarlas de forma coherente. Una vez organizada la
+información, es posible unificar ideas de distintos autores para construir un texto
+propio.
+
+Además, se debe mantener un hilo conductor claro, incluyendo introducciones y
+conclusiones breves al inicio y al final de cada apartado para facilitar la transición entre
+epígrafes. En general, se recomienda seguir un orden cronológico de las aportaciones
+teóricas y evitar que el texto se convierta en un resumen de un único autor, aportando
+siempre una visión variada y equilibrada.
+
+La elaboración de informes de investigación
+Tiene como objetivo la difusión del conocimiento científico alcanzado, utilizando
+medios adecuados y habituales de comunicación científica. El informe de investigación
+resume todas las etapas desarrolladas y los resultados obtenidos, y actúa como un
+instrumento de comunicación entre profesionales.
+
+La estructura general de un trabajo de investigación
+Comienza con un resumen y palabras clave, seguido de una introducción, donde se
+presenta la justificación del estudio y el problema de investigación, integrando el
+marco teórico, que puede dividirse en varios capítulos. Después se formulan los
+objetivos e hipótesis.
+
+A continuación se desarrolla el estudio empírico, que incluye la metodología o método,
+donde se describen los participantes, materiales, diseño y procedimiento. Después se
+presentan los resultados, es decir, los hallazgos obtenidos, y la discusión, donde se
+interpretan y explican esos resultados, respondiendo a la pregunta de qué significan.
+
+El trabajo finaliza con las conclusiones, en las que se recogen las limitaciones, posibles
+vías de mejora y una propuesta práctica, además de la bibliografía y los anexos.
+
+
+
+
+                                                                                         34
+El título
+Debe captar la atención y el interés del lector de forma clara y directa. Debe ser
+atractivo y describir con el mínimo posible el contenido más relevante del trabajo,
+utilizando un estilo neutro y descriptivo. Tiene que ser breve, claro e inequívoco,
+reflejando con precisión el contenido. Es importante evitar palabras inespecíficas,
+términos poco comunes, abreviaturas y fórmulas, ya que pueden dificultar la
+comprensión del título.
+
+El resumen o abstract
+Debe sintetizar de forma clara y precisa los aspectos centrales del trabajo, incluyendo el
+objetivo, los materiales y métodos, los resultados más relevantes, y una discusión
+breve junto con la conclusión principal.
+
+Debe ser preciso, reflejando el propósito del estudio y sus características más
+importantes sin incluir información secundaria. Además, tiene que ser autodefinible, lo
+que implica que debe poder entenderse por sí mismo, evitando el uso de abreviaturas o
+acrónimos, y priorizando la paráfrasis en lugar de citas literales.
+
+También debe ser conciso y específico, de manera que cada frase aporte la mayor
+cantidad de información posible, manteniendo una extensión breve, normalmente en
+torno a 200 palabras. El estilo debe ser descriptivo, utilizando preferentemente verbos
+en voz activa y combinando tiempos verbales según el contexto: el presente para
+resultados con aplicación vigente o discusión, y el pasado para la descripción de
+variables y procedimientos.
+
+En cuanto a su contenido, el resumen no debe incluir citas ni referencias
+bibliográficas, ni hacer alusión directa al texto principal del artículo. Además, debe ser
+lo más cuantitativo posible, destacando la significación y relevancia de los resultados
+obtenidos.
+
+
+
+
+                                                                                       35
+La introducción
+Debe dejar claro con la mayor precisión posible cuál es el problema que se pretende
+resolver y por qué es relevante hacerlo, aportando además evidencias de la originalidad
+del estudio y destacando la importancia de su posible contribución. El problema debe
+formularse de manera clara, razonable y atractiva, ya que esto determina el interés por
+conocer su solución.
+
+El marco teórico o contextual sitúa el problema dentro del conocimiento existente,
+explicando qué se sabe actualmente, qué no se sabe aún y qué implicaciones tendría
+descubrirlo en términos económicos, sociales, tecnológicos o científicos. Este apartado
+debe basarse en evidencia de la literatura científica para justificar la originalidad,
+coherencia e interés del problema, realizando una síntesis clara que vaya de lo general
+a lo específico. Además, solo deben incluirse los trabajos más directamente relacionados
+con la hipótesis, seleccionando cuidadosamente las referencias. Finalmente, la
+formulación de los objetivos e hipótesis debe realizarse al final de la parte teórica.
+
+Redacción académica
+La interpretación musical se asocia con distintas demandas cognitivas, especialmente
+relacionadas con el procesamiento de la armonía, la tonalidad, el fraseo y la métrica
+(Gabrielsson, 1999; Palmer, 1997; Palmer & Pfordresher, 2003). En este sentido, también
+puede implicar otras exigencias cognitivas vinculadas a la coordinación y al control
+durante la ejecución musical.
+
+Teniendo en cuenta estas demandas, la práctica continuada en interpretación musical
+se ha relacionado con mejoras en funciones ejecutivas (FE) (Bialystok y DePape, 2009;
+Franklin et al., 2008; George y Coch, 2011; Lee et al., 2007; Ramachandra et al., 2012;
+Roden et al., 2014). Considerados globalmente, los resultados de los estudios revisados
+muestran que la práctica musical podría favorecer el rendimiento cognitivo en este
+ámbito.
+
+En este contexto, la evidencia sugiere una relación consistente entre la experiencia
+musical y el desarrollo de habilidades cognitivas superiores.
+
+
+
+
+                                                                                     36
+Método: parte empírica
+El método describe cómo se ha estudiado el problema, permitiendo la replicabilidad, es
+decir, aportar suficiente información para que otra persona pueda repetir el estudio.
+Además, establece los límites de la universalidad de los resultados, ya que las
+conclusiones no buscan ser anecdóticas ni centradas en un caso concreto, sino
+generalizables más allá del estudio específico.
+
+En esta parte se detallan los materiales y métodos de preparación, organizados en
+secciones. Se describe la muestra (participantes, grupos, etc.), los instrumentos de
+medida (escalas, tests, cuestionarios o tareas experimentales), y los procedimientos
+seguidos (condiciones y pasos del estudio). También se incluye el diseño del estudio,
+donde se especifican las variables, condiciones o tratamientos empleados, y la
+estrategia de análisis de datos, indicando las técnicas estadísticas utilizadas y su
+justificación.
+
+Resultados
+Se presenta la descripción general de la muestra, incluyendo el número de varones y
+mujeres, la edad, la experiencia y otras variables relevantes del estudio. En esta sección
+se exponen exclusivamente las evidencias de los hallazgos originales, de forma
+totalmente objetiva, sin interpretación de los datos.
+
+Solo deben incluirse los datos que sean relevantes para el objetivo e hipótesis del
+estudio, evitando información innecesaria o excesiva, ya que esto no demuestra mayor
+conocimiento, sino falta de criterio para discriminar lo importante. En este apartado se
+debe reflejar tanto lo que se encontró como lo que no se encontró, sin sesgar la
+información hacia los resultados esperados.
+
+El texto no debe repetir los datos ya presentados en tablas o figuras, sino que debe
+destacar y enfatizar los aspectos más relevantes de estas. Las tablas y figuras deben
+ser auto-contenidas, es decir, comprensibles sin necesidad de leer el texto.
+
+En normas APA, los decimales se expresan con punto (por ejemplo, 5.4), mientras que la
+coma se utiliza únicamente para separar miles (por ejemplo, 1,200 ms).
+
+En estudios cuantitativos, los resultados se presentan mediante estadísticos
+descriptivos, como porcentajes y gráficos elaborados con herramientas como SPSS,
+Jamovi o Excel. En estudios cualitativos, el análisis se basa en una descripción de las
+respuestas, identificando coincidencias y diferencias entre los participantes.
+
+
+
+
+                                                                                       37
+La discusión
+Debe centrarse en explicar el significado de los resultados obtenidos y sus
+implicaciones prácticas, indicando de forma clara si las hipótesis se confirman o no.
+No se trata de repetir los resultados, sino de interpretarlos y situarlos en un contexto
+más amplio, relacionándolos con la literatura previa y mostrando en qué medida
+coinciden o difieren de estudios anteriores. Además, puede incluir una cierta reflexión
+subjetiva, siempre razonada y apoyada en la evidencia científica.
+
+Una buena discusión debe reflejar hasta qué punto los resultados son generalizables, si
+concuerdan con otras evidencias y cuáles son sus implicaciones teóricas y prácticas.
+
+En cuanto a las conclusiones, deben presentarse en un párrafo final claro, basadas
+únicamente en los resultados y expresadas sin ambigüedades, evitando mezclar
+elementos especulativos propios de la discusión. Es fundamental que estén justificadas
+por los datos y que incluyan tanto las limitaciones del estudio como sus puntos fuertes
+y aportaciones innovadoras respecto a investigaciones previas.
+
+Las referencias
+Deben incluir todas las obras citadas en el texto, asegurándose de que sean trabajos
+científicos publicados y válidos. Es importante evitar fuentes no accesibles
+públicamente y garantizar que todas las citas del texto aparezcan en la lista de
+referencias, del mismo modo que no se deben incluir obras que no hayan sido citadas
+en el cuerpo del trabajo.
+
+En cuanto a los anexos, deben incorporarse materiales complementarios como modelos
+de consentimiento informado, cuestionarios, escalas, entrevistas o imágenes, siempre
+que sean relevantes para el trabajo.
+
+
+
+
+                                                                                     38
+Tema 5
+El estudio descriptivo
+Se utiliza para describir un fenómeno, es decir, para explicar qué ocurre, cómo ocurre
+y cuándo sucede. Su función principal es ofrecer una especie de “mapa” de las variables
+de interés, mostrando sus características y cómo se presentan. Lo más importante es
+que no establece relaciones entre las variables, sino que simplemente las describe tal y
+como aparecen.
+
+Su principal ventaja es que proporciona una visión general de los datos, siendo la
+información mínima necesaria en cualquier estudio empírico. Sin embargo, su
+desventaja es que no permite hacer inferencias ni analizar relaciones entre variables,
+por lo que la información que aporta es limitada y únicamente descriptiva.
+
+La encuesta
+Es una técnica de recogida de información que puede clasificarse según el momento en
+que se obtienen los datos. Las encuestas transversales recogen toda la información de
+una muestra en un único momento concreto. Su finalidad puede ser descriptiva y
+analítica, ya que permiten estudiar aspectos como la prevalencia de un fenómeno, los
+factores de riesgo o la relación entre variables en un momento determinado.
+
+Por otro lado, las encuestas longitudinales tienen como objetivo principal medir los
+cambios que se producen en los sujetos a lo largo del tiempo, permitiendo observar
+cómo evolucionan determinadas variables o características.
+
+En cuanto a los métodos de recogida de información, la entrevista personal es el más
+utilizado en psicología y también uno de los más fiables para obtener información de la
+población. Su principal ventaja es que permite aclarar dudas durante el proceso,
+aunque presenta como inconveniente el posible sesgo del entrevistador.
+
+La encuesta telefónica es una opción más económica que la entrevista personal y
+facilita llegar a un mayor número de personas. Sin embargo, suele presentar una mayor
+pérdida de participantes, ya que es más difícil establecer o mantener el contacto.
+
+La encuesta postal consiste en enviar el cuestionario por carta, acompañado en
+ocasiones de recordatorios posteriores para aumentar la participación. Su principal
+desventaja es la alta tasa de abandono o falta de respuesta, aunque puede
+complementarse con recordatorios telefónicos.
+
+Por último, la encuesta por internet destaca por la rapidez en la recogida de datos y
+por facilitar su posterior procesamiento estadístico, además de permitir llegar a
+muchas personas. Como desventaja, puede resultar más complicado formular
+preguntas abiertas y obtener respuestas detalladas.
+
+                                                                                     39
+Los estudios observacionales
+Se basan en la observación como método de recogida de información sobre fenómenos
+naturales. Su principal utilidad es describir el comportamiento tal y como ocurre en la
+realidad, aunque no permiten establecer relaciones de causalidad entre las variables
+observadas.
+
+La observación puede entenderse como método cuando sirve para identificar, describir,
+explicar y relacionar una conducta, y como técnica cuando se utiliza como una
+estrategia concreta para recoger datos dentro de otra metodología, como puede ser la
+experimental.
+
+Su principal ventaja es el realismo y la veracidad de la información obtenida, ya que
+permite estudiar la conducta en contextos naturales. Además, es un procedimiento
+sistemático, porque sigue unas reglas previamente establecidas y está orientado hacia
+un objetivo específico. Sin embargo, presenta algunas limitaciones importantes: no
+existe control sobre las variables, y pueden aparecer sesgos del observador, ya que a
+veces resulta difícil diferenciar entre los hechos observados y la interpretación que se
+hace de ellos.
+
+Se distingue entre observación ordinaria y observación científica. La observación
+ordinaria consiste en percepciones casuales o espontáneas, sin una hipótesis previa ni
+intención de buscar relaciones entre variables; simplemente se observa lo que sucede.
+En cambio, la observación científica tiene un objetivo de investigación definido, está
+planificada de forma sistemática (qué se observa, cómo y cuándo), se realiza de manera
+más controlada y está sometida a criterios de validez y fiabilidad para garantizar que
+los resultados sean rigurosos.
+
+Tipos de observación en función de la sistematización
+La observación no sistematizada es una forma de observación más libre y flexible.
+Puede utilizarse para detectar una problemática que sirva como punto de partida para
+una investigación posterior o simplemente sin intención experimental. Aunque no sigue
+reglas estrictas, siempre debe estar guiada por unos objetivos concretos. Se caracteriza
+por una atención poco estructurada pero muy abierta, permitiendo al observador
+atender a diferentes comportamientos y situaciones que van surgiendo.
+
+Por otro lado, la observación sistematizada es más rigurosa y organizada. Permite el
+uso de instrumentos auxiliares, como grabaciones, para aumentar la precisión de los
+datos recogidos. El grado de control depende en gran medida de las herramientas
+empleadas y tiene como ventaja principal que los datos pueden cuantificarse, lo que
+facilita su análisis. Se utiliza especialmente en el estudio de pequeños grupos y es
+fundamental no perder de vista el contexto en el que ocurre la conducta, ya que este
+puede influir de forma determinante en lo observado.
+
+
+                                                                                     40
+En la investigación con observación sistemática
+Los datos se recogen en un contexto previamente definido y en función de los factores
+establecidos en la hipótesis de investigación. Esta observación puede realizarse en
+distintos contextos. En el contexto natural, se estudia el comportamiento de las
+personas en su vida cotidiana, procurando que tanto los participantes como los
+investigadores actúen con normalidad para no alterar la situación. En el contexto de
+laboratorio, el investigador prepara previamente las condiciones para ajustarlas a sus
+objetivos y minimizar posibles interferencias externas. En el contexto clínico, también
+se controlan las condiciones del entorno, pero se centra en el análisis detallado del
+paciente, que normalmente sabe que está siendo observado; en este caso, es importante
+crear un clima favorable y una buena relación entre observador y observado. Además,
+existen las llamadas observaciones equipadas, en las que se utilizan materiales
+específicos, como espejos unidireccionales, y que suelen desarrollarse en contextos de
+laboratorio o clínicos.
+
+Según el grado de participación del observador
+La observación externa o no participante se da cuando el observador se mantiene
+independiente de lo que observa, permaneciendo alejado tanto a nivel temporal,
+espacial como afectivo. Esto permite reducir la reactividad de las personas observadas
+y favorece una mayor objetividad.
+
+En cambio, en la observación interna o participante, el observador mantiene contacto
+directo y participa en la situación que está analizando. Aunque esto puede aportar una
+comprensión más profunda del contexto, también puede aumentar la reactividad, por
+lo que es fundamental garantizar la objetividad y la precisión de lo observado.
+
+Por último, la autoobservación ocurre cuando el observador y la persona observada
+son la misma, es decir, la persona analiza su propia conducta. En este caso existe un
+alto riesgo de falta de objetividad, ya que puede resultar difícil evaluar la propia
+experiencia de manera imparcial.
+
+Fases del método observacional
+El método observacional sigue las mismas cuatro fases básicas del método científico.
+Tras haber definido los objetivos y las hipótesis del estudio, apoyados en un marco
+teórico, el proceso continúa con la delimitación de la conducta y de la situación de
+observación, seguida de la recogida y optimización de los datos, el análisis de los
+mismos y, finalmente, la interpretación de los resultados.
+
+
+
+
+                                                                                     41
+Delimitación de la conducta y de la situación de observación
+Se define primero el problema de observación, es decir, qué se va a observar y para qué,
+seguido de la elección de la modalidad de observación, que indica cómo se va a
+observar, y del escenario, que determina dónde tendrá lugar la observación. A esto se
+añade la elaboración de una guía de observación, que concreta qué aspectos específicos
+de la conducta se van a registrar, la planificación del tiempo o momento de
+observación, y la selección de las técnicas de registro, que responden a cómo y con qué
+medios se va a recoger la información, junto con las técnicas de análisis que permitirán
+interpretar los datos obtenidos.
+
+En cuanto a qué se observa, se distinguen diferentes tipos de conducta. La conducta no
+verbal incluye expresiones motoras como la expresión facial, la conducta gestual y la
+postura corporal. La conducta espacial o proxémica se refiere a cómo la persona ocupa
+el espacio, sus desplazamientos, trayectorias y elección de ubicación. La conducta vocal
+o extralingüística se centra en los aspectos de la voz, como el tono, el timbre, la
+duración o la continuidad de las vocalizaciones, sin atender al contenido del mensaje.
+Por último, la conducta verbal o lingüística hace referencia al contenido del mensaje,
+tanto hablado como escrito.
+
+Las unidades de análisis pueden adoptar distintas formas. Puede analizarse el continuo
+del comportamiento, registrando de manera amplia y descriptiva la conducta en
+contextos naturales durante periodos prolongados, o bien centrarse en conductas
+específicas, entendidas como respuestas motoras o verbales concretas. También
+pueden estudiarse interacciones, cuando la unidad de análisis es la relación secuencial
+entre eventos de dos o más personas o entre la persona y el entorno, o bien los
+productos de conducta, que son los resultados observables de actividades internas o
+externas realizadas en contextos naturales o artificiales.
+
+En estas unidades se pueden medir distintos aspectos como la ocurrencia, frecuencia,
+latencia, duración e intensidad, lo que permite caracterizar la conducta de forma
+precisa. Las decisiones sobre qué y cómo observar implican definir la conducta y la
+situación de observación, el tipo de observación y de conducta, su cualidad, el contexto
+y el sistema de recogida de datos.
+
+El tipo de observación puede ser externa o no participante, cuando el observador no
+interviene, o interna o participante, cuando forma parte de la situación. El tipo de
+conducta puede ser no verbal, espacial, extralingüística o lingüística, y las unidades de
+análisis pueden centrarse en el continuo de comportamiento, conductas específicas,
+interacciones o productos de conducta. La cualidad de la conducta incluye aspectos
+como frecuencia, latencia, ritmo, intensidad, duración, antecedentes y consecuentes,
+además de la topografía o direccionalidad de la respuesta. Finalmente, el contexto de
+observación puede ser natural, de laboratorio o clínico, según el entorno en el que se
+realice el registro.
+
+
+                                                                                      42
+Recogida y optimización de datos
+La recogida de datos en observación se basa en un sistema de registro que puede ser
+directo o indirecto (por ejemplo, mediante grabaciones), y puede adoptar un formato no
+sistematizado o textual o bien uno sistematizado o codificado, dependiendo del grado
+de organización que se necesite. La elección del sistema influye directamente en la
+calidad y utilidad de la información obtenida.
+
+Dentro de las técnicas de registro, es clave la categorización, que consiste en
+establecer un sistema de categorías previamente definido, junto con criterios que
+pueden ser cronológicos o basados en conductas simples o complejas, con el objetivo
+de ordenar y hacer observables los datos de forma coherente.
+
+También deben tomarse decisiones sobre cuándo y a quién observar, determinando la
+duración total de la observación, su frecuencia, los momentos de inicio y final de cada
+sesión y si estos serán constantes o variables, así como si se utilizarán intervalos de
+tiempo para organizar el registro. Además, es fundamental decidir en qué situaciones
+se observará y qué sujetos concretos formarán parte del estudio.
+
+En relación con el muestreo observacional, el de tiempo implica decidir durante cuánto
+tiempo y cuántas sesiones se observa, con qué periodicidad y cómo se estructuran los
+intervalos de observación y registro. Dentro de este tipo, el muestreo momentáneo
+registra la conducta solo en el instante en que ocurre, sin necesidad de atención
+continua; el muestreo de intervalos parciales registra si la conducta aparece en algún
+momento del intervalo, exigiendo atención constante; y el muestreo de intervalos
+totales requiere que la conducta ocurra durante todo el intervalo para ser registrada,
+siendo una observación continua con registro discontinuo.
+
+El muestreo de situaciones se utiliza cuando se quiere analizar la generalización o
+especificidad de la conducta en distintos contextos, como el familiar, social o escolar.
+Por otro lado, el muestreo de sujetos se aplica cuando se estudian varios individuos,
+implicando la selección de participantes (aleatoria o estratificada), la distribución de los
+intervalos de observación y la elección de un criterio de razón fija o variable.
+
+La recogida de datos consiste en transformar la información conductual en registros
+observables sin pérdida de información relevante, manteniendo su utilidad. Estos
+registros pueden variar en su nivel de sistematización según los objetivos e hipótesis del
+estudio, lo que determina el grado de estructura del procedimiento.
+
+Finalmente, la calidad de la observación depende de su validez, es decir, que realmente
+se observe lo que se pretende observar y que las conductas correspondan a las
+categorías definidas, y de su fiabilidad, que implica consistencia en la observación,
+especialmente cuando existe acuerdo entre distintos observadores (fiabilidad
+inter-jueces).
+
+
+
+                                                                                         43
+Análisis e interpretación de resultados
+Una vez obtenidos los datos, pueden aplicarse distintas técnicas estadísticas para su
+análisis, como análisis descriptivos, pruebas no paramétricas, correlaciones intra-clase,
+análisis secuencial intra-sesional, series temporales, regresión logística o análisis de
+tendencias, entre otras.
+
+La interpretación de los resultados debe realizarse siempre en relación con las
+hipótesis iniciales, determinando si estas se confirman o no. Además, es fundamental
+reflexionar sobre los resultados en conexión con las teorías que sustentan los objetivos
+del estudio, con el fin de ofrecer una explicación coherente y fundamentada.
+
+En este proceso pueden aparecer diferentes fuentes de sesgo que afectan a la validez de
+la observación. Destaca el sesgo como amenaza sistemática, así como la reactividad de
+los sujetos observados, la reactividad recíproca (cuando también influye en el
+observador), la auto-reactividad (efecto del propio auto-registro, que suele reducir la
+conducta problema) y la expectativa del observador, que puede condicionar la
+interpretación de los datos.
+
+
+
+
+                                                                                      44
+Tema 6
+La metodología cualitativa
+Se basa en una concepción de la realidad como múltiple y construida, es decir, no
+existe una única verdad objetiva, sino diferentes interpretaciones de los fenómenos. Su
+objetivo científico no es solo describir lo que ocurre, sino sobre todo comprender en
+profundidad los fenómenos en su contexto.
+
+En este enfoque, el investigador y el objeto de estudio se influyen mutuamente, por lo
+que no se asume una separación total entre ambos. El conocimiento que se obtiene es
+de tipo idiográfico, centrado en el estudio detallado e individual de los casos, más que
+en la generalización.
+
+Además, se considera que los fenómenos suelen darse de forma simultánea y compleja,
+lo que hace difícil establecer relaciones claras de causa y efecto. Por último, se reconoce
+que la investigación no es completamente neutral, ya que siempre existen valores
+implícitos que influyen en el proceso y en la interpretación de los resultados.
+
+El constructivismo social
+Es una corriente teórica en la que se basa gran parte de la investigación cualitativa.
+Parte de la idea de que las realidades sociales no existen de forma objetiva o
+independiente, sino que se construyen a través de la interacción entre las personas. El
+significado de las cosas no es fijo ni dado, sino que surge como una construcción
+compartida entre individuos mediante el lenguaje, por lo que siempre está sujeto a
+interpretación.
+
+Desde esta perspectiva, lo importante es el mundo como experiencia vivida, es decir,
+cómo es sentido y percibido por las personas dentro de su contexto social. Por ello se
+entiende que hay tantas realidades como personas que las experimentan, ya que cada
+una construye su propia interpretación de lo que vive. En este proceso, los participantes
+no son solo objetos de estudio, sino que co-construyen la realidad junto con los
+investigadores. El objetivo final es comprender esa realidad tal y como es vivida por
+quienes la experimentan.
+
+
+
+
+                                                                                        45
+Las dos tradiciones principales de investigación
+La investigación cuantitativa se centra en convertir la realidad en variables numéricas
+o nominales para poder analizar relaciones entre ellas. Por ejemplo, si queremos saber
+si las niñas tienen más ansiedad social que los niños, se utilizaría una herramienta
+estandarizada para medir la ansiedad y después se compararían las medias entre ambos
+grupos. En este enfoque, la realidad se entiende como un sistema de variables estables,
+y el objetivo principal es establecer relaciones y causas entre los hechos, normalmente
+mediante métodos como el experimental, cuasi-experimental o descriptivo. Es el
+paradigma más extendido porque permite trabajar con muestras grandes y generalizar
+resultados, además de usar técnicas de análisis más objetivas que no dependen del
+evaluador. Su principal dificultad es la posible distancia entre la realidad real y cómo se
+mide en la investigación.
+
+En cambio, la investigación cualitativa se centra en explorar y comprender las
+experiencias de las personas, entendiendo la realidad como algo contextual, único e
+inestable. En el mismo ejemplo de la ansiedad social, en lugar de medirla con escalas, se
+preguntaría a niños y niñas cómo la viven y cómo la interpretan. Su objetivo no es tanto
+explicar con leyes generales, sino interpretar el fenómeno en profundidad, utilizando
+métodos como entrevistas, observación, estudios de caso o grupos de discusión.
+Aunque permite un conocimiento más rico y detallado, tiene dificultades para
+generalizar resultados y construir teorías amplias.
+
+
+
+
+                                                                                        46
+La etnografía
+Es un plan de investigación cualitativo cuyo objetivo es describir e interpretar la
+organización y el comportamiento de un grupo social o cultural, basándose en las
+categorías de análisis propias del propio grupo estudiado. El investigador no se limita a
+observar desde fuera, sino que busca integrarse en el grupo como un miembro más, lo
+que permite comprender la realidad “desde dentro”. Sus orígenes se encuentran en la
+Antropología cultural y la Sociología, destacando autores como Bronislaw Malinowski,
+pionero en el trabajo de campo con comunidades indígenas de Melanesia.
+
+El proceso de investigación etnográfica se caracteriza por un diseño abierto y flexible,
+que comienza con la planificación del estudio y la elección de las técnicas para recoger
+información. Después se accede al grupo mediante un contacto inicial cuidadoso,
+normalmente a través de algún miembro clave, y se realiza una aproximación progresiva
+hasta lograr la inserción en el contexto. A continuación se seleccionan los informantes
+más adecuados, se recoge la información durante un periodo de estancia que no está
+totalmente cerrado de antemano y, posteriormente, se analiza el material obtenido,
+especialmente los discursos, para identificar temas y categorías comunes y ver cómo
+varían según las personas y situaciones. Finalmente, todo ello se plasma en un informe
+interpretativo.
+
+En cuanto a las técnicas de recogida de datos, la etnografía se apoya principalmente en
+la observación participante, las entrevistas en profundidad, las conversaciones
+informales y el análisis de documentos y objetos culturales, que permiten reconstruir
+el significado de la vida cotidiana del grupo estudiado.
+
+
+
+
+                                                                                      47
+El estudio de casos
+Es una metodología de investigación que consiste en el análisis profundo de una única
+unidad muestral, con el objetivo de comprenderla en su complejidad y, a partir de ella,
+extraer conclusiones relevantes.
+
+Puede ser de tipo intrínseco, cuando el caso no se selecciona por el investigador sino
+que viene dado por su propia singularidad, como ocurre en el ejemplo del niño salvaje
+de L’Aveyron. También puede ser instrumental, cuando el caso se elige por su valor para
+entender un fenómeno más general, como el de Sydney Blotzman para analizar la
+influencia de los factores contextuales en la delincuencia juvenil. Por último, existe el
+estudio de casos múltiple, que parte de un diseño instrumental pero incluye varios
+casos seleccionados de forma intencional para representar contrastes o diferencias
+extremas, como ocurre al comparar escuelas de distintos contextos socioeconómicos y
+su relación con las demandas familiares.
+
+Este tipo de investigación tiene su origen en ámbitos como las ciencias de la salud, la
+evaluación de programas y la sociología.
+
+El proceso de investigación comienza con la selección y definición del caso,
+determinando si es intrínseco, instrumental o múltiple. Después se formulan preguntas
+guía, partiendo de una cuestión general que se va concretando en otras más específicas,
+sin llegar a ser excesivamente cerradas para no limitar la exploración. A continuación se
+procede a la localización de fuentes de datos, que pueden incluir relatos del propio
+sujeto, informes de servicios sociales, registros judiciales o cualquier información
+relevante disponible. Posteriormente se realiza el análisis e interpretación, buscando
+patrones o temas recurrentes que permitan organizar la información en ejes
+significativos relacionados con personas, contextos o situaciones. Finalmente, se
+elabora el informe, donde se integran y presentan los resultados.
+
+En cuanto a las técnicas de recogida de datos, destacan el análisis de documentos, las
+entrevistas en profundidad, las entrevistas grupales y la observación directa, todas
+ellas orientadas a obtener una comprensión rica y detallada del caso estudiado.
+
+
+
+
+                                                                                      48
+La investigación-acción
+Es un tipo de investigación que parte del estudio de una situación social real con el
+objetivo de mejorarla, no solo de describirla. Su idea central es que investigar y actuar
+van unidos, porque el conocimiento sirve para transformar la realidad mientras se está
+interviniendo en ella.
+
+Dentro de esta perspectiva, la investigación-acción participativa (IAP) supone un
+cambio importante: las personas implicadas en el problema no son solo “objeto de
+estudio”, sino que participan activamente en todo el proceso. Se pasa de investigar para
+la comunidad a investigar desde la comunidad, de modo que el investigador deja de ser
+un observador externo y se convierte en un miembro más del grupo, incorporando su
+conocimiento y trabajando junto a la comunidad. Este enfoque tiene sus orígenes en la
+Psicología Social de Kurt Lewin y en la Psicología Comunitaria.
+
+El proceso de investigación-acción se organiza en ciclos. Primero se parte de una idea
+general sobre una situación que se quiere comprender y mejorar, pero esta idea puede
+ir cambiando a medida que el investigador se acerca a la realidad. Después se realiza
+una recogida de datos que permite describir con detalle lo que está ocurriendo y
+formular hipótesis explicativas que orienten la intervención. A partir de ahí se diseña
+un plan de acción estructurado, que se pone en marcha por pasos. Cada intervención
+debe evaluarse tanto en su implantación como en su impacto, lo que permite revisar si
+lo que se está haciendo funciona o si hay que modificar la estrategia o incluso las
+hipótesis iniciales. Este proceso no es lineal, sino que se repite en ciclos sucesivos de
+acción y evaluación.
+
+En la IAP, además, se añade una fase previa fundamental: el contacto con la comunidad,
+que incluye la toma de contacto o selección del grupo, la familiarización entre
+investigadores y participantes mediante intercambios informales y documentos, y el
+inicio formal del trabajo a través de reuniones con la comunidad o sus representantes.
+La participación no tiene por qué ser igual para todos desde el principio, sino que se va
+configurando progresivamente un equipo investigador en el que siempre hay miembros
+de la comunidad y diferentes niveles de implicación.
+
+Según el modelo de Lewin, el proceso sigue una secuencia en espiral: parte de una idea
+inicial, pasa por una fase de exploración de hechos, la elaboración de un plan general,
+la ejecución de un primer paso, su evaluación y la rectificación del plan, repitiendo
+después el ciclo con nuevas acciones y evaluaciones.
+
+Para recoger información en este tipo de investigación se utilizan principalmente
+entrevistas grupales, análisis de documentos, observación, observación participante
+(especialmente en IAP), conversaciones informales y asambleas, todas ellas orientadas
+a comprender la realidad desde dentro y con la participación activa de las personas
+implicadas.
+
+
+                                                                                      49
+Las técnicas cualitativas de recogida de datos
+Se basan en obtener información de carácter descriptivo y profundo sobre las personas
+que participan en un estudio. Dentro de ellas, se pueden distinguir aquellas que se
+realizan mediante observación y las que se llevan a cabo a través de entrevistas, así
+como otras de carácter más subjetivo.
+
+Este tipo de técnicas se centran en recoger lo peculiar y único de cada individuo, por lo
+que se priorizan métodos de obtención de información no estructurados, que permiten
+captar mejor la complejidad y la experiencia personal de los participantes.
+
+Mediante observación
+La observación participante es una técnica en la que el observador forma parte del
+fenómeno que estudia y lo describe mediante un registro narrativo en lenguaje
+natural, sin traducir lo observado a códigos de investigación. Es típica de la etnografía,
+ya que permite captar la realidad desde dentro del propio contexto.
+
+El análisis de tareas consiste en observar o interrogar a una persona mientras realiza
+una actividad propuesta por el investigador, seleccionada por su relevancia para el
+problema de estudio, como puede ser el análisis de toma de decisiones.
+
+El análisis de documentos se basa en examinar materiales producidos por un grupo o
+institución de interés, como actas, historias clínicas, cartas, diarios o publicaciones,
+estableciendo previamente una unidad de análisis y un sistema de categorías para
+poder codificarlos e interpretarlos.
+
+
+
+
+                                                                                       50
+Mediante entrevista
+En la entrevista totalmente estructurada, las preguntas están completamente fijadas
+de antemano y no se salen del guión establecido, aunque a diferencia de un
+cuestionario, las respuestas son abiertas. La entrevista semiestructurada parte de una
+guía o checklist de temas, pero permite que el orden y la formulación de las preguntas
+se adapten al desarrollo de la conversación, pudiendo incluso introducir nuevos temas si
+aparecen de forma espontánea. La entrevista no estructurada es más flexible e
+informal, centrada en un tema de interés general sin un guión rígido.
+
+Dentro de esta modalidad destaca la entrevista en profundidad, que es una técnica no
+estructurada orientada a explorar en detalle las cuestiones del entrevistado, buscando
+lo particular y lo significativo. El investigador parte de algunas preguntas iniciales, pero
+deja que la conversación evolucione libremente hacia los aspectos relevantes que vayan
+surgiendo.
+
+Para realizar una buena entrevista es clave escuchar más de lo que se habla, formular
+preguntas directas, cortas y no amenazantes, y evitar cualquier elemento que
+introduzca sesgos o deseabilidad social. Es importante mantener una actitud de
+escucha activa, grabar la información siempre con consentimiento y garantizando la
+confidencialidad, y complementar con registros como notas. Las preguntas deben ser
+siempre asépticas y adaptadas al lenguaje del entrevistado, evitando jerga propia que
+pueda generar confusión.
+
+Las preguntas en este contexto suelen ser abiertas y flexibles, ajustadas al sujeto.
+Cuando las respuestas son demasiado breves o incompletas se recurre al sondeo,
+mediante reformulaciones, nuevas preguntas o incluso silencios que inviten a ampliar la
+información. También pueden utilizarse estímulos, como mencionar elementos
+concretos para provocar reacciones, siempre de forma consistente.
+
+Otra modalidad es la entrevista grupal o grupo de discusión, donde se entrevista
+simultáneamente a varias personas relevantes para un tema. Se seleccionan
+intencionadamente buscando diversidad de opiniones sin incompatibilidades, y el
+entrevistador actúa como dinamizador. El proceso suele seguir una secuencia de
+preguntas abiertas, discusión entre los participantes y conclusiones generadas por el
+propio grupo, con entre 5 y 10 personas durante unos 90 minutos (máximo 120).
+
+Finalmente, la técnica Delphi se utiliza para alcanzar consenso entre expertos dispersos
+geográficamente. Consiste en aplicar cuestionarios de forma repetida, compartiendo
+entre rondas las respuestas del grupo para que los participantes puedan reconsiderar
+sus opiniones y acercarse progresivamente a un consenso, siendo habitual su uso en
+evaluación de programas y toma de decisiones.
+
+
+
+
+                                                                                         51
+Las técnicas subjetivas
+Son procedimientos de evaluación dentro de la tradición de la Psicología Clínica que
+permiten recoger la forma particular en la que cada persona organiza su experiencia y
+da significado a su mundo, es decir, no buscan medir solo rasgos generales, sino
+comprender la estructura personal e idiosincrática del individuo.
+
+Entre ellas se encuentran las técnicas de adjetivos, en las que se pide a la persona que
+se describa a sí misma o a otros mediante listas de adjetivos, ya sea generados
+libremente o seleccionados de un conjunto dado. También está la técnica Q de
+Stephenson, que consiste en ordenar tarjetas con afirmaciones (por ejemplo, “me
+cuesta confiar en los demás”) en una distribución forzada según el grado en que
+representan a la persona, desde lo más característico hasta lo menos característico.
+
+Otra técnica es la rejilla, donde se identifican elementos significativos (como personas
+importantes) y se comparan en tríadas para extraer constructos personales (por
+ejemplo, “comprensivo–frío”). A partir de ahí, esos elementos se valoran en función de
+dichos constructos, lo que permite acceder a la estructura cognitiva única de cada
+individuo y a cómo organiza su mundo social y personal.
+
+Por último, el diferencial semántico utiliza escalas bipolares (como bueno–malo o
+fuerte–débil) para que la persona evalúe distintos objetos, conceptos o personas,
+permitiendo explorar el significado psicológico que estos tienen para ella.
+
+El núcleo básico del análisis cualitativo
+Lo esencial es cómo se organizan los datos en categorías y cómo se relacionan entre
+sí. Categorizar consiste en identificar patrones o elementos relevantes dentro de los
+datos cualitativos y darles un nombre o etiqueta, es decir, codificarlos, de manera que
+esos fragmentos queden conceptualizados y diferenciados del resto.
+
+Aunque en algunos enfoques se distingue entre categorizar y codificar, en la práctica
+ambos procesos suelen solaparse, ya que al conceptualizar un fragmento de
+información es necesario asignarle un código que lo identifique. Por tanto, el código es
+simplemente la etiqueta que describe un segmento de texto, y la codificación supone la
+forma operativa de la categoría o tema, es decir, el nombre que permite agrupar
+fragmentos de datos relevantes bajo un mismo significado.
+
+La tarea central del análisis cualitativo es construir categorías que pueden ir desde las
+más cercanas a los datos hasta otras más abstractas que integran varias categorías, lo
+que implica un proceso de segmentación de la información. Este análisis se basa,
+fundamentalmente, en la identificación de temas y subtemas y en la relación entre
+ellos para darles sentido y explicarlos en función del problema de investigación.
+
+
+
+
+                                                                                      52
+El análisis de datos cualitativos
+Se realiza en tres pasos fundamentales: la identificación, la agrupación de primer nivel
+y la agrupación de segundo nivel, que permiten pasar de los datos brutos a una
+interpretación cada vez más abstracta y significativa.
+
+En primer lugar, la identificación consiste en detectar y seleccionar los fragmentos
+relevantes dentro de los datos (texto, audio, imagen o vídeo) que son útiles para
+responder a la pregunta de investigación. Es decir, se trata de preguntarse qué partes
+del material realmente aportan información sobre los objetivos del estudio. Estos
+fragmentos se subrayan o destacan porque contienen el significado clave, pero todavía
+no se interpretan ni se clasifican; simplemente se reconocen como importantes.
+
+Después, en la agrupación de primer nivel, esos fragmentos seleccionados se empiezan
+a organizar y nombrar mediante códigos o categorías iniciales. Aquí se busca
+identificar patrones de significado en los datos, dando lugar a una primera reducción y
+ordenación de la información. Es una fase más descriptiva, donde se etiquetan los
+contenidos según lo que representan.
+
+Por último, la agrupación de segundo nivel implica un paso más profundo, ya que las
+categorías iniciales se reorganizan, relacionan e interpretan a un nivel más teórico y
+abstracto. Se pasa de una simple descripción a un análisis más conceptual, conectando
+categorías entre sí para construir explicaciones más amplias sobre el fenómeno
+estudiado.
+
+
+
+
+                                                                                     53
+Las técnicas para la identificación de temas o categorías
+Consisten en distintas formas de reconocer patrones y organizar la información de
+manera significativa. En primer lugar, se puede partir de una pregunta básica: “¿Esta
+expresión es un ejemplo de qué?”, lo que ayuda a detectar categorías iniciales. Por
+ejemplo, el nerviosismo puede interpretarse como un ejemplo de emoción negativa,
+mientras que la respiración puede formar parte de la regulación emocional.
+
+Otra estrategia consiste en prestar atención a las repeticiones, ya que los temas que
+aparecen de forma frecuente en los datos suelen indicar una categoría relevante. Si
+varias personas mencionan sentirse nerviosas antes de un examen, con síntomas como
+sudoración o malestar, es probable que estemos ante un mismo tema relacionado con el
+nerviosismo ante situaciones de evaluación.
+
+También es importante buscar similitudes y diferencias entre fragmentos,
+comparando las respuestas para ver en qué coinciden o en qué se distinguen. Por
+ejemplo, frente a relatos de ansiedad ante exámenes, puede aparecer otra respuesta en
+la que la persona afirma sentirse tranquila, lo que indica no solo una diferencia
+emocional, sino también el uso de estrategias distintas de regulación emocional, como
+la reevaluación de la situación.
+
+Por último, se pueden identificar categorías desde la teoría, es decir, reconocer en los
+datos conceptos ya definidos previamente. Esto permite un enfoque más deductivo, en
+el que el investigador busca en las respuestas la presencia de constructos teóricos como
+la regulación emocional, apoyándose en modelos como el de Gross, que explican cómo
+se gestionan las emociones.
+
+
+
+
+                                                                                     54
+Presentación de los resultados del análisis cualitativo
+Existen tres formas principales de presentar los resultados en el análisis cualitativo: la
+narrativa, las tablas y las gráficas. Estas formas no son excluyentes, ya que pueden
+utilizarse de manera combinada en un mismo estudio.
+
+La narrativa es una de las formas más habituales. Consiste en que el investigador
+describa con claridad las categorías o temas que emergen del análisis, apoyándolos con
+citas textuales de los participantes, lo que da mayor profundidad y credibilidad a los
+resultados. Por ejemplo, ante situaciones académicas como los exámenes, pueden
+aparecer emociones negativas como el nerviosismo, expresadas directamente por los
+estudiantes, como cuando uno de ellos señala que se pone muy nervioso y lo vive como
+una experiencia muy intensa o abrumadora.
+
+Otra forma de presentación es mediante tablas, donde en las filas y columnas se
+organizan las categorías o temas identificados, y en las celdas se incluyen fragmentos
+de las respuestas de los participantes. Esto permite visualizar de forma estructurada
+cómo se relacionan los datos con las categorías.
+
+Por último, también pueden emplearse gráficas o representaciones en forma de redes,
+que ayudan a visualizar las relaciones entre categorías. Por ejemplo, el nerviosismo
+puede aparecer dentro de las emociones negativas, mientras que la respiración puede
+representarse como una estrategia de regulación emocional centrada en la respuesta
+afectiva.
+
+
+
+
+                                                                                       55
+Tema 7
+Los diseños ex post facto
+Se utilizan cuando el investigador no puede manipular las variables porque estas ya han
+tomado sus valores antes de iniciar el estudio. Es decir, se analizan situaciones en las
+que las posibles causas (variable independiente), o incluso también las consecuencias
+(variable dependiente), ya han ocurrido.
+
+Si tanto las causas como las consecuencias ya han sucedido, el investigador solo puede
+reconstruir los hechos hacia atrás para intentar comprender la relación entre ellas;
+esto se denomina diseño ex post facto retrospectivo. En cambio, cuando las causas ya
+han ocurrido pero todavía no se ha producido el desenlace o resultado, es posible
+observar la evolución hacia delante para comprobar qué ocurre, lo que se conoce como
+diseño ex post facto prospectivo.
+
+El diseño ex post facto retrospectivo
+Es un tipo de diseño en el que se parte de la variable dependiente (VD), es decir, del
+efecto o fenómeno que queremos estudiar, y después se busca hacia atrás para
+identificar posibles variables independientes (VI) que puedan explicarlo. La estrategia
+consiste primero en medir la VD y, posteriormente, analizar posibles factores previos
+que podrían estar relacionados con ella.
+
+Si se encuentra covariación entre la VI y la VD, esa variable se mantiene como una
+posible explicación o causa del fenómeno estudiado. En cambio, si no existe
+covariación, esa variable se descarta como posible causa. Sin embargo, es importante
+recordar que la covariación no implica causalidad, es decir, que dos variables estén
+relacionadas no significa necesariamente que una provoque la otra.
+
+Dentro de este tipo de diseño pueden encontrarse modalidades como el diseño simple,
+el diseño con cuasi control y el de grupo único, dependiendo de cómo se organicen y
+comparen los participantes o las variables estudiadas.
+
+
+
+
+                                                                                     56
+El diseño retrospectivo simple
+Consiste en estudiar una variable dependiente (VD) cuyos participantes comparten el
+mismo resultado, como por ejemplo personas que se han suicidado o que están en paro,
+y tratar de identificar qué variables podrían explicar ese resultado. Como la VD no varía,
+no se puede analizar su relación directa con posibles variables independientes (VI),
+sino solo observar si esas personas coinciden en otras características comunes.
+
+La elección de las posibles variables explicativas suele hacerse a partir de la teoría
+previa y, cuando esta no es suficiente, según las intuiciones del investigador, lo que
+puede introducir cierto sesgo desde el inicio del estudio.
+
+Este diseño permite encontrar coincidencias que pueden sugerir explicaciones, pero no
+permite demostrar causalidad. Por ejemplo, si se estudia si la depresión es la causa del
+suicidio y se observa que algunos casos presentan depresión, eso no significa
+necesariamente que esta sea la causa. Puede haber otras variables ocultas que
+expliquen ambas cosas al mismo tiempo, como ciertos desajustes bioquímicos que
+provoquen tanto depresión como conducta suicida. También es posible que la depresión
+solo actúe como una variable moduladora o facilitadora, necesitando combinarse con
+otros factores, como una tendencia a la agresividad, para que ocurra el suicidio.
+
+La principal ventaja de este diseño es que, en algunos casos, es el único método posible
+para investigar ciertos fenómenos que no pueden estudiarse experimentalmente. Sin
+embargo, presenta limitaciones importantes: no permite comprobar covariación entre
+variables, no puede demostrar que la VI ocurriera antes que la VD, y no descarta
+errores de interpretación, como el sesgo retrospectivo o el enmascaramiento por
+variables no consideradas.
+
+
+
+
+                                                                                       57
+El diseño retrospectivo con grupo cuasi control
+Consiste en estudiar un fenómeno después de que haya ocurrido, buscando primero a
+sujetos en los que está presente la variable dependiente (VD), es decir, el fenómeno que
+interesa investigar (por ejemplo, personas que han cometido suicidio). A este conjunto
+se le llama grupo clave. Después, se selecciona un segundo grupo formado por personas
+en las que ese fenómeno no está presente, pero que sean lo más parecidas posible al
+grupo clave en otras variables que se quieren controlar; este es el grupo cuasi control.
+
+Una vez formados ambos grupos, se analizan las posibles variables independientes (VI)
+para comprobar si covarían con la VD, es decir, si están relacionadas con la aparición del
+fenómeno estudiado. Esto permite identificar posibles factores explicativos y supone
+una mejora en la validez interna, ya que ayuda a limitar el sesgo retrospectivo y hace
+más sistemática la búsqueda de posibles causas.
+
+Sin embargo, este diseño tiene limitaciones importantes. Aunque permite observar
+covariación entre variables, no puede demostrar que la VI sea anterior a la VD, por lo
+que no permite establecer causalidad con certeza. Además, siempre existe el riesgo de
+que la relación observada se deba a una variable enmascarada que no se ha tenido en
+cuenta, o de que la variable propuesta como causa sea necesaria pero no suficiente
+para explicar el fenómeno. También puede resultar complicado encontrar sujetos
+realmente emparejables entre ambos grupos.
+
+En resumen, este diseño es útil porque permite estudiar fenómenos que ya han ocurrido
+y reducir parcialmente el sesgo retrospectivo, pero sigue teniendo dificultades para
+demostrar relaciones causales claras debido a la posible influencia de variables ocultas
+y a la imposibilidad de asegurar el orden temporal entre causa y efecto.
+
+
+
+
+                                                                                       58
+El diseño retrospectivo de grupo único
+En lugar de comparar varios grupos, aquí se trabaja con un único grupo amplio y
+representativo, de forma que quede bien reflejado el rango de valores tanto de la
+variable dependiente (VD) como de las posibles variables independientes (VI). Para
+ello, se intenta aumentar al máximo el tamaño de la muestra y asegurar que sea
+representativa en aquellas variables que sean relevantes para el estudio.
+
+Al contar con una muestra más grande y diversa, mejora la validez externa, es decir, la
+capacidad de generalizar los resultados a otras personas o contextos. Además, este
+diseño permite controlar mejor las variables extrañas, asegurando que estén
+suficientemente representadas en la muestra y analizando su relación con la variable
+dependiente para no confundir sus efectos con los de la VI.
+
+El procedimiento es parecido al de otros diseños retrospectivos. Primero, se selecciona
+una muestra que garantice una buena representación de todos los posibles valores de la
+VD. Después, se identifican las posibles VI basándose en la teoría o en hipótesis previas.
+Finalmente, se analiza la covariación entre la VD y cada una de esas posibles variables
+independientes, es decir, se estudia cómo cambian conjuntamente.
+
+Un ejemplo sería un estudio sobre las posibles causas de la depresión con una muestra
+de 140 personas que presentaban distintos niveles de depresión. Al analizar qué
+variables se relacionaban con ella, se encontró que solo cinco covariaban
+significativamente: bajas expectativas de autoeficacia, alta frecuencia de pensamientos
+negativos sobre uno mismo, el mundo y el futuro, ausencia de refuerzos externos, baja
+tasa de autorrefuerzo y anhedonia.
+
+Sin embargo, aunque se observe relación entre variables, este diseño tiene una
+limitación importante: no permite establecer causalidad. Por ejemplo, si se observa que
+las personas con menor autoeficacia presentan más depresión, no podemos saber si la
+baja autoeficacia provoca la depresión o si es la propia depresión la que reduce la
+percepción de autoeficacia. Esto ocurre porque en los diseños retrospectivos la VI y la
+VD se miden al mismo tiempo, por lo que no se puede demostrar que la variable
+independiente haya ocurrido antes que la dependiente. Esta falta de antecesión
+temporal genera dudas sobre la validez interna del estudio.
+
+Entre sus principales ventajas destacan que permite detectar covariación entre
+variables, reduce en cierta medida el sesgo retrospectivo y ofrece una mayor validez
+externa al trabajar con muestras más amplias y representativas. No obstante, sigue
+presentando problemas como la imposibilidad de demostrar qué variable causa a cuál, el
+riesgo de que aún exista sesgo retrospectivo, la posibilidad de enmascaramiento por
+otras variables no controladas y la dificultad práctica de encontrar una muestra
+suficientemente grande y adecuada. Cuando sea posible, conviene complementar estos
+estudios con otros diseños que permitan comprobar mejor las relaciones causales.
+
+
+                                                                                       59
+Los diseños ex post facto prospectivos
+Son diseños en los que las variables independientes (VI) ya han ocurrido, pero la
+variable dependiente (VD) todavía no ha tenido lugar o no ha sido evaluada
+completamente, por lo que el investigador puede mirar hacia delante en el tiempo para
+analizar sus efectos.
+
+Dentro de los diseños prospectivos, pueden ser simples (grupo único) o complejos o
+factoriales, e incluso incluir más de un eslabón causal, dependiendo de cuántas
+variables se consideren.
+
+La estrategia es prospectiva, ya que se invierte el orden habitual de recogida de
+información: primero se seleccionan personas que comparten valores similares en la
+VI, y después se procede a medir la VD para analizar posibles relaciones entre ambas.
+
+El diseño prospectivo simple
+Consiste en formar grupos de participantes en función de una única variable
+independiente (VI) ya existente (por ejemplo, nivel de motivación: alta o baja) y,
+posteriormente, medir la variable dependiente (VD) (por ejemplo, rendimiento en un
+examen) para comparar los grupos. Aunque puede parecer un experimento intersujeto,
+en realidad no hay manipulación de la VI, sino selección de sujetos según sus
+características.
+
+La principal ventaja de este diseño es que la VI se define antes de recoger los datos, lo
+que reduce el sesgo retrospectivo y permite acotarla desde el inicio. Además, puede
+combinarse con diseños factoriales añadiendo otras variables ex post facto.
+
+Sin embargo, presenta limitaciones importantes. Su validez externa puede ser baja si
+los grupos son pequeños o poco representativos, lo que dificulta la generalización.
+Además, existe riesgo de sesgo de selección, ya que al agrupar a los participantes por
+una característica concreta pueden estar influyendo otras variables ocultas (por
+ejemplo, conocimientos previos) que podrían explicar los resultados en la VD.
+
+
+
+
+                                                                                      60
+Diseño prospectivo complejo o factorial
+Es un diseño en el que, para controlar posibles variables extrañas, estas se incorporan
+como variables independientes (VI), de modo que se analiza el efecto combinado de
+dos o más VI sobre una variable dependiente (VD). La idea central es estudiar no solo
+los efectos de cada variable por separado, sino también sus interacciones.
+
+Primero se seleccionan los grupos de participantes según la combinación de niveles de
+todas las VI, por ejemplo motivación (alta o baja) y conocimiento (alto o bajo). Después
+se mide la VD (como el rendimiento en un examen) y se comparan los distintos grupos
+para ver cómo cambian los resultados en función de esas combinaciones.
+
+Este tipo de diseño permite analizar cómo cada sujeto pertenece a una condición
+concreta según los niveles de las VI y cómo eso se refleja en su puntuación en la VD,
+facilitando la comparación entre grupos formados por combinaciones específicas de
+características.
+
+Entre sus ventajas, destaca que permite analizar diferencias entre grupos, estudiar
+interacciones entre variables, garantiza la antecesión temporal de la VI sobre la VD,
+reduce el sesgo retrospectivo y es compatible con diseños experimentales más
+controlados. Sin embargo, también presenta problemas importantes, como una baja
+validez externa, posibles problemas de sesgo de selección incluso al incluir varias VI, y
+una gran complejidad metodológica, especialmente cuando hay más de dos variables
+independientes, tanto por la dificultad de encontrar participantes adecuados para todas
+las combinaciones como por la complejidad en la interpretación de las interacciones.
+
+
+
+
+                                                                                      61
+El diseño prospectivo de grupo único
+Consiste en medir a un conjunto amplio de sujetos en varias variables independientes
+(VI₁, VI₂, VI₃, etc.) para asegurar que sus diferentes valores están bien representados en
+la muestra, y posteriormente observar su relación con una variable dependiente (VD).
+En este tipo de diseño, lo importante es que primero se recogen las medidas de las VIs y
+después se analiza cómo estas se asocian o permiten predecir la VD sujeto a sujeto,
+mediante correlaciones entre las distintas series de puntuaciones.
+
+Entre sus principales ventajas destaca que permite estudiar la covariación entre
+variables, facilita la predicción individual, asegura la antecesión temporal de las VI
+sobre la VD (lo que refuerza la interpretación causal), y ayuda a eliminar el sesgo
+retrospectivo. Además, puede ofrecer una mayor validez externa si la muestra es
+grande y representativa, y permite incluir varias VI, lo que incrementa el control del
+estudio.
+
+Sin embargo, también presenta limitaciones importantes. Aunque el riesgo de sesgos es
+menor, no elimina completamente posibles problemas de enmascaramiento de
+relaciones reales. Además, resulta difícil conseguir una muestra suficientemente grande
+y adecuada, y existe el problema de la interrelación entre las VI, ya que si están muy
+correlacionadas entre sí, añadir más variables no mejora necesariamente la capacidad
+predictiva, pero sí aumenta la complejidad del estudio. Por ello, es clave reflexionar bien
+sobre qué variables incluir para no incrementar el esfuerzo sin un beneficio real en la
+predicción.
+
+
+
+
+                                                                                        62
+El diseño prospectivo con más de un eslabón causal
+Permite estudiar en una sola investigación las relaciones entre variables dentro de un
+modelo donde existen varios pasos causales encadenados, es decir, no solo se analiza
+qué variable influye sobre otra, sino también cómo esa influencia puede pasar por
+diferentes variables intermedias.
+
+Se trabaja con un único grupo de participantes, en el que se examina un modelo teórico
+en el que distintas variables independientes (como motivación, hábitos de estudio y
+conocimientos previos) se relacionan entre sí y finalmente influyen en una variable
+dependiente, como el rendimiento académico. La idea central es que las variables no
+actúan de forma aislada, sino en una secuencia causal organizada.
+
+El procedimiento comienza con la necesidad de un modelo teórico bien definido, que
+especifique qué relaciones se esperan, tanto directas como indirectas, entre las
+variables. Después se selecciona una muestra que sea suficientemente grande y
+representativa. A continuación, se diseña la recogida de datos de forma que permita
+captar los distintos momentos o eslabones del proceso causal, siguiendo una secuencia
+temporal: primero se evalúan variables como la motivación y los hábitos de estudio,
+después los conocimientos previos, y finalmente el rendimiento.
+
+Este diseño presenta ventajas como la posibilidad de analizar efectos directos e
+indirectos en cadena, establecer mejor la antecesión temporal entre variables, reducir
+el sesgo retrospectivo, aumentar la validez externa y permitir la contrastación global
+del modelo teórico completo. Sin embargo, también tiene limitaciones importantes,
+como la dificultad de conseguir una muestra amplia y adecuada, el hecho de que
+requiere un modelo teórico previo muy sólido, y que aunque reduce ciertos problemas,
+no elimina completamente el riesgo de enmascaramiento de relaciones entre variables.
+
+
+
+
+                                                                                   63
+Los diseños evolutivos
+Son un tipo de diseño muy usado en Psicología del Desarrollo, donde la variable
+independiente principal suele ser la edad. Su objetivo es estudiar cómo cambian las
+conductas o procesos psicológicos a lo largo del desarrollo.
+
+Dentro de estos diseños, el transversal compara distintas edades en un mismo
+momento temporal, es decir, se observan grupos diferentes de sujetos al mismo
+tiempo. Esto permite ganar mucho tiempo, pero el problema es que los grupos no son
+equivalentes en todas las variables, lo que puede introducir variables enmascaradas.
+Por eso, a veces se intenta igualarlos en aspectos como la inteligencia o la estabilidad
+emocional. Por ejemplo, si se compara a niños de 5, 7 y 10 años en el uso de estrategias
+de memoria, se mide todo en una sola sesión con distintos grupos y luego se comparan
+los resultados entre edades.
+
+En los diseños longitudinales, en cambio, se estudia al mismo grupo de personas a lo
+largo del tiempo, observando cómo cambian con la edad en diferentes momentos. Esto
+tiene la ventaja de que las diferencias individuales quedan controladas, ya que es el
+mismo grupo el que se evalúa repetidamente, pero es un diseño mucho más costoso en
+tiempo y recursos, además de que puede haber mortandad experimental (pérdida de
+participantes) y el llamado efecto cohorte, es decir, que los resultados estén influidos
+por las características generacionales del grupo.
+
+Por último, los diseños secuenciales combinan ambos enfoques: estudian varias
+cohortes diferentes de forma longitudinal, permitiendo analizar al mismo tiempo el
+efecto de la edad (intra-sujetos) y el efecto de la cohorte (inter-sujetos). Es el diseño
+más completo, pero también el más complejo y costoso, ya que implica seguir a varios
+grupos durante años para comparar su evolución en distintos momentos.
+
+
+
+
+                                                                                      64
+El análisis de datos
+En los diseños retrospectivos, el análisis varía según la estructura del estudio: en los
+diseños simples se emplean porcentajes para ver cuántos sujetos comparten valores en
+cada variable independiente y se utiliza la prueba de chi-cuadrado (X²). Si hay un grupo
+cuasi control, se analiza la relación entre variables mediante correlación entre la
+variable dependiente y la independiente, y en los diseños de grupo único también se
+recurre a la correlación.
+
+En los diseños prospectivos, si son simples y la variable independiente tiene dos
+valores, se comparan medias entre dos grupos, mientras que si tiene más de dos valores
+se utiliza un ANOVA de un factor. Cuando el diseño es factorial, se aplica un ANOVA de
+dos factores. Si es de grupo único, se emplea regresión múltiple, y cuando existen
+varios eslabones causales se utiliza el path analysis.
+
+En los diseños evolutivos, en los estudios transversales, si hay dos grupos de edad se
+aplican diferencias de medias, y si hay más de dos grupos se usa un ANOVA de un
+factor inter-sujeto. En los longitudinales, si hay dos momentos de medida se utilizan
+diferencias de medias para muestras relacionadas, mientras que si hay más de dos
+momentos se emplea un ANOVA de medidas repetidas. Por último, en los diseños
+secuenciales se utiliza un ANOVA con varios factores, donde los momentos temporales
+funcionan como factor de medidas repetidas y el efecto de cohorte como factor
+inter-sujeto.
+
+
+
+
+                                                                                     65
+Tema 8
+Qué es un experimento
+Un experimento es un estudio de investigación en el que se manipulan de forma
+deliberada una o más variables independientes para observar cómo afectan a una o
+más variables dependientes, siempre dentro de una situación controlada por el
+investigador. Para que un experimento sea riguroso, suelen cumplirse ciertas
+condiciones, como la asignación aleatoria de los participantes a distintos grupos (por
+ejemplo, grupo experimental y grupo control) y la manipulación de la variable que se
+quiere estudiar. En un experimento puro, al menos dos grupos equivalentes son
+sometidos a una manipulación y después se compara el efecto producido.
+
+Un ejemplo es el experimento de Loftus y Burns sobre la memoria. Su objetivo era
+estudiar cómo un choque emocional puede alterar el recuerdo de personas que han
+sido testigos de un acontecimiento impactante. Su hipótesis era que una experiencia
+emocional intensa perjudicaría el recuerdo de los sucesos ocurridos inmediatamente
+antes.
+
+Para comprobarlo, utilizaron un vídeo sobre un atraco con dos versiones diferentes:
+una terminaba con una escena violenta, diseñada para provocar el choque emocional, y
+la otra tenía un final no violento. La variable independiente era, por tanto, la presencia
+o ausencia de ese choque emocional, mientras que la variable dependiente era el nivel
+de recuerdo de los participantes. En el estudio participaron 250 estudiantes, que fueron
+divididos aleatoriamente en dos grupos. Después de ver la película, respondieron a un
+cuestionario sobre detalles que aparecían justo antes de la escena final.
+
+Los resultados mostraron que el grupo expuesto al choque emocional recordó menos
+información que el grupo que vio la versión sin violencia, y esa diferencia fue
+estadísticamente significativa. Esto permitió concluir que una experiencia emocional
+intensa puede dificultar el recuerdo de información presentada justo antes del evento
+impactante. En la discusión, los investigadores analizaron el significado de estos
+resultados, comparándolos con estudios anteriores y valorando sus posibles
+implicaciones sobre el funcionamiento de la memoria.
+
+
+
+
+                                                                                       66
+Características de los experimentos
+La variable independiente (VI) es la causa que se manipula para observar su efecto,
+mientras que la variable dependiente (VD) es la conducta o respuesta que se espera que
+cambie debido a esa manipulación. Además, pueden existir variables extrañas, que
+influyen sin haber sido identificadas, y variables controladas, que sí se identifican y se
+mantienen bajo control. También hay variables enmascaradas, que están relacionadas
+con la variable independiente, cambian al mismo tiempo que ella y pueden influir en la
+variable dependiente en la misma dirección, dificultando saber qué está causando
+realmente el efecto.
+
+Para asegurar que los resultados sean válidos, es necesario el control de variables. Esto
+puede hacerse mediante la eliminación de factores que puedan interferir, manteniendo
+la constancia de las condiciones, es decir, haciendo que todos los participantes tengan
+el mismo nivel en determinadas variables, o mediante el balanceo o grupos
+equilibrados, donde los participantes pueden diferir entre sí, pero esas diferencias se
+reparten de forma similar entre los grupos gracias a la asignación aleatoria.
+
+Otra característica fundamental es el uso de definiciones operativas, que consisten en
+especificar de manera concreta cómo se van a entender y medir las hipótesis, las
+variables, las tareas y los resultados.
+
+El objetivo principal del experimento es establecer relaciones causales entre variables.
+Para poder afirmar que una variable causa un efecto sobre otra, deben cumplirse tres
+requisitos: primero, debe existir covariación entre la VI y la VD, es decir, que cuando
+cambia una también cambie la otra; segundo, la VI debe ocurrir y medirse antes que la
+VD, para demostrar que la causa precede al efecto; y tercero, es necesario descartar
+causas alternativas, asegurando que el cambio observado no se deba a otras variables
+no controladas.
+
+
+
+
+                                                                                       67
+Las fuentes de error
+Son factores que pueden afectar a los resultados de una investigación y hacer que las
+conclusiones sean menos fiables. Una de ellas son las expectativas del experimentador,
+cuando las creencias o expectativas de quien realiza el estudio pueden influir, de forma
+consciente o inconsciente, en los participantes o en la interpretación de los datos.
+
+Otra fuente importante es la pérdida de sujetos, especialmente cuando el abandono de
+participantes está relacionado con la variable independiente o con la condición
+experimental a la que han sido asignados. En este caso se produce una pérdida no
+aleatoria o sesgo de atrición, que puede distorsionar los resultados porque los grupos
+dejan de ser comparables.
+
+También destaca la regresión a la media, que es la tendencia de las puntuaciones
+extremas a acercarse a la media cuando se repite la medición. Esto ocurre porque es
+poco probable que vuelvan a darse las circunstancias excepcionales que hicieron que
+una puntuación fuese muy alta o muy baja. Este fenómeno es especialmente relevante
+en estudios donde los grupos se forman a partir de personas con puntuaciones
+extremas en alguna variable. Para reducir este efecto, puede hacerse una segunda
+medición y utilizar la media de ambas puntuaciones para seleccionar a los
+participantes.
+
+Propiedades que se deben exigir a los experimentos
+La fiabilidad, que significa que si el experimento se repite se obtienen los mismos
+resultados; esto depende de que esté bien controlado.
+
+También deben tener sensibilidad, es decir, ser capaces de detectar los efectos que
+producen los cambios en la variable independiente (VI), por lo que los instrumentos y
+medidas utilizados deben ser lo suficientemente precisos para captar esas variaciones
+en la conducta.
+
+Además, es fundamental la validez interna, que se refiere a la capacidad del
+experimento para descartar explicaciones alternativas de los resultados gracias al
+control de las variables.
+
+Por último, está la validez externa, que hace referencia al grado en que los resultados
+pueden generalizarse a otras personas, situaciones o contextos.
+
+
+
+
+                                                                                     68
+Los diseños de grupos aleatorios
+Son aquellos en los que los participantes se asignan al azar a los distintos grupos del
+estudio, normalmente a un grupo control y a uno o varios grupos experimentales. Esta
+asignación aleatoria permite controlar las variables extrañas relacionadas con las
+características de los sujetos, ya que estas quedan equilibradas entre los grupos y así es
+más probable que las diferencias encontradas se deban realmente al tratamiento
+aplicado.
+
+Este tipo de diseño puede incluir únicamente una medida post-test, evaluando a los
+participantes después de la intervención, o también una medida pre-test, que permite
+comparar su situación antes y después del tratamiento.
+
+Los diseños de grupos aleatorios con bloques
+Se utilizan cuando queremos comparar un grupo experimental (GE) y un grupo control
+(GC) pero evitando que variables como el rendimiento previo influyan en los resultados.
+Por ejemplo, si queremos probar un programa informático para mejorar el aprendizaje
+de matemáticas, no basta con asignar alumnos al azar, porque variables como el
+rendimiento previo en matemáticas o el CI pueden afectar mucho al rendimiento
+actual. De hecho, si observamos sus correlaciones, el rendimiento anterior está muy
+fuertemente relacionado con el actual (r = 0,90), más que el CI (r = 0,60), por lo que es
+una variable especialmente importante a controlar.
+
+El problema es que, aunque la asignación aleatoria debería equilibrar los grupos, a veces
+por azar puede ocurrir un desequilibrio, como que en el grupo experimental haya varios
+alumnos con sobresaliente y en el control ninguno, lo que haría que el GE obtuviera
+mejores resultados sin que el programa fuese realmente la causa. Para evitarlo se utiliza
+la técnica del bloqueo, que consiste en transformar una variable extraña en una variable
+controlada.
+
+Esto se hace midiendo primero a los participantes en la variable que queremos controlar
+(por ejemplo, la nota anterior en matemáticas) y después agrupándolos en bloques
+homogéneos según sus puntuaciones (por ejemplo, nivel bajo, medio y alto). Una vez
+formados estos bloques, se asigna aleatoriamente a los sujetos de cada bloque a los
+diferentes grupos del experimento, de forma que ambos grupos queden equilibrados
+dentro de cada nivel.
+
+Así, la variable que antes era “extraña” pasa a ser una variable bloqueada, lo que reduce
+su influencia sobre la variable dependiente y mejora el control experimental. Este
+método es especialmente eficaz cuando los grupos son pequeños, porque en muestras
+reducidas la aleatorización puede generar más fácilmente desequilibrios; en cambio,
+cuando los grupos son grandes, estos desequilibrios son menos probables.
+
+
+
+
+                                                                                       69
+Los diseños especiales
+Son aquellos que ofrecen soluciones a problemas de investigación poco habituales o
+difíciles de controlar, mejorando la validez de los resultados.
+
+Un primer tipo es el control por placebo (diseño ciego), en el que los participantes no
+saben a qué grupo han sido asignados, lo que permite reducir el efecto de las
+expectativas sobre los resultados. Un ejemplo sería el estudio de Díaz y Vallejo, en el que
+se comparó biofeedback frente a placebo en el tratamiento del dolor de cabeza,
+asegurando que la percepción de mejora no dependiera de saber qué tratamiento se
+recibía.
+
+Otro tipo es el diseño de doble ciego, en el que ni los participantes ni los
+investigadores que administran el tratamiento saben quién pertenece a cada
+condición, lo que minimiza aún más los sesgos. Un ejemplo clásico es un estudio sobre
+la vacuna de la polio, en el que ni los niños ni sus padres sabían si recibían la vacuna real
+o un placebo, y además los evaluadores del diagnóstico desconocían qué niños habían
+sido vacunados, evitando así influencias en la evaluación de la enfermedad.
+
+
+
+
+                                                                                          70
+Los diseños experimentales con los mismos sujetos
+En este tipo de diseño existe un único grupo de participantes, al que se le pasan todas
+las condiciones experimentales, de manera que cada persona actúa como su propio
+control. La comparación del rendimiento del mismo sujeto en distintas condiciones
+permite estudiar directamente el efecto de la VI.
+
+Una de sus principales ventajas es que controla las diferencias individuales, ya que no
+hay variabilidad entre grupos que pueda contaminar los resultados. Además, es un
+diseño más económico en participantes, porque se obtiene más información con menos
+personas.
+
+En el experimento descrito, la tarea consiste en responder a diferentes tipos de
+preguntas sobre palabras, lo que implica distintos niveles de procesamiento: gráfico,
+fonético y semántico. Posteriormente, se presenta una lista de reconocimiento con
+palabras, y se pide al participante que indique cuáles reconoce.
+
+La VI son los distintos niveles de procesamiento, mientras que la VD es la capacidad de
+recuerdo o reconocimiento. La hipótesis plantea que a mayor nivel de procesamiento,
+mayor recuerdo, de forma que el procesamiento semántico debería producir mejor
+rendimiento que el fonético, y este a su vez mejor que el gráfico.
+
+El procedimiento consiste en aplicar de forma secuencial las preguntas y la tarea de
+reconocimiento, con el orden de los niveles aleatorizado por bloques para evitar
+sesgos. También se aleatoriza el orden de presentación de las palabras en la lista de
+reconocimiento y de las palabras objetivo y de enmascaramiento. En el estudio
+participan 20 sujetos, un número menor del que se necesitaría en un diseño intersujeto.
+
+Los resultados apoyan la hipótesis, ya que se observa que las palabras se recuerdan
+mejor cuando han sido procesadas a nivel semántico, seguido del nivel fonético y, por
+último, del nivel gráfico, lo que demuestra que cuanto más profundo es el
+procesamiento, mayor es la probabilidad de recuerdo.
+
+
+Efectos distorsionantes en los diseños intra-sujetos (antes)
+El efecto del aprendizaje ocurre cuando los participantes mejoran simplemente por la
+repetición de la tarea, no por la manipulación de la VI.
+
+El efecto de la fatiga aparece cuando el rendimiento empeora por el cansancio
+acumulado, confundiendo ese descenso con el efecto de la VI.
+
+El efecto de la motivación se produce cuando cambia el interés o la implicación del
+participante a lo largo del tiempo, lo que afecta al rendimiento.
+
+
+
+
+                                                                                     71
+Efectos distorsionantes en diseños intra-sujetos (durante)
+El efecto de la práctica o del orden de presentación, surge de la combinación de
+procesos como la adaptación, el aprendizaje, la fatiga o la motivación, que hacen que el
+rendimiento del participante cambie simplemente por el hecho de repetir tareas o por
+el orden en que se presentan las condiciones. Para controlarlo, se busca que todos los
+niveles de la variable independiente aparezcan en todos los órdenes posibles, utilizando
+técnicas como la aleatorización simple, la aleatorización por bloques, el reequilibrado
+o el cuadrado latino, que permiten equilibrar estos efectos entre condiciones.
+
+El efecto de la persistencia, ocurre cuando el efecto de un nivel de la variable
+independiente no desaparece completamente antes de aplicar el siguiente, de forma
+que lo que queda del primer tratamiento se suma al segundo y distorsiona su efecto
+real. Por ejemplo, si se estudian los efectos del ibuprofeno frente al paracetamol en el
+dolor de cabeza, puede ocurrir que el efecto del primer fármaco aún esté presente
+cuando se administra el segundo. Para evitarlo, se introducen periodos de extinción o
+lavado entre tratamientos, y se comprueba que el estado inicial se recupera antes de
+aplicar la siguiente condición, asegurando así que ambos niveles se evalúan de manera
+independiente.
+
+
+
+
+                                                                                     72
+Las técnicas de control de práctica en diseños intra-sujetos
+Buscan evitar que el rendimiento de los participantes se vea influido por el orden de
+presentación de las condiciones, un efecto que surge por la mezcla de adaptación,
+aprendizaje, fatiga y motivación y que puede distorsionar los resultados.
+
+El objetivo general es que los niveles de la variable independiente aparezcan en todos
+los órdenes posibles, de forma que el posible efecto de la práctica se reparta y no
+sesgue ninguna condición. Una forma de hacerlo es intentar que este efecto sea mínimo
+y no medido directamente, para lo cual se usa la aleatorización del orden de
+presentación. Con esta estrategia, los estímulos o condiciones se ordenan al azar, ya sea
+de forma simple cuando hay muchas condiciones o por bloques cuando hay pocas, de
+modo que cada bloque contiene todas las condiciones en orden aleatorio. Así, si existe
+un efecto de aprendizaje o fatiga, este queda distribuido de manera homogénea entre
+todas las condiciones experimentales.
+
+Otra estrategia es tratar el orden como una variable independiente más, midiendo su
+efecto para poder controlarlo posteriormente. Aquí entran el reequilibrado y el
+cuadrado latino. El reequilibrado consiste en presentar las condiciones en un orden y
+después repetirlas en el orden inverso (por ejemplo ABBA), de forma que se compensen
+los efectos de práctica tanto a nivel individual (diseño completo) como a nivel de grupos
+(diseño incompleto).
+
+Cuando hay más de dos condiciones, se utiliza el cuadrado latino, que permite controlar
+el efecto del orden en diseños más complejos. En estos casos, como cada participante
+repite tareas similares, puede aparecer aprendizaje progresivo que mejora el
+rendimiento independientemente de la condición real. Por eso es necesario organizar
+los órdenes de forma que cada condición aparezca en distintas posiciones y quede
+equilibrado el posible efecto de aprendizaje entre todas ellas.
+
+
+
+
+                                                                                      73
+Pasos para el diseño de cuadrado latino
+Consiste en organizar los tratamientos de forma que cada uno aparezca una sola vez en
+cada posición del orden de presentación, controlando así el efecto del orden.
+
+Primero se generan todas las permutaciones posibles de los tratamientos. En el caso de
+tres condiciones (A, B y C), existen seis combinaciones posibles. A partir de estas, se
+seleccionan tres permutaciones que cumplan la condición clave: ningún tratamiento
+puede repetirse en la misma posición dentro de las distintas secuencias.
+
+Después, se elige una permutación al azar como primera secuencia (por ejemplo,
+B–C–A). A continuación, se selecciona otra permutación distinta, también al azar, pero
+solo se acepta si no repite ningún tratamiento en la misma posición que las
+anteriores. Si no cumple esta condición, se descarta y se prueba con otra hasta
+encontrar una válida (por ejemplo, C–A–B). Este procedimiento se repite hasta
+completar el número de secuencias necesarias, en este caso tres, incluyendo finalmente
+A–B–C como tercera secuencia válida.
+
+Una vez establecidas las secuencias, los participantes se asignan de forma aleatoria y
+equilibrada a cada una de ellas, asegurando que haya el mismo número de sujetos por
+grupo. En el ejemplo, 30 conductores se reparten en tres grupos de 10.
+
+Finalmente, este diseño permite analizar si las diferencias en la calidad de la
+conducción entre las condiciones (sin alcohol, 0,07 % y 0,1 %) se deben realmente al
+efecto del alcohol o si están influidas por el orden en que se realizan las pruebas,
+controlando así el efecto de aprendizaje o fatiga.
+
+
+
+
+                                                                                    74
+Tema 9
+El diseño factorial
+Es un tipo de diseño de investigación en el que se estudian dos o más variables
+independientes (VI) al mismo tiempo para analizar cómo influyen sobre una variable
+dependiente. Estas variables independientes pueden ser experimentales, no
+experimentales o una combinación de ambas.
+
+En este ejemplo, se analizan dos variables independientes: la exposición a luz extra (con
+luz extra o sin luz extra) y la realización de ejercicio aeróbico, concretamente esquí de
+fondo (hacer esquí o no hacerlo). Al combinar ambas variables, se forman cuatro grupos
+de participantes: personas que hacen esquí con luz extra, personas que hacen esquí sin
+luz extra, personas que no hacen esquí con luz extra y personas que no hacen esquí sin
+luz extra.
+
+El objetivo es medir cómo afecta cada variable, tanto por separado como juntas, a la
+mejora en la escala Beck, que sería la variable dependiente. Así, se pueden analizar los
+efectos principales de cada variable, es decir, comprobar si la luz extra mejora los
+resultados y si el ejercicio aeróbico también produce mejoras, además de estudiar si
+existe una interacción entre ambas, es decir, si el efecto de una depende de la
+presencia de la otra.
+
+Los efectos de dos variables independientes por separado
+Se analizan mediante dos experimentos simples.
+
+La Variable Independiente 1 es la exposición a luz extra, comparando un grupo sin luz
+extra con otro grupo con luz extra (gafas con luz), para observar sus efectos sobre los
+resultados del ejercicio aeróbico.
+
+La Variable Independiente 2 es la realización de ejercicio aeróbico, comparando a
+quienes no realizan esquí de fondo (3) con quienes sí realizan esquí de fondo (6), para
+analizar sus efectos sobre los resultados de la exposición a la luz extra.
+
+
+
+
+                                                                                      75
+El diseño factorial proporciona más información que dos experimentos simples,
+porque permite estudiar dos variables independientes al mismo tiempo y, además,
+analizar si interactúan entre sí, es decir, si el efecto de una depende de la otra.
+
+En este ejemplo, la primera variable independiente es la exposición a luz extra,
+comparando a personas sin luz extra y personas con gafas de luz extra. La segunda
+variable independiente es la realización de ejercicio aeróbico, diferenciando entre
+quienes hacen esquí de fondo y quienes no lo hacen.
+
+Los resultados muestran que las personas que hacen esquí de fondo y además reciben
+luz extra obtienen la puntuación más alta (10), mientras que quienes hacen esquí pero
+sin luz extra obtienen 2. En cambio, entre quienes no hacen esquí de fondo, las
+puntuaciones son más bajas y la diferencia entre recibir o no luz extra es menor (2
+frente a 4).
+
+Esto indica que la combinación de ejercicio aeróbico y exposición a luz extra produce
+un efecto mayor que cada factor por separado, lo que sugiere una posible interacción
+entre ambas variables.
+
+Para interpretar correctamente los resultados de un diseño factorial con dos variables,
+suele ser necesario realizar una representación gráfica, ya que permite visualizar de
+forma más clara el efecto de cada variable por separado y cómo se combinan entre sí.
+
+
+
+
+                                                                                    76
+Para analizar los resultados de una investigación factorial
+Un diseño factorial es un tipo de diseño de investigación en el que se estudian dos o
+más variables independientes al mismo tiempo, analizando además cómo se combinan
+entre sí sus distintos niveles. Por ejemplo, si una variable tiene dos niveles y otra
+también tiene dos, se representa como 2x2; si una tiene tres niveles y la otra cuatro,
+sería 3x4. Lo importante de este tipo de diseño es que permite estudiar no solo el efecto
+de cada variable por separado, sino también si ambas interactúan entre sí al influir
+sobre la variable dependiente.
+
+Lo primero es elaborar una tabla resumen donde aparezcan las medias de la variable
+dependiente en cada combinación posible de los niveles de las variables
+independientes. Esta tabla sirve como punto de partida para entender cómo cambian los
+resultados según las distintas condiciones experimentales.
+
+Después, se suelen hacer representaciones gráficas para visualizar mejor los datos. En
+estas gráficas, una de las variables independientes se coloca en el eje horizontal (eje X) y
+la otra actúa como variable condicionante, generando distintas líneas en el gráfico
+según sus niveles. Si la variable condicionante tiene dos niveles, aparecerán dos líneas;
+si tiene tres, aparecerán tres. Estas líneas permiten observar de forma más intuitiva
+cómo influye una variable dependiendo de la otra.
+
+A continuación, se analizan los llamados efectos simples, que consisten en estudiar
+cómo actúa una variable independiente sobre la dependiente dentro de cada nivel de la
+otra variable. Es decir, en lugar de mirar el efecto general, se observa qué ocurre en
+cada situación concreta. Cada uno de estos análisis equivale a un pequeño experimento
+con una sola variable.
+
+Uno de los aspectos más importantes en los diseños factoriales es comprobar si existe
+interacción entre las variables independientes. Para saberlo, basta con observar las
+líneas del gráfico. Si las líneas son paralelas, significa que una variable influye de la
+misma manera en todos los niveles de la otra; por tanto, no hay interacción. En cambio,
+si las líneas no son paralelas, significa que el efecto de una variable cambia según con
+qué nivel de la otra se combine, lo que indica que sí hay interacción.
+
+Cuando no hay interacción, es posible interpretar directamente el efecto principal de
+cada variable independiente. El efecto principal es el efecto general de una variable
+sobre la dependiente, calculado a partir de los promedios de sus distintos niveles, sin
+tener en cuenta con qué niveles de la otra variable está combinada.
+
+
+
+
+                                                                                         77
+Cuando sí hay interacción, la interpretación es más delicada. Si los efectos simples
+apuntan en la misma dirección (por ejemplo, todas las líneas tienen pendiente positiva),
+aunque sean de distinta intensidad, se puede seguir interpretando el efecto principal
+porque el promedio sigue reflejando bien la tendencia general. Sin embargo, si los
+efectos simples son contradictorios (por ejemplo, una línea sube y otra es plana o baja),
+entonces no se debe interpretar el efecto principal, porque el promedio puede llevar a
+conclusiones erróneas. En estos casos, es más importante fijarse en los efectos simples,
+ya que muestran con mayor precisión qué ocurre en cada condición específica.
+
+En resumen, los diseños factoriales permiten estudiar el efecto individual de varias
+variables y la posible interacción entre ellas, ofreciendo una visión más completa de
+cómo distintos factores pueden influir conjuntamente sobre una conducta o resultado.
+
+Guía resumen para la interpretación de los resultados
+La interpretación de los resultados factoriales con dos variables comienza obteniendo
+las medias de la variable dependiente en cada una de las combinaciones posibles entre
+ambas variables independientes (I × J). Después, estas medias deben organizarse en una
+tabla de contingencia y representarse mediante una gráfica, ya que esto permite
+visualizar con claridad cómo se relacionan las variables.
+
+A continuación, se estudia la primera variable independiente comparando las líneas
+que representan los efectos simples. Si las líneas son paralelas, significa que no hay
+interacción entre las variables, por lo que puede analizarse directamente el efecto
+principal. En cambio, si las líneas no son paralelas, esto indica que sí hay interacción, y
+entonces es necesario estudiar cada efecto simple por separado. En estos casos, si las
+pendientes tienen el mismo signo (en diseños 2 × 2) o los perfiles son similares (en
+diseños I × J), además del análisis de los efectos simples también puede añadirse el
+estudio del efecto principal. Sin embargo, si las pendientes tienen signo distinto o los
+perfiles son diferentes, no se puede interpretar el efecto principal, porque la
+interacción lo impide.
+
+Después se repite exactamente el mismo procedimiento con la segunda variable
+independiente. De nuevo, se comparan las líneas correspondientes a los efectos
+simples: si son paralelas, se confirma que no existe interacción y se analiza el efecto
+principal; si no son paralelas, se confirma que sí existe interacción y deben estudiarse
+los efectos simples por separado. Igual que antes, solo podrá añadirse el estudio del
+efecto principal cuando las pendientes tengan el mismo signo o los perfiles sean
+similares; si no, no debe interpretarse, ya que el efecto de una variable depende del
+nivel de la otra.
+
+
+
+
+                                                                                        78
+Extensiones del diseño factorial
+Las extensiones del diseño factorial se refieren a cómo puede ampliarse la complejidad
+del diseño para estudiar mejor las relaciones entre variables. Una forma es aumentar el
+número de niveles de las variables independientes (por ejemplo, diseños 5x3 o 7x9).
+Cuantos más niveles se incluyen, más precisa es la exploración de la relación causal,
+aunque esto implica una mayor exigencia metodológica, ya que cada combinación de
+niveles necesita su propio grupo de participantes, recomendándose al menos 10 sujetos
+por grupo para mantener una mínima fiabilidad.
+
+Otra extensión consiste en combinar distintos tipos de variables independientes
+dentro del mismo diseño. Esto significa que cada variable puede implicar un tipo
+diferente de diseño experimental (por ejemplo, grupos aleatorios, medidas repetidas o
+variables ex post facto). El resultado es un diseño factorial en el que la estructura final
+depende de cómo se hayan organizado los grupos en cada variable, lo que permite
+integrar enfoques experimentales y no experimentales en un mismo análisis.
+
+Finalmente, también se puede aumentar el número de variables independientes, como
+en diseños 3x4x2 o 2x3x2. Esto hace que el análisis sea mucho más complejo,
+especialmente en lo relativo a las interacciones entre variables, cuya interpretación y
+representación gráfica se dificulta. Además, lo que se aplica a la interpretación de
+efectos principales cuando hay interacción en diseños de dos variables también se
+mantiene aquí. En la práctica, cuando hay tres variables independientes, suele analizarse
+una de ellas fijándola, para observar cómo cambian las relaciones entre las otras dos.
+
+El efecto techo y el efecto suelo
+Son fenómenos que aparecen cuando una prueba o medida no permite captar bien las
+diferencias reales entre los participantes porque los resultados se “topan” con un límite.
+
+En el caso del efecto techo, ocurre cuando una tarea es tan fácil que casi todos los
+participantes obtienen la puntuación máxima, de modo que no se pueden detectar
+diferencias entre ellos. Por ejemplo, si un cuestionario elemental es respondido
+correctamente por el 100% de los alumnos de 15 y 16 años, los resultados quedan
+“aplanados” en la parte alta.
+
+El efecto suelo es lo contrario: la tarea es tan difícil que casi nadie acierta, por lo que las
+puntuaciones se concentran en el valor mínimo. Por ejemplo, si ninguna persona de 14 o
+15 años consigue responder correctamente una pregunta difícil, los resultados quedan
+“pegados” abajo.
+
+En ambos casos, la variable dependiente pierde sensibilidad porque deja de reflejar
+diferencias reales entre los grupos, lo que puede llevar a interpretaciones erróneas,
+como aparentes interacciones que en realidad no existen.
+
+
+
+                                                                                            79
+80
+Tema 10
+La lógica de la experimentación
+Se basa en que no puede hablarse de experimentación verdadera si el investigador no
+es capaz de establecer unos controles mínimos. Entre estos controles se encuentra la
+asignación aleatoria de los participantes en los diseños experimentales intergrupo, así
+como la inversión del orden de aplicación en los diseños intragrupo. Cuando estos
+controles no pueden garantizarse, tampoco puede asegurarse una auténtica
+manipulación experimental.
+
+Además, tampoco se considera experimentación verdadera cuando los niveles de la
+variable independiente no son manipulados por el investigador, sino que son
+características previas de los participantes antes de iniciar el estudio, como ocurre en
+los diseños ex post facto. En estos casos, se habla más bien de diseños
+cuasi-experimentales.
+
+Los diseños cuasi experimentales
+Surgen en la investigación como una forma de equilibrar la validez interna, que implica
+el control de las variables y la posibilidad de establecer relaciones causales, y la validez
+externa, que se refiere a la capacidad de generalizar los resultados a contextos reales.
+En la práctica, suele existir un conflicto entre ambas, ya que un mayor control
+experimental aumenta la validez interna pero reduce la naturalidad y la generalización
+de los resultados, mientras que un mayor realismo incrementa la validez externa pero
+dificulta el control de las variables.
+
+En el ámbito de la Psicología y la Educación es frecuente priorizar la validez externa,
+especialmente en la investigación aplicada, cuyo objetivo es comprobar si una
+intervención funciona en situaciones reales. En este contexto aparecen los diseños
+cuasi experimentales, que se parecen a los experimentales pero con un menor grado de
+control, ya que no siempre es posible cumplir las condiciones necesarias para
+establecer con total seguridad una relación causal entre la variable independiente y la
+variable dependiente. A cambio, permiten una mejor generalización de los resultados a
+contextos naturales, aunque con ciertas limitaciones en la inferencia causal.
+
+
+
+
+                                                                                         81
+Los diseños pre-post
+Son métodos de investigación que evalúan los cambios producidos tras una
+intervención, comparando una medida antes del tratamiento (pretest) y otra después
+(post-test). Se utilizan mucho en Psicología y Educación porque permiten estudiar
+intervenciones cuando no es posible manipular variables de forma experimental por
+razones éticas o prácticas. Dentro de estos diseños hay varias variantes, que difieren
+sobre todo en el nivel de control que ofrecen.
+
+El diseño más básico es el de un solo grupo, en el que todos los participantes reciben la
+intervención. Se mide una variable antes (O₁), se aplica el tratamiento (X) y se vuelve a
+medir después (O₂). La idea es que cualquier cambio entre O₁ y O₂ se atribuya al
+tratamiento, pero el problema principal es que no se puede asegurar causalidad, ya que
+pueden intervenir muchas variables externas como la historia, la maduración natural de
+los participantes o cambios en la motivación. Por eso se considera un diseño débil desde
+el punto de vista de la validez interna y solo se recomienda cuando no hay alternativas.
+
+Para mejorar este problema aparece el diseño pre-post con grupo cuasi control, donde
+se comparan dos grupos no equivalentes: uno experimental que recibe el tratamiento y
+otro cuasi control que no lo recibe. Ambos se miden antes y después, lo que permite
+comprobar si el cambio del grupo tratado es mayor que el del grupo control. Este diseño
+mejora el anterior porque ayuda a descartar algunas explicaciones alternativas, como
+que un factor externo general afecte a todos los participantes. Sin embargo, sigue
+existiendo una limitación importante: al no haber asignación aleatoria, los grupos
+pueden diferir desde el inicio, lo que mantiene amenazas a la validez interna.
+
+Otra variante es el diseño con cuasi control en una segunda variable dependiente,
+donde se mide la conducta objetivo (Y) y otra conducta similar (Z) que también podría
+verse afectada por el tratamiento o por variables externas. La lógica es que si solo
+cambia Y y no Z, se refuerza la idea de que el efecto se debe a la intervención. Pero este
+enfoque exige que ambas variables sean igual de sensibles al tratamiento y a factores
+externos, ya que si ambas cambian no se puede atribuir el efecto al tratamiento de
+forma clara.
+
+Por último, el diseño con cuasi control en cohorte anterior compara un grupo actual
+con otro de una cohorte previa. Es frecuente en contextos educativos o institucionales,
+por ejemplo al comparar un plan de estudios antiguo con uno nuevo. Su principal
+ventaja es que tiene un gran valor aplicado y permite evaluar cambios a nivel
+institucional, pero presenta amenazas importantes como diferencias entre cohortes,
+efectos de la historia o tendencias temporales en el rendimiento. Para mejorar su
+validez se recomienda comprobar la equivalencia inicial entre cohortes y, si es posible,
+analizar varias cohortes para detectar tendencias previas.
+
+
+
+
+                                                                                       82
+Los diseños con observaciones solo post
+Se caracterizan porque únicamente se recogen medidas después de aplicar el
+tratamiento o intervención, es decir, no existe pretest, lo que impide conocer el punto
+de partida de los grupos. Se utilizan con frecuencia en contextos educativos e
+institucionales, especialmente cuando se evalúan programas ya implementados. Su
+principal problema es que resulta difícil determinar si las diferencias observadas entre
+grupos se deben realmente al tratamiento o si ya existían antes de la intervención,
+siendo la amenaza central la validez interna por sesgo de selección.
+
+Dentro de estos diseños, el modelo más simple compara un grupo experimental con un
+grupo cuasi control de forma simultánea o por cohortes, pero siempre midiendo solo al
+final. Por ejemplo, puede compararse un plan de estudios antiguo con uno nuevo
+mediante una única medida posterior. En este caso, la pregunta clave es si los mejores
+resultados del grupo experimental se deben al programa o a que ese grupo ya era mejor
+inicialmente. El problema principal es que los grupos pueden no ser equivalentes desde
+el inicio, por lo que una estrategia para mejorar la validez consiste en aumentar el
+número de grupos observados, reduciendo así el impacto del azar en la selección.
+
+Otra variante son los diseños con grupos duplicados, en los que se comparan varios
+grupos experimentales y cuasi controles, tanto de forma simultánea como por cohortes.
+Su ventaja principal es que disminuyen la probabilidad de que las diferencias se
+expliquen solo por la selección, ya que es poco probable que varios grupos
+experimentales presenten simultáneamente mejores resultados si no es por el efecto del
+programa.
+
+Por último, los diseños con dos o más tratamientos comparan distintos programas
+aplicados simultáneamente, sin necesidad de un único grupo control. Esto permite
+contrastar hipótesis más específicas, ya que no solo se espera encontrar diferencias
+respecto a un grupo de referencia, sino también entre los propios tratamientos. Su
+principal ventaja es que reduce aún más la amenaza de selección, porque es muy
+improbable que este sesgo genere exactamente el patrón diferencial observado entre
+varios programas.
+
+
+
+
+                                                                                     83
+Los diseños de serie temporal interrumpida
+Consisten en la realización de observaciones repetidas a lo largo del tiempo antes y
+después de una intervención, lo que permite analizar si el tratamiento produce un
+cambio claro en la tendencia de la conducta. Son los diseños cuasi experimentales
+más potentes para aproximarse a la inferencia causal, aunque sin alcanzar el nivel de
+un experimento verdadero. Existen tres variantes principales: el diseño simple, el diseño
+con grupo cuasi control y el diseño con un grupo y dos variables dependientes.
+
+En el diseño simple, se realizan múltiples medidas en un único grupo antes y después
+de la intervención. La idea central es comprobar si el tratamiento “interrumpe” la
+tendencia previa. Esto permite algo que el diseño pre-post no ofrece: conocer la
+estabilidad de la conducta, su posible carácter cíclico y la tendencia del cambio a lo
+largo del tiempo. Además, después del tratamiento se puede analizar si el cambio es
+puntual o estable, si supera la variabilidad natural de la medida, si altera los ciclos
+previos o si rompe de forma clara la tendencia anterior.
+
+Un ejemplo típico es el de la esquizofrenia, donde la sintomatología puede variar
+estacionalmente. En un diseño pre-post podríamos confundir una mejoría natural por
+estación con el efecto del tratamiento, mientras que al registrar datos durante meses
+antes y después, es posible detectar si aparece un punto de cambio real coincidiendo
+con la intervención, más allá de las fluctuaciones naturales.
+
+La principal limitación de estos diseños es la amenaza de variables extrañas asociadas a
+la selección de participantes, como el tipo de hospital, el nivel socioeconómico, el
+régimen de hospitalización o la motivación familiar. Si estas variables interactúan con el
+tratamiento, el diseño simple no puede controlarlo, lo que reduce la validez del
+resultado. Además, existe una limitación en la generalización de los hallazgos.
+
+Para mejorar esto se utiliza el diseño con grupo cuasi control, en el que un grupo recibe
+el tratamiento mientras otro similar no lo recibe, y ambos se miden repetidamente en el
+tiempo. Así se puede comparar si el cambio observado en el grupo experimental es
+diferente al del grupo control, aumentando la confianza en que el efecto se debe al
+tratamiento. Aunque no hay asignación aleatoria y los grupos no son totalmente
+equivalentes, el seguimiento temporal antes y después permite reducir parte de los
+sesgos.
+
+Finalmente, el diseño con un solo grupo y dos variables dependientes incorpora una
+conducta tratada (Y) y otra conducta no tratada o de control (Z), ambas medidas a lo
+largo del tiempo. La idea es que si ambas deberían ser igualmente sensibles al
+tratamiento, se puede comparar su evolución. Por ejemplo, si Y es “recoger vasos” y Z es
+“ordenar habitaciones”, se analiza si solo cambia Y tras la intervención. Este diseño
+permite evaluar tanto la eficacia del tratamiento como la persistencia del cambio en el
+tiempo, observando si se mantiene o desaparece.
+
+
+                                                                                       84
+
