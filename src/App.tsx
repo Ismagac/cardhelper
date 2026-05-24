@@ -52,6 +52,10 @@ function orderedOptions(question: Question) {
   return [...question.options].sort((left, right) => left.key.localeCompare(right.key))
 }
 
+type LoveEggState = {
+  message: string
+}
+
 function App() {
   const topics = useMemo(
     () => Array.from(new Set(questionBank.questions.map((q) => q.topic))).sort((a, b) => a - b),
@@ -68,12 +72,16 @@ function App() {
   const [examSubmitted, setExamSubmitted] = useState(false)
   const [remainingSeconds, setRemainingSeconds] = useState(45 * 60)
   const [frozenPdfSet, setFrozenPdfSet] = useState<Question[]>([])
+  const [loveEgg, setLoveEgg] = useState<LoveEggState | null>(null)
 
   const [practicePool, setPracticePool] = useState<Question[]>([])
   const [practiceIndex, setPracticeIndex] = useState(0)
   const [practiceSelected, setPracticeSelected] = useState<'A' | 'B' | 'C' | null>(null)
   const [practiceChecked, setPracticeChecked] = useState(false)
+  const [practiceStreak, setPracticeStreak] = useState(0)
+  const [lastPracticeEggStreak, setLastPracticeEggStreak] = useState(0)
   const [topicFilter, setTopicFilter] = useState<number>(topics[0] ?? 1)
+  const [examLoveEggShown, setExamLoveEggShown] = useState(false)
 
   const examCorrect = useMemo(() => {
     if (!examSubmitted) return 0
@@ -81,6 +89,27 @@ function App() {
       return acc + (examAnswers[question.id] === question.correctKey ? 1 : 0)
     }, 0)
   }, [examAnswers, examQuestions, examSubmitted])
+
+  const examAnsweredCount = useMemo(
+    () => Object.keys(examAnswers).length,
+    [examAnswers],
+  )
+
+  useEffect(() => {
+    if (!loveEgg) return undefined
+
+    const timeout = window.setTimeout(() => setLoveEgg(null), 2600)
+    return () => window.clearTimeout(timeout)
+  }, [loveEgg])
+
+  useEffect(() => {
+    if (!examSubmitted || examLoveEggShown) return
+    if (examQuestions.length === 0) return
+    if (examAnsweredCount !== examQuestions.length) return
+
+    setLoveEgg({ message: 'Te quiero mucho' })
+    setExamLoveEggShown(true)
+  }, [examAnsweredCount, examLoveEggShown, examQuestions.length, examSubmitted])
 
   useEffect(() => {
     if (mode !== 'exam' || !examStarted || examSubmitted || examQuestions.length === 0) return
@@ -125,6 +154,8 @@ function App() {
     setExamSubmitted(false)
     setExamIndex(0)
     setRemainingSeconds(Math.max(1, examMinutes) * 60)
+    setExamLoveEggShown(false)
+    setLoveEgg(null)
   }
 
   function resetExam() {
@@ -134,6 +165,7 @@ function App() {
     setExamSubmitted(false)
     setExamIndex(0)
     setRemainingSeconds(Math.max(1, examMinutes) * 60)
+    setExamLoveEggShown(false)
   }
 
   function selectAnswer(questionId: string, key: 'A' | 'B' | 'C') {
@@ -147,6 +179,8 @@ function App() {
     setPracticeIndex(0)
     setPracticeSelected(null)
     setPracticeChecked(false)
+    setPracticeStreak(0)
+    setLastPracticeEggStreak(0)
   }
 
   function startPractice() {
@@ -163,6 +197,19 @@ function App() {
 
   function submitPracticeAnswer() {
     if (!practiceSelected) return
+    const isCorrect = activePractice ? practiceSelected === activePractice.correctKey : false
+    if (isCorrect) {
+      setPracticeStreak((current) => {
+        const nextStreak = current + 1
+        if (nextStreak >= 5 && nextStreak % 5 === 0 && lastPracticeEggStreak !== nextStreak) {
+          setLoveEgg({ message: 'Te quiero mucho' })
+          setLastPracticeEggStreak(nextStreak)
+        }
+        return nextStreak
+      })
+    } else {
+      setPracticeStreak(0)
+    }
     setPracticeChecked(true)
   }
 
@@ -373,7 +420,12 @@ function App() {
           <div className="space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2">
               <h2 className="text-2xl font-bold text-slate-900">Practica inmediata</h2>
-              <button className="rounded-xl bg-cyan-500 px-4 py-2 font-semibold text-white hover:bg-cyan-400" onClick={startPractice}>Nueva pregunta</button>
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="rounded-xl border border-cyan-200 bg-cyan-50 px-3 py-2 text-sm font-semibold text-cyan-900">
+                  Racha: {practiceStreak}
+                </span>
+                <button className="rounded-xl bg-cyan-500 px-4 py-2 font-semibold text-white hover:bg-cyan-400" onClick={startPractice}>Nueva pregunta</button>
+              </div>
             </div>
 
             {activePractice && (
@@ -451,6 +503,10 @@ function App() {
               </div>
             </div>
 
+            <div className="rounded-xl border border-cyan-200 bg-cyan-50 px-3 py-2 text-sm font-semibold text-cyan-900">
+              Racha actual: {practiceStreak}
+            </div>
+
             {activePractice && (
               <>
                 <div className="rounded-xl border border-cyan-200 bg-cyan-50/60 px-3 py-2 text-sm font-medium text-slate-700">
@@ -504,6 +560,27 @@ function App() {
           </div>
         )}
       </section>
+
+      {loveEgg && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/35 px-4 backdrop-blur-sm">
+          <div className="relative w-full max-w-sm overflow-hidden rounded-3xl border border-cyan-200 bg-white p-6 text-center shadow-2xl shadow-cyan-950/30">
+            <div className="absolute -left-6 -top-6 h-16 w-16 rounded-full bg-cyan-200/50 blur-2xl" />
+            <div className="absolute -right-4 -bottom-4 h-20 w-20 rounded-full bg-cyan-300/40 blur-2xl" />
+            <div className="relative mx-auto flex h-28 w-28 items-center justify-center">
+              <div className="absolute h-24 w-24 rounded-full bg-rose-100 animate-pulse" />
+              <div className="relative text-7xl leading-none drop-shadow-lg animate-bounce">💗</div>
+            </div>
+            <h2 className="mt-4 text-3xl font-black tracking-tight text-slate-900">{loveEgg.message}</h2>
+            <p className="mt-2 text-base text-slate-700">Buen trabajo, sigue así.</p>
+            <button
+              className="mt-5 rounded-xl bg-cyan-500 px-4 py-2 font-semibold text-white transition hover:bg-cyan-400"
+              onClick={() => setLoveEgg(null)}
+            >
+              Cerrar
+            </button>
+          </div>
+        </div>
+      )}
       </main>
     </div>
   )

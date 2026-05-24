@@ -94,7 +94,7 @@
     {
       "id": "Q004",
       "topic": 1,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Existe una condición imprescindible: la replicabilidad.»?",
       "options": [
         {
           "key": "C",
@@ -119,7 +119,7 @@
     {
       "id": "Q005",
       "topic": 1,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Existe una condición imprescindible: la replicabilidad.»?",
       "options": [
         {
           "key": "C",
@@ -144,7 +144,7 @@
     {
       "id": "Q006",
       "topic": 1,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Existe una condición imprescindible: la replicabilidad.»?",
       "options": [
         {
           "key": "A",
@@ -244,7 +244,7 @@
     {
       "id": "Q010",
       "topic": 1,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Teorías que formulen afirmaciones comprobables empíricamente y que puedan demostrarse falsas.»?",
       "options": [
         {
           "key": "B",
@@ -269,7 +269,7 @@
     {
       "id": "Q011",
       "topic": 1,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Teorías que formulen afirmaciones comprobables empíricamente y que puedan demostrarse falsas.»?",
       "options": [
         {
           "key": "B",
@@ -294,7 +294,7 @@
     {
       "id": "Q012",
       "topic": 1,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Teorías que formulen afirmaciones comprobables empíricamente y que puedan demostrarse falsas.»?",
       "options": [
         {
           "key": "B",
@@ -394,7 +394,7 @@
     {
       "id": "Q016",
       "topic": 1,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «El razonamiento deductivo parte de la teoría... el inductivo parte de la observación.»?",
       "options": [
         {
           "key": "C",
@@ -419,7 +419,7 @@
     {
       "id": "Q017",
       "topic": 1,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «El razonamiento deductivo parte de la teoría... el inductivo parte de la observación.»?",
       "options": [
         {
           "key": "C",
@@ -444,7 +444,7 @@
     {
       "id": "Q018",
       "topic": 1,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «El razonamiento deductivo parte de la teoría... el inductivo parte de la observación.»?",
       "options": [
         {
           "key": "C",
@@ -544,7 +544,7 @@
     {
       "id": "Q022",
       "topic": 1,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «El paradigma experimental se basa en hipótesis causales y manipula la VI.»?",
       "options": [
         {
           "key": "B",
@@ -569,7 +569,7 @@
     {
       "id": "Q023",
       "topic": 1,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «El paradigma experimental se basa en hipótesis causales y manipula la VI.»?",
       "options": [
         {
           "key": "B",
@@ -594,7 +594,7 @@
     {
       "id": "Q024",
       "topic": 1,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «El paradigma experimental se basa en hipótesis causales y manipula la VI.»?",
       "options": [
         {
           "key": "A",
@@ -694,7 +694,7 @@
     {
       "id": "Q028",
       "topic": 1,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «No se puede establecer causalidad, sino relaciones de asociación o correlación.»?",
       "options": [
         {
           "key": "A",
@@ -719,7 +719,7 @@
     {
       "id": "Q029",
       "topic": 1,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «No se puede establecer causalidad, sino relaciones de asociación o correlación.»?",
       "options": [
         {
           "key": "A",
@@ -744,7 +744,7 @@
     {
       "id": "Q030",
       "topic": 1,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «No se puede establecer causalidad, sino relaciones de asociación o correlación.»?",
       "options": [
         {
           "key": "A",
@@ -844,7 +844,7 @@
     {
       "id": "Q034",
       "topic": 2,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Las ideas deben resolver problemas, aportar conocimientos y generar interrogantes.»?",
       "options": [
         {
           "key": "B",
@@ -869,7 +869,7 @@
     {
       "id": "Q035",
       "topic": 2,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Las ideas deben resolver problemas, aportar conocimientos y generar interrogantes.»?",
       "options": [
         {
           "key": "B",
@@ -894,7 +894,7 @@
     {
       "id": "Q036",
       "topic": 2,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Las ideas deben resolver problemas, aportar conocimientos y generar interrogantes.»?",
       "options": [
         {
           "key": "B",
@@ -994,7 +994,7 @@
     {
       "id": "Q040",
       "topic": 2,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Los cuantitativos son precisos, delimitados y enfocados en variables concretas.»?",
       "options": [
         {
           "key": "B",
@@ -1019,7 +1019,7 @@
     {
       "id": "Q041",
       "topic": 2,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Los cuantitativos son precisos, delimitados y enfocados en variables concretas.»?",
       "options": [
         {
           "key": "B",
@@ -1044,7 +1044,7 @@
     {
       "id": "Q042",
       "topic": 2,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Los cuantitativos son precisos, delimitados y enfocados en variables concretas.»?",
       "options": [
         {
           "key": "A",
@@ -1144,7 +1144,7 @@
     {
       "id": "Q046",
       "topic": 2,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Debe estar bien definida, centrada y ser contestable mediante evidencia empírica.»?",
       "options": [
         {
           "key": "C",
@@ -1169,7 +1169,7 @@
     {
       "id": "Q047",
       "topic": 2,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Debe estar bien definida, centrada y ser contestable mediante evidencia empírica.»?",
       "options": [
         {
           "key": "A",
@@ -1194,7 +1194,7 @@
     {
       "id": "Q048",
       "topic": 2,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Debe estar bien definida, centrada y ser contestable mediante evidencia empírica.»?",
       "options": [
         {
           "key": "A",
@@ -1294,7 +1294,7 @@
     {
       "id": "Q052",
       "topic": 2,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «El cumplimiento del objetivo general depende del logro de cada objetivo específico.»?",
       "options": [
         {
           "key": "B",
@@ -1319,7 +1319,7 @@
     {
       "id": "Q053",
       "topic": 2,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «El cumplimiento del objetivo general depende del logro de cada objetivo específico.»?",
       "options": [
         {
           "key": "B",
@@ -1344,7 +1344,7 @@
     {
       "id": "Q054",
       "topic": 2,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «El cumplimiento del objetivo general depende del logro de cada objetivo específico.»?",
       "options": [
         {
           "key": "B",
@@ -1444,7 +1444,7 @@
     {
       "id": "Q058",
       "topic": 2,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Una hipótesis es una respuesta probable... empíricamente contrastable.»?",
       "options": [
         {
           "key": "A",
@@ -1469,7 +1469,7 @@
     {
       "id": "Q059",
       "topic": 2,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Una hipótesis es una respuesta probable... empíricamente contrastable.»?",
       "options": [
         {
           "key": "A",
@@ -1494,7 +1494,7 @@
     {
       "id": "Q060",
       "topic": 2,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Una hipótesis es una respuesta probable... empíricamente contrastable.»?",
       "options": [
         {
           "key": "B",
@@ -1594,7 +1594,7 @@
     {
       "id": "Q064",
       "topic": 3,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Es fundamental que sea representativa... permite generalizar los resultados.»?",
       "options": [
         {
           "key": "C",
@@ -1619,7 +1619,7 @@
     {
       "id": "Q065",
       "topic": 3,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Es fundamental que sea representativa... permite generalizar los resultados.»?",
       "options": [
         {
           "key": "B",
@@ -1644,7 +1644,7 @@
     {
       "id": "Q066",
       "topic": 3,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Es fundamental que sea representativa... permite generalizar los resultados.»?",
       "options": [
         {
           "key": "B",
@@ -1744,7 +1744,7 @@
     {
       "id": "Q070",
       "topic": 3,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Cada elemento de la población tiene una probabilidad conocida de ser seleccionado.»?",
       "options": [
         {
           "key": "A",
@@ -1769,7 +1769,7 @@
     {
       "id": "Q071",
       "topic": 3,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Cada elemento de la población tiene una probabilidad conocida de ser seleccionado.»?",
       "options": [
         {
           "key": "A",
@@ -1794,7 +1794,7 @@
     {
       "id": "Q072",
       "topic": 3,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Cada elemento de la población tiene una probabilidad conocida de ser seleccionado.»?",
       "options": [
         {
           "key": "A",
@@ -1894,7 +1894,7 @@
     {
       "id": "Q076",
       "topic": 3,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Permitiendo que los mayores de 16 consientan por sí mismos en España.»?",
       "options": [
         {
           "key": "B",
@@ -1919,7 +1919,7 @@
     {
       "id": "Q077",
       "topic": 3,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Permitiendo que los mayores de 16 consientan por sí mismos en España.»?",
       "options": [
         {
           "key": "B",
@@ -1944,7 +1944,7 @@
     {
       "id": "Q078",
       "topic": 3,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Permitiendo que los mayores de 16 consientan por sí mismos en España.»?",
       "options": [
         {
           "key": "B",
@@ -2044,7 +2044,7 @@
     {
       "id": "Q082",
       "topic": 3,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Consiste en concretar el significado... en cómo se observa y registra.»?",
       "options": [
         {
           "key": "B",
@@ -2069,7 +2069,7 @@
     {
       "id": "Q083",
       "topic": 3,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Consiste en concretar el significado... en cómo se observa y registra.»?",
       "options": [
         {
           "key": "A",
@@ -2094,7 +2094,7 @@
     {
       "id": "Q084",
       "topic": 3,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Consiste en concretar el significado... en cómo se observa y registra.»?",
       "options": [
         {
           "key": "A",
@@ -2194,7 +2194,7 @@
     {
       "id": "Q088",
       "topic": 3,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Hace referencia a que los resultados puedan extrapolarse al mundo real.»?",
       "options": [
         {
           "key": "A",
@@ -2219,7 +2219,7 @@
     {
       "id": "Q089",
       "topic": 3,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Hace referencia a que los resultados puedan extrapolarse al mundo real.»?",
       "options": [
         {
           "key": "A",
@@ -2244,7 +2244,7 @@
     {
       "id": "Q090",
       "topic": 3,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Hace referencia a que los resultados puedan extrapolarse al mundo real.»?",
       "options": [
         {
           "key": "A",
@@ -2344,7 +2344,7 @@
     {
       "id": "Q094",
       "topic": 4,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Si hay tres o más autores, se cita solo el primero seguido de et al.»?",
       "options": [
         {
           "key": "C",
@@ -2369,7 +2369,7 @@
     {
       "id": "Q095",
       "topic": 4,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Si hay tres o más autores, se cita solo el primero seguido de et al.»?",
       "options": [
         {
           "key": "C",
@@ -2394,7 +2394,7 @@
     {
       "id": "Q096",
       "topic": 4,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Si hay tres o más autores, se cita solo el primero seguido de et al.»?",
       "options": [
         {
           "key": "C",
@@ -2494,7 +2494,7 @@
     {
       "id": "Q100",
       "topic": 4,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Las citas textuales deben incluir siempre autor, fecha y página o párrafo.»?",
       "options": [
         {
           "key": "B",
@@ -2519,7 +2519,7 @@
     {
       "id": "Q101",
       "topic": 4,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Las citas textuales deben incluir siempre autor, fecha y página o párrafo.»?",
       "options": [
         {
           "key": "A",
@@ -2544,7 +2544,7 @@
     {
       "id": "Q102",
       "topic": 4,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Las citas textuales deben incluir siempre autor, fecha y página o párrafo.»?",
       "options": [
         {
           "key": "A",
@@ -2644,7 +2644,7 @@
     {
       "id": "Q106",
       "topic": 4,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Si supera las 40 palabras, debe colocarse en nuevo párrafo, con sangrado y sin comillas.»?",
       "options": [
         {
           "key": "C",
@@ -2669,7 +2669,7 @@
     {
       "id": "Q107",
       "topic": 4,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Si supera las 40 palabras, debe colocarse en nuevo párrafo, con sangrado y sin comillas.»?",
       "options": [
         {
           "key": "C",
@@ -2694,7 +2694,7 @@
     {
       "id": "Q108",
       "topic": 4,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Si supera las 40 palabras, debe colocarse en nuevo párrafo, con sangrado y sin comillas.»?",
       "options": [
         {
           "key": "C",
@@ -2794,7 +2794,7 @@
     {
       "id": "Q112",
       "topic": 4,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Incluir únicamente trabajos consultados y citados en el texto.»?",
       "options": [
         {
           "key": "B",
@@ -2819,7 +2819,7 @@
     {
       "id": "Q113",
       "topic": 4,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Incluir únicamente trabajos consultados y citados en el texto.»?",
       "options": [
         {
           "key": "B",
@@ -2844,7 +2844,7 @@
     {
       "id": "Q114",
       "topic": 4,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Incluir únicamente trabajos consultados y citados en el texto.»?",
       "options": [
         {
           "key": "B",
@@ -2944,7 +2944,7 @@
     {
       "id": "Q118",
       "topic": 4,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Se debe mantener un hilo conductor claro, con introducciones y conclusiones breves.»?",
       "options": [
         {
           "key": "A",
@@ -2969,7 +2969,7 @@
     {
       "id": "Q119",
       "topic": 4,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Se debe mantener un hilo conductor claro, con introducciones y conclusiones breves.»?",
       "options": [
         {
           "key": "C",
@@ -2994,7 +2994,7 @@
     {
       "id": "Q120",
       "topic": 4,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Se debe mantener un hilo conductor claro, con introducciones y conclusiones breves.»?",
       "options": [
         {
           "key": "C",
@@ -3094,7 +3094,7 @@
     {
       "id": "Q124",
       "topic": 5,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «No establece relaciones entre variables, simplemente las describe.»?",
       "options": [
         {
           "key": "A",
@@ -3119,7 +3119,7 @@
     {
       "id": "Q125",
       "topic": 5,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «No establece relaciones entre variables, simplemente las describe.»?",
       "options": [
         {
           "key": "A",
@@ -3144,7 +3144,7 @@
     {
       "id": "Q126",
       "topic": 5,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «No establece relaciones entre variables, simplemente las describe.»?",
       "options": [
         {
           "key": "A",
@@ -3244,7 +3244,7 @@
     {
       "id": "Q130",
       "topic": 5,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Las encuestas transversales recogen información en un único momento.»?",
       "options": [
         {
           "key": "A",
@@ -3269,7 +3269,7 @@
     {
       "id": "Q131",
       "topic": 5,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Las encuestas transversales recogen información en un único momento.»?",
       "options": [
         {
           "key": "A",
@@ -3294,7 +3294,7 @@
     {
       "id": "Q132",
       "topic": 5,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Las encuestas transversales recogen información en un único momento.»?",
       "options": [
         {
           "key": "A",
@@ -3394,7 +3394,7 @@
     {
       "id": "Q136",
       "topic": 5,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «La observación científica tiene objetivo definido y está planificada de forma sistemática.»?",
       "options": [
         {
           "key": "B",
@@ -3419,7 +3419,7 @@
     {
       "id": "Q137",
       "topic": 5,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «La observación científica tiene objetivo definido y está planificada de forma sistemática.»?",
       "options": [
         {
           "key": "A",
@@ -3444,7 +3444,7 @@
     {
       "id": "Q138",
       "topic": 5,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «La observación científica tiene objetivo definido y está planificada de forma sistemática.»?",
       "options": [
         {
           "key": "A",
@@ -3544,7 +3544,7 @@
     {
       "id": "Q142",
       "topic": 5,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «En la observación interna o participante, el observador mantiene contacto directo y participa.»?",
       "options": [
         {
           "key": "A",
@@ -3569,7 +3569,7 @@
     {
       "id": "Q143",
       "topic": 5,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «En la observación interna o participante, el observador mantiene contacto directo y participa.»?",
       "options": [
         {
           "key": "A",
@@ -3594,7 +3594,7 @@
     {
       "id": "Q144",
       "topic": 5,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «En la observación interna o participante, el observador mantiene contacto directo y participa.»?",
       "options": [
         {
           "key": "A",
@@ -3694,7 +3694,7 @@
     {
       "id": "Q148",
       "topic": 5,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Puede aparecer reactividad de los sujetos observados.»?",
       "options": [
         {
           "key": "A",
@@ -3719,7 +3719,7 @@
     {
       "id": "Q149",
       "topic": 5,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Puede aparecer reactividad de los sujetos observados.»?",
       "options": [
         {
           "key": "A",
@@ -3744,7 +3744,7 @@
     {
       "id": "Q150",
       "topic": 5,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Puede aparecer reactividad de los sujetos observados.»?",
       "options": [
         {
           "key": "A",
@@ -3844,7 +3844,7 @@
     {
       "id": "Q154",
       "topic": 6,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Su objetivo es comprender en profundidad los fenómenos en su contexto.»?",
       "options": [
         {
           "key": "A",
@@ -3869,7 +3869,7 @@
     {
       "id": "Q155",
       "topic": 6,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Su objetivo es comprender en profundidad los fenómenos en su contexto.»?",
       "options": [
         {
           "key": "A",
@@ -3894,7 +3894,7 @@
     {
       "id": "Q156",
       "topic": 6,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Su objetivo es comprender en profundidad los fenómenos en su contexto.»?",
       "options": [
         {
           "key": "B",
@@ -3994,7 +3994,7 @@
     {
       "id": "Q160",
       "topic": 6,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Las realidades sociales se construyen a través de la interacción entre las personas.»?",
       "options": [
         {
           "key": "B",
@@ -4019,7 +4019,7 @@
     {
       "id": "Q161",
       "topic": 6,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Las realidades sociales se construyen a través de la interacción entre las personas.»?",
       "options": [
         {
           "key": "B",
@@ -4044,7 +4044,7 @@
     {
       "id": "Q162",
       "topic": 6,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Las realidades sociales se construyen a través de la interacción entre las personas.»?",
       "options": [
         {
           "key": "B",
@@ -4144,7 +4144,7 @@
     {
       "id": "Q166",
       "topic": 6,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Busca integrarse en el grupo como un miembro más.»?",
       "options": [
         {
           "key": "A",
@@ -4169,7 +4169,7 @@
     {
       "id": "Q167",
       "topic": 6,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Busca integrarse en el grupo como un miembro más.»?",
       "options": [
         {
           "key": "A",
@@ -4194,7 +4194,7 @@
     {
       "id": "Q168",
       "topic": 6,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Busca integrarse en el grupo como un miembro más.»?",
       "options": [
         {
           "key": "A",
@@ -4294,7 +4294,7 @@
     {
       "id": "Q172",
       "topic": 6,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Las personas implicadas participan activamente en todo el proceso.»?",
       "options": [
         {
           "key": "C",
@@ -4319,7 +4319,7 @@
     {
       "id": "Q173",
       "topic": 6,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Las personas implicadas participan activamente en todo el proceso.»?",
       "options": [
         {
           "key": "C",
@@ -4344,7 +4344,7 @@
     {
       "id": "Q174",
       "topic": 6,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Las personas implicadas participan activamente en todo el proceso.»?",
       "options": [
         {
           "key": "A",
@@ -4444,7 +4444,7 @@
     {
       "id": "Q178",
       "topic": 6,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «El código es la etiqueta que describe un segmento de texto.»?",
       "options": [
         {
           "key": "C",
@@ -4469,7 +4469,7 @@
     {
       "id": "Q179",
       "topic": 6,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «El código es la etiqueta que describe un segmento de texto.»?",
       "options": [
         {
           "key": "C",
@@ -4494,7 +4494,7 @@
     {
       "id": "Q180",
       "topic": 6,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «El código es la etiqueta que describe un segmento de texto.»?",
       "options": [
         {
           "key": "C",
@@ -4594,7 +4594,7 @@
     {
       "id": "Q184",
       "topic": 7,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Se utilizan cuando el investigador no puede manipular las variables.»?",
       "options": [
         {
           "key": "B",
@@ -4619,7 +4619,7 @@
     {
       "id": "Q185",
       "topic": 7,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Se utilizan cuando el investigador no puede manipular las variables.»?",
       "options": [
         {
           "key": "B",
@@ -4644,7 +4644,7 @@
     {
       "id": "Q186",
       "topic": 7,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Se utilizan cuando el investigador no puede manipular las variables.»?",
       "options": [
         {
           "key": "B",
@@ -4744,7 +4744,7 @@
     {
       "id": "Q190",
       "topic": 7,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Se parte de la variable dependiente y después se busca hacia atrás.»?",
       "options": [
         {
           "key": "C",
@@ -4769,7 +4769,7 @@
     {
       "id": "Q191",
       "topic": 7,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Se parte de la variable dependiente y después se busca hacia atrás.»?",
       "options": [
         {
           "key": "C",
@@ -4794,7 +4794,7 @@
     {
       "id": "Q192",
       "topic": 7,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Se parte de la variable dependiente y después se busca hacia atrás.»?",
       "options": [
         {
           "key": "A",
@@ -4894,7 +4894,7 @@
     {
       "id": "Q196",
       "topic": 7,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Permite encontrar coincidencias, pero no permite demostrar causalidad.»?",
       "options": [
         {
           "key": "A",
@@ -4919,7 +4919,7 @@
     {
       "id": "Q197",
       "topic": 7,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Permite encontrar coincidencias, pero no permite demostrar causalidad.»?",
       "options": [
         {
           "key": "A",
@@ -4944,7 +4944,7 @@
     {
       "id": "Q198",
       "topic": 7,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Permite encontrar coincidencias, pero no permite demostrar causalidad.»?",
       "options": [
         {
           "key": "A",
@@ -5044,7 +5044,7 @@
     {
       "id": "Q202",
       "topic": 7,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Supone una mejora en validez interna y limita el sesgo retrospectivo.»?",
       "options": [
         {
           "key": "C",
@@ -5069,7 +5069,7 @@
     {
       "id": "Q203",
       "topic": 7,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Supone una mejora en validez interna y limita el sesgo retrospectivo.»?",
       "options": [
         {
           "key": "C",
@@ -5094,7 +5094,7 @@
     {
       "id": "Q204",
       "topic": 7,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Supone una mejora en validez interna y limita el sesgo retrospectivo.»?",
       "options": [
         {
           "key": "C",
@@ -5194,7 +5194,7 @@
     {
       "id": "Q208",
       "topic": 7,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Primero se seleccionan personas con valores similares en la VI y después se mide la VD.»?",
       "options": [
         {
           "key": "C",
@@ -5219,7 +5219,7 @@
     {
       "id": "Q209",
       "topic": 7,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Primero se seleccionan personas con valores similares en la VI y después se mide la VD.»?",
       "options": [
         {
           "key": "C",
@@ -5244,7 +5244,7 @@
     {
       "id": "Q210",
       "topic": 7,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Primero se seleccionan personas con valores similares en la VI y después se mide la VD.»?",
       "options": [
         {
           "key": "A",
@@ -5344,7 +5344,7 @@
     {
       "id": "Q214",
       "topic": 8,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Deben cumplirse covariación, antecesión y descarte de causas alternativas.»?",
       "options": [
         {
           "key": "B",
@@ -5369,7 +5369,7 @@
     {
       "id": "Q215",
       "topic": 8,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Deben cumplirse covariación, antecesión y descarte de causas alternativas.»?",
       "options": [
         {
           "key": "A",
@@ -5394,7 +5394,7 @@
     {
       "id": "Q216",
       "topic": 8,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Deben cumplirse covariación, antecesión y descarte de causas alternativas.»?",
       "options": [
         {
           "key": "A",
@@ -5494,7 +5494,7 @@
     {
       "id": "Q220",
       "topic": 8,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Variables enmascaradas... cambian al mismo tiempo que la VI y pueden influir en la VD.»?",
       "options": [
         {
           "key": "B",
@@ -5519,7 +5519,7 @@
     {
       "id": "Q221",
       "topic": 8,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Variables enmascaradas... cambian al mismo tiempo que la VI y pueden influir en la VD.»?",
       "options": [
         {
           "key": "B",
@@ -5544,7 +5544,7 @@
     {
       "id": "Q222",
       "topic": 8,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Variables enmascaradas... cambian al mismo tiempo que la VI y pueden influir en la VD.»?",
       "options": [
         {
           "key": "B",
@@ -5644,7 +5644,7 @@
     {
       "id": "Q226",
       "topic": 8,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Es especialmente relevante cuando los grupos se forman con puntuaciones extremas.»?",
       "options": [
         {
           "key": "C",
@@ -5669,7 +5669,7 @@
     {
       "id": "Q227",
       "topic": 8,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Es especialmente relevante cuando los grupos se forman con puntuaciones extremas.»?",
       "options": [
         {
           "key": "C",
@@ -5694,7 +5694,7 @@
     {
       "id": "Q228",
       "topic": 8,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Es especialmente relevante cuando los grupos se forman con puntuaciones extremas.»?",
       "options": [
         {
           "key": "A",
@@ -5794,7 +5794,7 @@
     {
       "id": "Q232",
       "topic": 8,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «La técnica del bloqueo consiste en transformar una variable extraña en variable controlada.»?",
       "options": [
         {
           "key": "C",
@@ -5819,7 +5819,7 @@
     {
       "id": "Q233",
       "topic": 8,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «La técnica del bloqueo consiste en transformar una variable extraña en variable controlada.»?",
       "options": [
         {
           "key": "C",
@@ -5844,7 +5844,7 @@
     {
       "id": "Q234",
       "topic": 8,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «La técnica del bloqueo consiste en transformar una variable extraña en variable controlada.»?",
       "options": [
         {
           "key": "C",
@@ -5944,7 +5944,7 @@
     {
       "id": "Q238",
       "topic": 8,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Validez interna: capacidad de descartar explicaciones alternativas.»?",
       "options": [
         {
           "key": "B",
@@ -5969,7 +5969,7 @@
     {
       "id": "Q239",
       "topic": 8,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Validez interna: capacidad de descartar explicaciones alternativas.»?",
       "options": [
         {
           "key": "B",
@@ -5994,7 +5994,7 @@
     {
       "id": "Q240",
       "topic": 8,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Validez interna: capacidad de descartar explicaciones alternativas.»?",
       "options": [
         {
           "key": "B",
@@ -6094,7 +6094,7 @@
     {
       "id": "Q244",
       "topic": 9,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Permite analizar si las variables independientes interactúan entre sí.»?",
       "options": [
         {
           "key": "C",
@@ -6119,7 +6119,7 @@
     {
       "id": "Q245",
       "topic": 9,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Permite analizar si las variables independientes interactúan entre sí.»?",
       "options": [
         {
           "key": "C",
@@ -6144,7 +6144,7 @@
     {
       "id": "Q246",
       "topic": 9,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Permite analizar si las variables independientes interactúan entre sí.»?",
       "options": [
         {
           "key": "C",
@@ -6244,7 +6244,7 @@
     {
       "id": "Q250",
       "topic": 9,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Si las líneas son paralelas... no hay interacción.»?",
       "options": [
         {
           "key": "B",
@@ -6269,7 +6269,7 @@
     {
       "id": "Q251",
       "topic": 9,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Si las líneas son paralelas... no hay interacción.»?",
       "options": [
         {
           "key": "A",
@@ -6294,7 +6294,7 @@
     {
       "id": "Q252",
       "topic": 9,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Si las líneas son paralelas... no hay interacción.»?",
       "options": [
         {
           "key": "A",
@@ -6394,7 +6394,7 @@
     {
       "id": "Q256",
       "topic": 9,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Si los efectos simples son contradictorios, no se debe interpretar el efecto principal.»?",
       "options": [
         {
           "key": "A",
@@ -6419,7 +6419,7 @@
     {
       "id": "Q257",
       "topic": 9,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Si los efectos simples son contradictorios, no se debe interpretar el efecto principal.»?",
       "options": [
         {
           "key": "A",
@@ -6444,7 +6444,7 @@
     {
       "id": "Q258",
       "topic": 9,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Si los efectos simples son contradictorios, no se debe interpretar el efecto principal.»?",
       "options": [
         {
           "key": "A",
@@ -6544,7 +6544,7 @@
     {
       "id": "Q262",
       "topic": 9,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Efecto techo: tarea tan fácil que casi todos obtienen la puntuación máxima.»?",
       "options": [
         {
           "key": "C",
@@ -6569,7 +6569,7 @@
     {
       "id": "Q263",
       "topic": 9,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Efecto techo: tarea tan fácil que casi todos obtienen la puntuación máxima.»?",
       "options": [
         {
           "key": "C",
@@ -6594,7 +6594,7 @@
     {
       "id": "Q264",
       "topic": 9,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Efecto techo: tarea tan fácil que casi todos obtienen la puntuación máxima.»?",
       "options": [
         {
           "key": "B",
@@ -6694,7 +6694,7 @@
     {
       "id": "Q268",
       "topic": 9,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Cuantos más niveles y variables, mayor exigencia metodológica y complejidad.»?",
       "options": [
         {
           "key": "A",
@@ -6719,7 +6719,7 @@
     {
       "id": "Q269",
       "topic": 9,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Cuantos más niveles y variables, mayor exigencia metodológica y complejidad.»?",
       "options": [
         {
           "key": "A",
@@ -6744,7 +6744,7 @@
     {
       "id": "Q270",
       "topic": 9,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Cuantos más niveles y variables, mayor exigencia metodológica y complejidad.»?",
       "options": [
         {
           "key": "A",
@@ -6844,7 +6844,7 @@
     {
       "id": "Q274",
       "topic": 10,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «No se considera experimentación verdadera cuando los niveles de la VI no son manipulados.»?",
       "options": [
         {
           "key": "A",
@@ -6869,7 +6869,7 @@
     {
       "id": "Q275",
       "topic": 10,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «No se considera experimentación verdadera cuando los niveles de la VI no son manipulados.»?",
       "options": [
         {
           "key": "B",
@@ -6894,7 +6894,7 @@
     {
       "id": "Q276",
       "topic": 10,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «No se considera experimentación verdadera cuando los niveles de la VI no son manipulados.»?",
       "options": [
         {
           "key": "B",
@@ -6994,7 +6994,7 @@
     {
       "id": "Q280",
       "topic": 10,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Permiten mejor generalización a contextos naturales, aunque con menor control causal.»?",
       "options": [
         {
           "key": "A",
@@ -7019,7 +7019,7 @@
     {
       "id": "Q281",
       "topic": 10,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Permiten mejor generalización a contextos naturales, aunque con menor control causal.»?",
       "options": [
         {
           "key": "A",
@@ -7044,7 +7044,7 @@
     {
       "id": "Q282",
       "topic": 10,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Permiten mejor generalización a contextos naturales, aunque con menor control causal.»?",
       "options": [
         {
           "key": "A",
@@ -7144,7 +7144,7 @@
     {
       "id": "Q286",
       "topic": 10,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «No se puede asegurar causalidad... historia, maduración y otras variables externas.»?",
       "options": [
         {
           "key": "A",
@@ -7169,7 +7169,7 @@
     {
       "id": "Q287",
       "topic": 10,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «No se puede asegurar causalidad... historia, maduración y otras variables externas.»?",
       "options": [
         {
           "key": "A",
@@ -7194,7 +7194,7 @@
     {
       "id": "Q288",
       "topic": 10,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «No se puede asegurar causalidad... historia, maduración y otras variables externas.»?",
       "options": [
         {
           "key": "C",
@@ -7294,7 +7294,7 @@
     {
       "id": "Q292",
       "topic": 10,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «No existe pretest... puede deberse a diferencias previas (sesgo de selección).»?",
       "options": [
         {
           "key": "C",
@@ -7319,7 +7319,7 @@
     {
       "id": "Q293",
       "topic": 10,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «No existe pretest... puede deberse a diferencias previas (sesgo de selección).»?",
       "options": [
         {
           "key": "C",
@@ -7344,7 +7344,7 @@
     {
       "id": "Q294",
       "topic": 10,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «No existe pretest... puede deberse a diferencias previas (sesgo de selección).»?",
       "options": [
         {
           "key": "C",
@@ -7444,7 +7444,7 @@
     {
       "id": "Q298",
       "topic": 10,
-      "prompt": "¿Cuál de las siguientes opciones refleja mejor el apartado sobre este punto?",
+      "prompt": "¿Cuál de las siguientes opciones resume mejor la idea de este fragmento: «Consisten en observaciones repetidas antes y después para analizar cambio en tendencia.»?",
       "options": [
         {
           "key": "A",
@@ -7469,7 +7469,7 @@
     {
       "id": "Q299",
       "topic": 10,
-      "prompt": "¿Qué afirmación coincide con lo explicado en este fragmento de los apuntes?",
+      "prompt": "¿Qué afirmación se ajusta mejor a este fragmento: «Consisten en observaciones repetidas antes y después para analizar cambio en tendencia.»?",
       "options": [
         {
           "key": "A",
@@ -7494,7 +7494,7 @@
     {
       "id": "Q300",
       "topic": 10,
-      "prompt": "¿Qué respuesta encaja mejor con la idea central del tema?",
+      "prompt": "¿Qué idea expresa mejor este fragmento de los apuntes: «Consisten en observaciones repetidas antes y después para analizar cambio en tendencia.»?",
       "options": [
         {
           "key": "A",
