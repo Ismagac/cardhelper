@@ -107,7 +107,7 @@ function App() {
     if (examQuestions.length === 0) return
     if (examAnsweredCount !== examQuestions.length) return
 
-    setLoveEgg({ message: 'Te quiero mucho' })
+    setLoveEgg({ message: 'Te quieroooo' })
     setExamLoveEggShown(true)
   }, [examAnsweredCount, examLoveEggShown, examQuestions.length, examSubmitted])
 
@@ -202,7 +202,7 @@ function App() {
       setPracticeStreak((current) => {
         const nextStreak = current + 1
         if (nextStreak >= 5 && nextStreak % 5 === 0 && lastPracticeEggStreak !== nextStreak) {
-          setLoveEgg({ message: 'Te quiero mucho' })
+          setLoveEgg({ message: 'Te quieroooo' })
           setLastPracticeEggStreak(nextStreak)
         }
         return nextStreak
@@ -571,7 +571,7 @@ function App() {
               <div className="relative text-7xl leading-none drop-shadow-lg animate-bounce">💗</div>
             </div>
             <h2 className="mt-4 text-3xl font-black tracking-tight text-slate-900">{loveEgg.message}</h2>
-            <p className="mt-2 text-base text-slate-700">Buen trabajo, sigue así.</p>
+            <p className="mt-2 text-base text-slate-700">jagger jagger jagger jaasajsa</p>
             <button
               className="mt-5 rounded-xl bg-cyan-500 px-4 py-2 font-semibold text-white transition hover:bg-cyan-400"
               onClick={() => setLoveEgg(null)}
